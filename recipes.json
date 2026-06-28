@@ -1,3 +1,29 @@
 {
-  "recipes": []
+  "recipes": [
+    {
+      "id": "recipe_1782676651003_ew9qr",
+      "name": "Test recipe",
+      "from": "Me",
+      "image": "img_1782676645486_vv09l",
+      "prep_time": 0,
+      "cook_time": 0,
+      "servings": 1,
+      "tags": [],
+      "ratings": {
+        "ben": 0,
+        "elli": 0
+      },
+      "ingredients": [],
+      "instructions": [
+        {
+          "text": "Yummy",
+          "ingredient_links": []
+        }
+      ],
+      "comments": [],
+      "created_at": "2026-06-28T19:57:30.999Z",
+      "updated_at": "2026-06-28T19:57:30.999Z"
+    }
+  ],
+  "images": {}
 }
