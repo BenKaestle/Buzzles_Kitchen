@@ -47,6 +47,96 @@
       "comments": [],
       "created_at": "2026-06-28T19:57:30.999Z",
       "updated_at": "2026-06-29T07:03:50.883Z"
+    },
+    {
+      "id": "recipe_1782837419501_v8k2m",
+      "name": "Quick Flatbread",
+      "from": "",
+      "image": "",
+      "prep_time": 10,
+      "cook_time": 15,
+      "servings": 6,
+      "tags": [
+        "Savory",
+        "Snack"
+      ],
+      "ratings": {
+        "ben": 0,
+        "elli": 0
+      },
+      "ingredients": [
+        {
+          "id": "ing_1782837419502_f1a9q",
+          "amount": "250",
+          "unit": "g",
+          "name": "Flour"
+        },
+        {
+          "id": "ing_1782837419503_k7m2x",
+          "amount": "150",
+          "unit": "g",
+          "name": "Low-fat quark"
+        },
+        {
+          "id": "ing_1782837419504_r4d8p",
+          "amount": "1",
+          "unit": "tsp",
+          "name": "Baking powder"
+        },
+        {
+          "id": "ing_1782837419505_j6n1v",
+          "amount": "1",
+          "unit": "pinch",
+          "name": "Salt"
+        },
+        {
+          "id": "ing_1782837419506_h3w5c",
+          "amount": "1",
+          "unit": "tbsp",
+          "name": "Olive oil"
+        },
+        {
+          "id": "ing_1782837419507_t9y2l",
+          "amount": "2",
+          "unit": "tbsp",
+          "name": "Wheat bran"
+        },
+        {
+          "id": "ing_1782837419508_b8q4n",
+          "amount": "3-4",
+          "unit": "tbsp",
+          "name": "Water"
+        }
+      ],
+      "instructions": [
+        {
+          "text": "Mix the flour, low-fat quark, baking powder, salt, olive oil, wheat bran, and water until a smooth dough forms.",
+          "ingredient_links": [
+            "ing_1782837419502_f1a9q",
+            "ing_1782837419503_k7m2x",
+            "ing_1782837419504_r4d8p",
+            "ing_1782837419505_j6n1v",
+            "ing_1782837419506_h3w5c",
+            "ing_1782837419507_t9y2l",
+            "ing_1782837419508_b8q4n"
+          ]
+        },
+        {
+          "text": "Divide the dough into about 6 equal portions.",
+          "ingredient_links": []
+        },
+        {
+          "text": "Flatten each portion to about 0.5 cm thick.",
+          "ingredient_links": []
+        },
+        {
+          "text": "Cook the flatbreads in a hot frying pan until golden brown on both sides.",
+          "ingredient_links": []
+        }
+      ],
+      "comments": [],
+      "created_at": "2026-06-29T00:00:00.000Z",
+      "updated_at": "2026-06-29T00:00:00.000Z"
     }
   ],
   "images": {}
