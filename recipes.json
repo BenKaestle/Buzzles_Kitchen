@@ -88,6 +88,112 @@
       "comments": [],
       "created_at": "2026-06-29T00:00:00.000Z",
       "updated_at": "2026-06-29T18:47:50.299Z"
+    },
+    {
+      "id": "recipe_1783645229147_h8qkm",
+      "name": "Creamy Chickpea & White Bean Curry",
+      "from": "",
+      "image": "",
+      "prep_time": 10,
+      "cook_time": 15,
+      "servings": 4,
+      "tags": [
+        "Savory",
+        "Meal Prep"
+      ],
+      "ratings": {
+        "ben": 0,
+        "elli": 0
+      },
+      "ingredients": [
+        {
+          "id": "ing_1783645229147_01",
+          "amount": "2",
+          "unit": "",
+          "name": "Small spring onions"
+        },
+        {
+          "id": "ing_1783645229147_02",
+          "amount": "1",
+          "unit": "pack",
+          "name": "Chopped or strained tomatoes"
+        },
+        {
+          "id": "ing_1783645229147_03",
+          "amount": "to taste",
+          "unit": "",
+          "name": "Curry spices"
+        },
+        {
+          "id": "ing_1783645229147_04",
+          "amount": "1",
+          "unit": "tbsp",
+          "name": "Peanut butter"
+        },
+        {
+          "id": "ing_1783645229147_05",
+          "amount": "1",
+          "unit": "can",
+          "name": "Chickpeas"
+        },
+        {
+          "id": "ing_1783645229147_06",
+          "amount": "1",
+          "unit": "can",
+          "name": "Large white beans"
+        },
+        {
+          "id": "ing_1783645229147_07",
+          "amount": "100",
+          "unit": "ml",
+          "name": "Heavy cream"
+        },
+        {
+          "id": "ing_1783645229147_08",
+          "amount": "1",
+          "unit": "",
+          "name": "Flatbread"
+        }
+      ],
+      "instructions": [
+        {
+          "text": "Finely chop the spring onions.",
+          "ingredient_links": [
+            "ing_1783645229147_01"
+          ]
+        },
+        {
+          "text": "Blend the spring onions, chopped or strained tomatoes, curry spices, and peanut butter into a smooth sauce.",
+          "ingredient_links": [
+            "ing_1783645229147_01",
+            "ing_1783645229147_02",
+            "ing_1783645229147_03",
+            "ing_1783645229147_04"
+          ]
+        },
+        {
+          "text": "Pour the sauce into a pan and add the chickpeas and large white beans.",
+          "ingredient_links": [
+            "ing_1783645229147_05",
+            "ing_1783645229147_06"
+          ]
+        },
+        {
+          "text": "Stir in the heavy cream and bring everything to a boil.",
+          "ingredient_links": [
+            "ing_1783645229147_07"
+          ]
+        },
+        {
+          "text": "Serve hot with flatbread.",
+          "ingredient_links": [
+            "ing_1783645229147_08"
+          ]
+        }
+      ],
+      "comments": [],
+      "created_at": "2026-07-03T13:00:29.147Z",
+      "updated_at": "2026-07-03T13:00:29.147Z"
     }
   ],
   "images": {}
