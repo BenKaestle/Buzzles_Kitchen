@@ -92,8 +92,7 @@
     {
       "id": "recipe_1783645229147_h8qkm",
       "name": "Creamy Chickpea & White Bean Curry",
-      "from": "",
-      "image": "",
+      "image": null,
       "prep_time": 10,
       "cook_time": 15,
       "servings": 4,
@@ -110,7 +109,7 @@
           "id": "ing_1783645229147_01",
           "amount": "2",
           "unit": "",
-          "name": "Small spring onions"
+          "name": "spring onions"
         },
         {
           "id": "ing_1783645229147_02",
@@ -193,7 +192,7 @@
       ],
       "comments": [],
       "created_at": "2026-07-03T13:00:29.147Z",
-      "updated_at": "2026-07-03T13:00:29.147Z"
+      "updated_at": "2026-07-03T10:44:54.768Z"
     }
   ],
   "images": {}
