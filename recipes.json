@@ -193,6 +193,63 @@
       "comments": [],
       "created_at": "2026-07-03T13:00:29.147Z",
       "updated_at": "2026-07-03T10:44:54.768Z"
+    },
+    {
+      "id": "recipe_1783179054322_f91iq",
+      "name": "Schwäbische Schorle",
+      "from": "Hung",
+      "image": null,
+      "prep_time": 1,
+      "cook_time": 0,
+      "servings": 1,
+      "tags": [
+        "For Hot Days",
+        "Fancy",
+        "Expensive"
+      ],
+      "ratings": {
+        "ben": 0,
+        "elli": 0
+      },
+      "ingredients": [
+        {
+          "id": "ing_1783178746920_jby2d",
+          "amount": "125",
+          "unit": "ml",
+          "name": "Tap water"
+        },
+        {
+          "id": "ing_1783178801869_mk5g9",
+          "amount": "125",
+          "unit": "ml",
+          "name": "Sparkly water"
+        }
+      ],
+      "instructions": [
+        {
+          "text": "Take 1 empty glass from the cupboard",
+          "ingredient_links": []
+        },
+        {
+          "text": "Fill it with Sparkly water",
+          "ingredient_links": [
+            "ing_1783178801869_mk5g9"
+          ]
+        },
+        {
+          "text": "Top it up with Tap water",
+          "ingredient_links": [
+            "ing_1783178746920_jby2d"
+          ]
+        },
+        {
+          "text": "Enjoy a fresh Schwäbische Schorle: Erfrischend, billig, ... ahhh bekömmlich!",
+          "ingredient_links": []
+        }
+      ],
+      "comments": [],
+      "created_at": "2026-07-04T15:30:54.318Z",
+      "updated_at": "2026-07-04T15:30:54.318Z"
     }
   ],
   "images": {}
