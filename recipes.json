@@ -198,7 +198,7 @@
       "id": "recipe_1783179054322_f91iq",
       "name": "Schwäbische Schorle",
       "from": "Hung",
-      "image": null,
+      "image": "img_1783187032471_iqipd",
       "prep_time": 1,
       "cook_time": 0,
       "servings": 1,
@@ -249,7 +249,7 @@
       ],
       "comments": [],
       "created_at": "2026-07-04T15:30:54.318Z",
-      "updated_at": "2026-07-04T15:30:54.318Z"
+      "updated_at": "2026-07-04T17:43:55.313Z"
     }
   ],
   "images": {}
