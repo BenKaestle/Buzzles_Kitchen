@@ -250,7 +250,3967 @@
       "comments": [],
       "created_at": "2026-07-04T15:30:54.318Z",
       "updated_at": "2026-07-04T17:43:55.313Z"
+    },
+    {
+  "id": "recipe_1783645486321_k7mzd",
+  "name": "Pizza Dough",
+  "from": "",
+  "image": "",
+  "prep_time": 60,
+  "cook_time": 0,
+  "servings": 10,
+  "tags": [
+    "Savory",
+    "Meal Prep"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783645486321_01",
+      "amount": "300",
+      "unit": "ml",
+      "name": "Water (for poolish)"
+    },
+    {
+      "id": "ing_1783645486321_02",
+      "amount": "300",
+      "unit": "g",
+      "name": "Flour (for poolish)"
+    },
+    {
+      "id": "ing_1783645486321_03",
+      "amount": "5",
+      "unit": "g",
+      "name": "Dry yeast"
+    },
+    {
+      "id": "ing_1783645486321_04",
+      "amount": "5",
+      "unit": "g",
+      "name": "Honey"
+    },
+    {
+      "id": "ing_1783645486321_05",
+      "amount": "700",
+      "unit": "ml",
+      "name": "Water"
+    },
+    {
+      "id": "ing_1783645486321_06",
+      "amount": "1250",
+      "unit": "g",
+      "name": "Flour"
+    },
+    {
+      "id": "ing_1783645486321_07",
+      "amount": "40",
+      "unit": "g",
+      "name": "Salt"
     }
+  ],
+  "instructions": [
+    {
+      "text": "The day before, prepare the poolish by mixing the water, flour, dry yeast, and honey. Cover and let it rest overnight at room temperature.",
+      "ingredient_links": [
+        "ing_1783645486321_01",
+        "ing_1783645486321_02",
+        "ing_1783645486321_03",
+        "ing_1783645486321_04"
+      ]
+    },
+    {
+      "text": "Mix the finished poolish with the remaining water.",
+      "ingredient_links": [
+        "ing_1783645486321_05"
+      ]
+    },
+    {
+      "text": "Add the flour and salt and mix until no dry flour remains.",
+      "ingredient_links": [
+        "ing_1783645486321_06",
+        "ing_1783645486321_07"
+      ]
+    },
+    {
+      "text": "Let the dough rest for 15 minutes.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Transfer the dough to a work surface and knead it into a smooth ball.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Cover the dough and let it rest for 30 to 60 minutes.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Divide the dough into 10 equal portions and shape each into a tight dough ball.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Let the dough balls proof for 2 hours before stretching and baking.",
+      "ingredient_links": []
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-03T13:04:46.321Z",
+  "updated_at": "2026-07-03T13:04:46.321Z"
+},
+    {
+  "id": "recipe_1783645739184_n4xqh",
+  "name": "Apple Sauce Cake",
+  "from": "",
+  "image": "",
+  "prep_time": 30,
+  "cook_time": 30,
+  "servings": 12,
+  "tags": [
+    "Sweet",
+    "Dessert",
+    "Meal Prep"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783645739184_01",
+      "amount": "500",
+      "unit": "g",
+      "name": "Flour"
+    },
+    {
+      "id": "ing_1783645739184_02",
+      "amount": "250",
+      "unit": "g",
+      "name": "Sugar"
+    },
+    {
+      "id": "ing_1783645739184_03",
+      "amount": "1",
+      "unit": "pinch",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783645739184_04",
+      "amount": "1",
+      "unit": "packet",
+      "name": "Vanilla sugar"
+    },
+    {
+      "id": "ing_1783645739184_05",
+      "amount": "1",
+      "unit": "packet",
+      "name": "Baking powder"
+    },
+    {
+      "id": "ing_1783645739184_06",
+      "amount": "2",
+      "unit": "",
+      "name": "Eggs"
+    },
+    {
+      "id": "ing_1783645739184_07",
+      "amount": "250",
+      "unit": "g",
+      "name": "Butter"
+    },
+    {
+      "id": "ing_1783645739184_08",
+      "amount": "800",
+      "unit": "g",
+      "name": "Apple sauce"
+    },
+    {
+      "id": "ing_1783645739184_09",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Ground cinnamon"
+    },
+    {
+      "id": "ing_1783645739184_10",
+      "amount": "50",
+      "unit": "g",
+      "name": "Raisins"
+    },
+    {
+      "id": "ing_1783645739184_11",
+      "amount": "200",
+      "unit": "g",
+      "name": "Powdered sugar"
+    },
+    {
+      "id": "ing_1783645739184_12",
+      "amount": "as needed",
+      "unit": "",
+      "name": "Water"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Make a shortcrust pastry by mixing the flour, sugar, salt, vanilla sugar, baking powder, eggs, and butter. Divide the dough in half, wrap each half in plastic wrap, and chill for 30 minutes.",
+      "ingredient_links": [
+        "ing_1783645739184_01",
+        "ing_1783645739184_02",
+        "ing_1783645739184_03",
+        "ing_1783645739184_04",
+        "ing_1783645739184_05",
+        "ing_1783645739184_06",
+        "ing_1783645739184_07"
+      ]
+    },
+    {
+      "text": "Roll out the first half of the dough on baking paper and transfer it to a deep rectangular baking tray.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Mix the apple sauce with the ground cinnamon and raisins, then spread the mixture evenly over the dough.",
+      "ingredient_links": [
+        "ing_1783645739184_08",
+        "ing_1783645739184_09",
+        "ing_1783645739184_10"
+      ]
+    },
+    {
+      "text": "Roll out the second half of the dough, place it over the apple filling, and prick it several times with a fork.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Bake in a preheated oven at 180°C for 20–30 minutes until lightly golden. Remove from the oven and let the cake cool completely.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Mix the powdered sugar with enough water to make a thick icing and spread it evenly over the cooled cake.",
+      "ingredient_links": [
+        "ing_1783645739184_11",
+        "ing_1783645739184_12"
+      ]
+    },
+    {
+      "text": "For the best flavor and texture, refrigerate the cake overnight before serving.",
+      "ingredient_links": []
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-03T13:08:59.184Z",
+  "updated_at": "2026-07-03T13:08:59.184Z"
+},
+    {
+  "id": "recipe_1783646012478_c9vnm",
+  "name": "Cardamom Bombs",
+  "from": "",
+  "image": "",
+  "prep_time": 30,
+  "cook_time": 30,
+  "servings": 48,
+  "tags": [
+    "Sweet",
+    "Snack",
+    "Dessert"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783646012478_01",
+      "amount": "225",
+      "unit": "g",
+      "name": "Butter"
+    },
+    {
+      "id": "ing_1783646012478_02",
+      "amount": "150",
+      "unit": "g",
+      "name": "Granulated sugar"
+    },
+    {
+      "id": "ing_1783646012478_03",
+      "amount": "1",
+      "unit": "",
+      "name": "Egg yolk"
+    },
+    {
+      "id": "ing_1783646012478_04",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Vanilla extract"
+    },
+    {
+      "id": "ing_1783646012478_05",
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "Ground cardamom"
+    },
+    {
+      "id": "ing_1783646012478_06",
+      "amount": "240",
+      "unit": "g",
+      "name": "All-purpose flour"
+    },
+    {
+      "id": "ing_1783646012478_07",
+      "amount": "120",
+      "unit": "g",
+      "name": "Powdered sugar"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Melt the butter in a heavy saucepan over medium heat. Continue cooking, stirring constantly, for 3–5 minutes until it turns golden brown. Immediately remove from the heat, transfer to a bowl, and refrigerate for 30 minutes until cooled.",
+      "ingredient_links": [
+        "ing_1783646012478_01"
+      ]
+    },
+    {
+      "text": "Preheat the oven to 175°C.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Beat the cooled browned butter with the granulated sugar until well combined. Add the egg yolk, vanilla extract, and ground cardamom, then mix until smooth. Gradually add the flour on low speed until a soft dough forms.",
+      "ingredient_links": [
+        "ing_1783646012478_01",
+        "ing_1783646012478_02",
+        "ing_1783646012478_03",
+        "ing_1783646012478_04",
+        "ing_1783646012478_05",
+        "ing_1783646012478_06"
+      ]
+    },
+    {
+      "text": "Shape the dough into 2.5 cm (1-inch) balls and place them about 2.5 cm apart on ungreased baking trays.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Bake for 10–12 minutes until the cookies puff up and are lightly golden with small cracks.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Transfer the cookies from the baking tray and let them cool for 1 minute. Roll them in the powdered sugar while still warm, then roll them again once completely cooled.",
+      "ingredient_links": [
+        "ing_1783646012478_07"
+      ]
+    },
+    {
+      "text": "Store the cookies between sheets of wax paper in a loosely covered container.",
+      "ingredient_links": []
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-03T13:13:32.478Z",
+  "updated_at": "2026-07-03T13:13:32.478Z"
+},
+    {
+  "id": "recipe_1783646325186_m7qxr",
+  "name": "Pumpkin Curry",
+  "from": "Mom",
+  "image": "",
+  "prep_time": 20,
+  "cook_time": 30,
+  "servings": 4,
+  "tags": [
+    "Savory",
+    "Meal Prep"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783646325186_01",
+      "amount": "500",
+      "unit": "g",
+      "name": "Pumpkin"
+    },
+    {
+      "id": "ing_1783646325186_02",
+      "amount": "1",
+      "unit": "",
+      "name": "Onion"
+    },
+    {
+      "id": "ing_1783646325186_03",
+      "amount": "2",
+      "unit": "cloves",
+      "name": "Garlic"
+    },
+    {
+      "id": "ing_1783646325186_04",
+      "amount": "2",
+      "unit": "",
+      "name": "Carrots"
+    },
+    {
+      "id": "ing_1783646325186_05",
+      "amount": "4",
+      "unit": "cm",
+      "name": "Fresh ginger"
+    },
+    {
+      "id": "ing_1783646325186_06",
+      "amount": "1",
+      "unit": "",
+      "name": "Eggplant"
+    },
+    {
+      "id": "ing_1783646325186_07",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Vegetable oil"
+    },
+    {
+      "id": "ing_1783646325186_08",
+      "amount": "1",
+      "unit": "handful",
+      "name": "Raisins"
+    },
+    {
+      "id": "ing_1783646325186_09",
+      "amount": "5",
+      "unit": "tsp",
+      "name": "Curry powder"
+    },
+    {
+      "id": "ing_1783646325186_10",
+      "amount": "400",
+      "unit": "g",
+      "name": "Chopped tomatoes"
+    },
+    {
+      "id": "ing_1783646325186_11",
+      "amount": "400",
+      "unit": "ml",
+      "name": "Coconut milk"
+    },
+    {
+      "id": "ing_1783646325186_12",
+      "amount": "100",
+      "unit": "g",
+      "name": "Frozen peas"
+    },
+    {
+      "id": "ing_1783646325186_13",
+      "amount": "1",
+      "unit": "handful",
+      "name": "Roasted cashew nuts"
+    },
+    {
+      "id": "ing_1783646325186_14",
+      "amount": "1",
+      "unit": "handful",
+      "name": "Fresh parsley"
+    },
+    {
+      "id": "ing_1783646325186_15",
+      "amount": "to taste",
+      "unit": "",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783646325186_16",
+      "amount": "to taste",
+      "unit": "",
+      "name": "Black pepper"
+    },
+    {
+      "id": "ing_1783646325186_17",
+      "amount": "to taste",
+      "unit": "",
+      "name": "Sugar"
+    },
+    {
+      "id": "ing_1783646325186_18",
+      "amount": "to taste",
+      "unit": "",
+      "name": "Lemon juice"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Wash the pumpkin, remove the seeds, and cut it into large cubes. Peel and chop the onion, garlic, carrots, and ginger. Wash and dice the eggplant.",
+      "ingredient_links": [
+        "ing_1783646325186_01",
+        "ing_1783646325186_02",
+        "ing_1783646325186_03",
+        "ing_1783646325186_04",
+        "ing_1783646325186_05",
+        "ing_1783646325186_06"
+      ]
+    },
+    {
+      "text": "Heat the vegetable oil in a large pot and sauté the onion until translucent. Add the pumpkin, carrots, eggplant, garlic, ginger, and raisins, then cook for several minutes.",
+      "ingredient_links": [
+        "ing_1783646325186_07",
+        "ing_1783646325186_02",
+        "ing_1783646325186_01",
+        "ing_1783646325186_04",
+        "ing_1783646325186_06",
+        "ing_1783646325186_03",
+        "ing_1783646325186_05",
+        "ing_1783646325186_08"
+      ]
+    },
+    {
+      "text": "Sprinkle in the curry powder and cook briefly until fragrant.",
+      "ingredient_links": [
+        "ing_1783646325186_09"
+      ]
+    },
+    {
+      "text": "Pour in the chopped tomatoes and coconut milk, season with salt, and simmer for 20 minutes.",
+      "ingredient_links": [
+        "ing_1783646325186_10",
+        "ing_1783646325186_11",
+        "ing_1783646325186_15"
+      ]
+    },
+    {
+      "text": "Season with salt, black pepper, sugar, and lemon juice to taste. Add the frozen peas and simmer for another 10 minutes.",
+      "ingredient_links": [
+        "ing_1783646325186_15",
+        "ing_1783646325186_16",
+        "ing_1783646325186_17",
+        "ing_1783646325186_18",
+        "ing_1783646325186_12"
+      ]
+    },
+    {
+      "text": "Serve garnished with roasted cashew nuts and chopped parsley.",
+      "ingredient_links": [
+        "ing_1783646325186_13",
+        "ing_1783646325186_14"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-03T13:18:45.186Z",
+  "updated_at": "2026-07-03T13:18:45.186Z"
+},
+    {
+  "id": "recipe_1783646659023_q1vzt",
+  "name": "Mini Burgers",
+  "from": "",
+  "image": "",
+  "prep_time": 40,
+  "cook_time": 20,
+  "servings": 10,
+  "tags": [
+    "Savory",
+    "Snack",
+    "Party Food"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783646659023_01",
+      "amount": "125",
+      "unit": "g",
+      "name": "Flour"
+    },
+    {
+      "id": "ing_1783646659023_02",
+      "amount": "50",
+      "unit": "ml",
+      "name": "Water"
+    },
+    {
+      "id": "ing_1783646659023_03",
+      "amount": "1/2",
+      "unit": "packet",
+      "name": "Yeast"
+    },
+    {
+      "id": "ing_1783646659023_04",
+      "amount": "17",
+      "unit": "g",
+      "name": "Margarine"
+    },
+    {
+      "id": "ing_1783646659023_05",
+      "amount": "to taste",
+      "unit": "",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783646659023_06",
+      "amount": "200",
+      "unit": "g",
+      "name": "Ground beef"
+    },
+    {
+      "id": "ing_1783646659023_07",
+      "amount": "1/2",
+      "unit": "",
+      "name": "Onion"
+    },
+    {
+      "id": "ing_1783646659023_08",
+      "amount": "to taste",
+      "unit": "",
+      "name": "Spices"
+    },
+    {
+      "id": "ing_1783646659023_09",
+      "amount": "as needed",
+      "unit": "",
+      "name": "Milk"
+    },
+    {
+      "id": "ing_1783646659023_10",
+      "amount": "as needed",
+      "unit": "",
+      "name": "Sesame seeds"
+    },
+    {
+      "id": "ing_1783646659023_11",
+      "amount": "as needed",
+      "unit": "",
+      "name": "Mushrooms"
+    },
+    {
+      "id": "ing_1783646659023_12",
+      "amount": "as needed",
+      "unit": "",
+      "name": "Cheese (e.g. Camembert)"
+    },
+    {
+      "id": "ing_1783646659023_13",
+      "amount": "as needed",
+      "unit": "",
+      "name": "Mayonnaise"
+    },
+    {
+      "id": "ing_1783646659023_14",
+      "amount": "as needed",
+      "unit": "",
+      "name": "Cream cheese"
+    },
+    {
+      "id": "ing_1783646659023_15",
+      "amount": "as needed",
+      "unit": "",
+      "name": "Lettuce"
+    },
+    {
+      "id": "ing_1783646659023_16",
+      "amount": "as needed",
+      "unit": "",
+      "name": "Tomatoes"
+    },
+    {
+      "id": "ing_1783646659023_17",
+      "amount": "as needed",
+      "unit": "",
+      "name": "Olives"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Mix flour, water, salt, margarine, and yeast to form a dough. Let it rise for 30 minutes.",
+      "ingredient_links": [
+        "ing_1783646659023_01",
+        "ing_1783646659023_02",
+        "ing_1783646659023_03",
+        "ing_1783646659023_04",
+        "ing_1783646659023_05"
+      ]
+    },
+    {
+      "text": "Shape the dough into 10 very flat buns and let them rise covered for 30 minutes.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Preheat oven to 180°C (fan). Brush buns with milk and sprinkle sesame seeds on top.",
+      "ingredient_links": [
+        "ing_1783646659023_09",
+        "ing_1783646659023_10"
+      ]
+    },
+    {
+      "text": "Bake the buns for about 12 minutes until lightly golden.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Pan-fry mushrooms briefly and set aside.",
+      "ingredient_links": [
+        "ing_1783646659023_11"
+      ]
+    },
+    {
+      "text": "Mix ground beef with half an onion and spices, then form very flat patties.",
+      "ingredient_links": [
+        "ing_1783646659023_06",
+        "ing_1783646659023_07",
+        "ing_1783646659023_08"
+      ]
+    },
+    {
+      "text": "Cook patties and add cheese after flipping.",
+      "ingredient_links": [
+        "ing_1783646659023_12"
+      ]
+    },
+    {
+      "text": "Assemble mini burgers with mayonnaise, cream cheese, lettuce, tomatoes, olives, mushrooms, and any other desired toppings.",
+      "ingredient_links": [
+        "ing_1783646659023_13",
+        "ing_1783646659023_14",
+        "ing_1783646659023_15",
+        "ing_1783646659023_16",
+        "ing_1783646659023_17"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-03T13:24:19.023Z",
+  "updated_at": "2026-07-03T13:24:19.023Z"
+},
+    {
+  "id": "recipe_1783646905521_vp8sd",
+  "name": "Tarte Tatin (Mini)",
+  "from": "",
+  "image": "",
+  "prep_time": 25,
+  "cook_time": 20,
+  "servings": 1,
+  "tags": [
+    "Sweet",
+    "Dessert"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783646905521_01",
+      "amount": "28",
+      "unit": "g",
+      "name": "Flour"
+    },
+    {
+      "id": "ing_1783646905521_02",
+      "amount": "27",
+      "unit": "g",
+      "name": "Powdered sugar"
+    },
+    {
+      "id": "ing_1783646905521_03",
+      "amount": "32",
+      "unit": "g",
+      "name": "Butter"
+    },
+    {
+      "id": "ing_1783646905521_04",
+      "amount": "1",
+      "unit": "",
+      "name": "Lemon (zest and juice)"
+    },
+    {
+      "id": "ing_1783646905521_05",
+      "amount": "1",
+      "unit": "pinch",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783646905521_06",
+      "amount": "1",
+      "unit": "",
+      "name": "Apple (about 100 g)"
+    },
+    {
+      "id": "ing_1783646905521_07",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Water"
+    },
+    {
+      "id": "ing_1783646905521_08",
+      "amount": "18",
+      "unit": "g",
+      "name": "Powdered sugar (for caramel)"
+    },
+    {
+      "id": "ing_1783646905521_09",
+      "amount": "18",
+      "unit": "g",
+      "name": "Butter (for caramel)"
+    },
+    {
+      "id": "ing_1783646905521_10",
+      "amount": "1",
+      "unit": "small splash",
+      "name": "Milk"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Mix flour, powdered sugar, lemon zest, salt, butter, and a small splash of milk to form a soft dough. Shape it to fit a small round baking form.",
+      "ingredient_links": [
+        "ing_1783646905521_01",
+        "ing_1783646905521_02",
+        "ing_1783646905521_03",
+        "ing_1783646905521_04",
+        "ing_1783646905521_05",
+        "ing_1783646905521_10"
+      ]
+    },
+    {
+      "text": "Preheat the oven to 160°C (fan).",
+      "ingredient_links": []
+    },
+    {
+      "text": "Peel and slice the apple, then drizzle with lemon juice.",
+      "ingredient_links": [
+        "ing_1783646905521_06",
+        "ing_1783646905521_04"
+      ]
+    },
+    {
+      "text": "In a pan, heat water and sugar until it foams and begins to caramelize. Add butter and stir quickly, then remove from heat before it burns.",
+      "ingredient_links": [
+        "ing_1783646905521_07",
+        "ing_1783646905521_08",
+        "ing_1783646905521_09"
+      ]
+    },
+    {
+      "text": "Add the apple slices to the caramel and cook briefly until slightly reduced.",
+      "ingredient_links": [
+        "ing_1783646905521_06"
+      ]
+    },
+    {
+      "text": "Transfer the caramelized apples into the baking form and press them down evenly.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Flatten the dough and place it over the apples, pressing it gently to cover the surface.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Bake for about 20 minutes until golden and set, then let cool before serving.",
+      "ingredient_links": []
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-03T13:28:25.521Z",
+  "updated_at": "2026-07-03T13:28:25.521Z"
+},
+    {
+  "id": "recipe_1783647489012_vn3qk",
+  "name": "Cheese Crackers (New Version)",
+  "from": "",
+  "image": "",
+  "prep_time": 20,
+  "cook_time": 15,
+  "servings": 6,
+  "tags": [
+    "Snack",
+    "Savory",
+    "Party Food"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783647489012_01",
+      "amount": "120",
+      "unit": "g",
+      "name": "Cheese (any type or mix)"
+    },
+    {
+      "id": "ing_1783647489012_02",
+      "amount": "60",
+      "unit": "g",
+      "name": "Flour"
+    },
+    {
+      "id": "ing_1783647489012_03",
+      "amount": "to taste",
+      "unit": "",
+      "name": "MSG"
+    },
+    {
+      "id": "ing_1783647489012_04",
+      "amount": "to taste",
+      "unit": "",
+      "name": "Black pepper"
+    },
+    {
+      "id": "ing_1783647489012_05",
+      "amount": "to taste",
+      "unit": "",
+      "name": "Paprika powder"
+    },
+    {
+      "id": "ing_1783647489012_06",
+      "amount": "to taste",
+      "unit": "",
+      "name": "Curry powder"
+    },
+    {
+      "id": "ing_1783647489012_07",
+      "amount": "to taste",
+      "unit": "",
+      "name": "Ginger"
+    },
+    {
+      "id": "ing_1783647489012_08",
+      "amount": "to taste",
+      "unit": "",
+      "name": "Garlic powder"
+    },
+    {
+      "id": "ing_1783647489012_09",
+      "amount": "to taste",
+      "unit": "",
+      "name": "Chili powder"
+    },
+    {
+      "id": "ing_1783647489012_10",
+      "amount": "as needed",
+      "unit": "",
+      "name": "Water"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 160°C (fan).",
+      "ingredient_links": []
+    },
+    {
+      "text": "Blend cheese, flour, and all spices together until no large cheese pieces remain.",
+      "ingredient_links": [
+        "ing_1783647489012_01",
+        "ing_1783647489012_02",
+        "ing_1783647489012_03",
+        "ing_1783647489012_04",
+        "ing_1783647489012_05",
+        "ing_1783647489012_06",
+        "ing_1783647489012_07",
+        "ing_1783647489012_08",
+        "ing_1783647489012_09"
+      ]
+    },
+    {
+      "text": "Add water gradually until a dough forms.",
+      "ingredient_links": [
+        "ing_1783647489012_10"
+      ]
+    },
+    {
+      "text": "Roll out the dough between baking paper to about half a sheet size, not too thin.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Bake at 160°C fan for about 5 minutes.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Remove from oven, cut into pieces with a pizza cutter, and poke a hole in each piece.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Bake again at 180°C fan until fully crisp, about 10 minutes.",
+      "ingredient_links": []
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-03T13:38:09.012Z",
+  "updated_at": "2026-07-03T13:38:09.012Z"
+},
+    {
+  "id": "recipe_1783647754098_ck7qv",
+  "name": "Brown Butter Chocolate Cookies",
+  "from": "",
+  "image": "",
+  "prep_time": 25,
+  "cook_time": 15,
+  "servings": 18,
+  "tags": [
+    "Sweet",
+    "Dessert",
+    "Snack"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783647754098_01",
+      "amount": "200",
+      "unit": "g",
+      "name": "Butter"
+    },
+    {
+      "id": "ing_1783647754098_02",
+      "amount": "250",
+      "unit": "g",
+      "name": "Brown sugar"
+    },
+    {
+      "id": "ing_1783647754098_03",
+      "amount": "75",
+      "unit": "g",
+      "name": "White sugar"
+    },
+    {
+      "id": "ing_1783647754098_04",
+      "amount": "2",
+      "unit": "",
+      "name": "Eggs"
+    },
+    {
+      "id": "ing_1783647754098_05",
+      "amount": "320",
+      "unit": "g",
+      "name": "Flour"
+    },
+    {
+      "id": "ing_1783647754098_06",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Baking powder"
+    },
+    {
+      "id": "ing_1783647754098_07",
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "Baking soda"
+    },
+    {
+      "id": "ing_1783647754098_08",
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783647754098_09",
+      "amount": "200",
+      "unit": "g",
+      "name": "Chocolate (mixed dark types)"
+    },
+    {
+      "id": "ing_1783647754098_10",
+      "amount": "70",
+      "unit": "g",
+      "name": "Nuts"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Brown the butter in a pan until golden, making sure not to burn the small solids, then let it cool.",
+      "ingredient_links": [
+        "ing_1783647754098_01"
+      ]
+    },
+    {
+      "text": "Mix brown sugar and white sugar until fine and well combined.",
+      "ingredient_links": [
+        "ing_1783647754098_02",
+        "ing_1783647754098_03"
+      ]
+    },
+    {
+      "text": "Add the cooled brown butter and eggs, then mix until smooth.",
+      "ingredient_links": [
+        "ing_1783647754098_01",
+        "ing_1783647754098_04"
+      ]
+    },
+    {
+      "text": "Add flour, baking powder, baking soda, and salt, then mix until a dough forms.",
+      "ingredient_links": [
+        "ing_1783647754098_05",
+        "ing_1783647754098_06",
+        "ing_1783647754098_07",
+        "ing_1783647754098_08"
+      ]
+    },
+    {
+      "text": "Fold in chocolate and nuts.",
+      "ingredient_links": [
+        "ing_1783647754098_09",
+        "ing_1783647754098_10"
+      ]
+    },
+    {
+      "text": "Shape into 80 g dough balls and chill in the fridge.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Bake at 190°C for about 15 minutes until golden and slightly underbaked in the center.",
+      "ingredient_links": []
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-03T13:42:34.098Z",
+  "updated_at": "2026-07-03T13:42:34.098Z"
+},
+    {
+  "id": "recipe_1783648049136_vn2qk",
+  "name": "Strawberry Vanilla Buttercream",
+  "from": "",
+  "image": "",
+  "prep_time": 20,
+  "cook_time": 10,
+  "servings": 1,
+  "tags": [
+    "Sweet",
+    "Dessert"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783648049136_01",
+      "amount": "500",
+      "unit": "g",
+      "name": "Strawberries"
+    },
+    {
+      "id": "ing_1783648049136_02",
+      "amount": "300",
+      "unit": "g",
+      "name": "Butter"
+    },
+    {
+      "id": "ing_1783648049136_03",
+      "amount": "100",
+      "unit": "g",
+      "name": "Sugar"
+    },
+    {
+      "id": "ing_1783648049136_04",
+      "amount": "1",
+      "unit": "packet",
+      "name": "Vanilla pudding powder"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Puree the strawberries until smooth and measure out about 500 ml of puree.",
+      "ingredient_links": [
+        "ing_1783648049136_01"
+      ]
+    },
+    {
+      "text": "Mix a small portion of the strawberry puree with sugar and vanilla pudding powder. Bring the remaining puree to a boil, then remove from heat and stir in the pudding mixture. Boil briefly while stirring until thickened.",
+      "ingredient_links": [
+        "ing_1783648049136_01",
+        "ing_1783648049136_03",
+        "ing_1783648049136_04"
+      ]
+    },
+    {
+      "text": "Let the strawberry pudding cool completely to room temperature.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Beat the softened butter until creamy, then gradually add the cooled pudding one spoon at a time, mixing well after each addition.",
+      "ingredient_links": [
+        "ing_1783648049136_02"
+      ]
+    },
+    {
+      "text": "Use the buttercream for filling and decorating cakes.",
+      "ingredient_links": []
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-03T13:47:29.136Z",
+  "updated_at": "2026-07-03T13:47:29.136Z"
+},
+    {
+  "id": "recipe_1783648357720_xq1mv",
+  "name": "Strawberry Pattern Cake Roll",
+  "from": "",
+  "image": "",
+  "prep_time": 120,
+  "cook_time": 10,
+  "servings": 10,
+  "tags": [
+    "Sweet",
+    "Dessert",
+    "Fancy"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783648357720_01",
+      "amount": "30",
+      "unit": "g",
+      "name": "Butter"
+    },
+    {
+      "id": "ing_1783648357720_02",
+      "amount": "30",
+      "unit": "g",
+      "name": "Sugar (for design paste)"
+    },
+    {
+      "id": "ing_1783648357720_03",
+      "amount": "40",
+      "unit": "g",
+      "name": "Cake flour (for design paste)"
+    },
+    {
+      "id": "ing_1783648357720_04",
+      "amount": "1",
+      "unit": "",
+      "name": "Egg white (design paste)"
+    },
+    {
+      "id": "ing_1783648357720_05",
+      "amount": "3",
+      "unit": "",
+      "name": "Eggs (separated)"
+    },
+    {
+      "id": "ing_1783648357720_06",
+      "amount": "75",
+      "unit": "g",
+      "name": "Sugar"
+    },
+    {
+      "id": "ing_1783648357720_07",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Vegetable oil"
+    },
+    {
+      "id": "ing_1783648357720_08",
+      "amount": "23",
+      "unit": "g",
+      "name": "Milk"
+    },
+    {
+      "id": "ing_1783648357720_09",
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "Almond extract"
+    },
+    {
+      "id": "ing_1783648357720_10",
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783648357720_11",
+      "amount": "67",
+      "unit": "g",
+      "name": "Cake flour"
+    },
+    {
+      "id": "ing_1783648357720_12",
+      "amount": "240",
+      "unit": "g",
+      "name": "Heavy whipping cream"
+    },
+    {
+      "id": "ing_1783648357720_13",
+      "amount": "14",
+      "unit": "g",
+      "name": "Freeze-dried strawberries"
+    },
+    {
+      "id": "ing_1783648357720_14",
+      "amount": "38",
+      "unit": "g",
+      "name": "Sugar (filling)"
+    },
+    {
+      "id": "ing_1783648357720_15",
+      "amount": "8",
+      "unit": "g",
+      "name": "Powdered sugar"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 175°C. Prepare a jelly roll pan with parchment paper.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Make the design paste by mixing butter and sugar, then adding flour and egg white until smooth. Divide and color as desired.",
+      "ingredient_links": [
+        "ing_1783648357720_01",
+        "ing_1783648357720_02",
+        "ing_1783648357720_03",
+        "ing_1783648357720_04"
+      ]
+    },
+    {
+      "text": "Pipe the design onto parchment and freeze to set.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Whisk egg yolks with sugar, then add oil, milk, almond extract, salt, and flour to form batter.",
+      "ingredient_links": [
+        "ing_1783648357720_05",
+        "ing_1783648357720_06",
+        "ing_1783648357720_07",
+        "ing_1783648357720_08",
+        "ing_1783648357720_09",
+        "ing_1783648357720_10",
+        "ing_1783648357720_11"
+      ]
+    },
+    {
+      "text": "Beat egg whites to medium-stiff peaks and gently fold into batter.",
+      "ingredient_links": [
+        "ing_1783648357720_05"
+      ]
+    },
+    {
+      "text": "Pour batter over frozen design and bake for about 10 minutes until springy.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Invert cake onto parchment, remove backing, dust with sugar, and roll while warm. Let cool completely.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Prepare filling by whipping cream and mixing with strawberry sugar and gelatin mixture.",
+      "ingredient_links": [
+        "ing_1783648357720_12",
+        "ing_1783648357720_13",
+        "ing_1783648357720_14"
+      ]
+    },
+    {
+      "text": "Unroll cake, spread filling evenly, then roll tightly and refrigerate until set.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Slice with a serrated knife and serve.",
+      "ingredient_links": []
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-03T13:50:57.720Z",
+  "updated_at": "2026-07-03T13:50:57.720Z"
+},
+    {
+  "id": "recipe_1783648702331_lm8qz",
+  "name": "Lemon Curd Cream",
+  "from": "",
+  "image": "",
+  "prep_time": 15,
+  "cook_time": 15,
+  "servings": 10,
+  "tags": [
+    "Sweet",
+    "Dessert"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783648702331_01",
+      "amount": "450",
+      "unit": "ml",
+      "name": "Lemon juice"
+    },
+    {
+      "id": "ing_1783648702331_02",
+      "amount": "500",
+      "unit": "g",
+      "name": "Powdered sugar"
+    },
+    {
+      "id": "ing_1783648702331_03",
+      "amount": "5",
+      "unit": "bags",
+      "name": "Vanilla sugar"
+    },
+    {
+      "id": "ing_1783648702331_04",
+      "amount": "50",
+      "unit": "g",
+      "name": "Starch"
+    },
+    {
+      "id": "ing_1783648702331_05",
+      "amount": "250",
+      "unit": "g",
+      "name": "Butter or margarine"
+    },
+    {
+      "id": "ing_1783648702331_06",
+      "amount": "250",
+      "unit": "ml",
+      "name": "Heavy cream"
+    },
+    {
+      "id": "ing_1783648702331_07",
+      "amount": "6",
+      "unit": "",
+      "name": "Lemons (zest)"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Scoop out 100 ml of lemon juice and mix it with starch. Set aside.",
+      "ingredient_links": [
+        "ing_1783648702331_01",
+        "ing_1783648702331_04"
+      ]
+    },
+    {
+      "text": "Bring the remaining lemon juice, powdered sugar, and vanilla sugar to a boil, then simmer for 3 minutes.",
+      "ingredient_links": [
+        "ing_1783648702331_01",
+        "ing_1783648702331_02",
+        "ing_1783648702331_03"
+      ]
+    },
+    {
+      "text": "Add butter or margarine, cream, and lemon zest, then simmer for another 3 minutes.",
+      "ingredient_links": [
+        "ing_1783648702331_05",
+        "ing_1783648702331_06",
+        "ing_1783648702331_07"
+      ]
+    },
+    {
+      "text": "Stir in the starch mixture and bring to a boil for 1 minute until thickened.",
+      "ingredient_links": [
+        "ing_1783648702331_04"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-03T13:58:22.331Z",
+  "updated_at": "2026-07-03T13:58:22.331Z"
+},
+    {
+  "id": "recipe_1783648991182_cn7xq",
+  "name": "Cantuccini",
+  "from": "",
+  "image": "",
+  "prep_time": 20,
+  "cook_time": 25,
+  "servings": 25,
+  "tags": [
+    "Sweet",
+    "Dessert",
+    "Snack"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783648991182_01",
+      "amount": "250",
+      "unit": "g",
+      "name": "Flour"
+    },
+    {
+      "id": "ing_1783648991182_02",
+      "amount": "180",
+      "unit": "g",
+      "name": "Sugar"
+    },
+    {
+      "id": "ing_1783648991182_03",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Baking powder"
+    },
+    {
+      "id": "ing_1783648991182_04",
+      "amount": "2",
+      "unit": "packs",
+      "name": "Vanilla sugar"
+    },
+    {
+      "id": "ing_1783648991182_05",
+      "amount": "1/2",
+      "unit": "bottle",
+      "name": "Bitter almond aroma"
+    },
+    {
+      "id": "ing_1783648991182_06",
+      "amount": "1",
+      "unit": "pinch",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783648991182_07",
+      "amount": "25",
+      "unit": "g",
+      "name": "Butter (room temperature)"
+    },
+    {
+      "id": "ing_1783648991182_08",
+      "amount": "2",
+      "unit": "",
+      "name": "Eggs"
+    },
+    {
+      "id": "ing_1783648991182_09",
+      "amount": "175",
+      "unit": "g",
+      "name": "Almonds / nuts / chocolate (mix optional)"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Mix flour, sugar, baking powder, vanilla sugar, salt, bitter almond aroma, butter, and eggs until a sticky dough forms.",
+      "ingredient_links": [
+        "ing_1783648991182_01",
+        "ing_1783648991182_02",
+        "ing_1783648991182_03",
+        "ing_1783648991182_04",
+        "ing_1783648991182_05",
+        "ing_1783648991182_06",
+        "ing_1783648991182_07",
+        "ing_1783648991182_08"
+      ]
+    },
+    {
+      "text": "Knead in the almonds, nuts, or chocolate chunks until evenly distributed.",
+      "ingredient_links": [
+        "ing_1783648991182_09"
+      ]
+    },
+    {
+      "text": "Shape the dough into two logs roughly the width of a baking tray.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Bake at 200°C (top/bottom heat) for 15 minutes.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Let cool slightly, then cut diagonally into 1 cm slices.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Bake again for 8 minutes at the same temperature until crisp.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Store airtight to keep the cookies crunchy.",
+      "ingredient_links": []
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-03T14:02:51.182Z",
+  "updated_at": "2026-07-03T14:02:51.182Z"
+},
+    {
+  "id": "recipe_1783649283310_lx7qd",
+  "name": "Lye Pretzel Rolls",
+  "from": "",
+  "image": "",
+  "prep_time": 90,
+  "cook_time": 20,
+  "servings": 10,
+  "tags": [
+    "Savory",
+    "Snack",
+    "Meal Prep"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783649283310_01",
+      "amount": "680",
+      "unit": "g",
+      "name": "Flour"
+    },
+    {
+      "id": "ing_1783649283310_02",
+      "amount": "30",
+      "unit": "g",
+      "name": "Fresh yeast"
+    },
+    {
+      "id": "ing_1783649283310_03",
+      "amount": "400",
+      "unit": "ml",
+      "name": "Water"
+    },
+    {
+      "id": "ing_1783649283310_04",
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783649283310_05",
+      "amount": "as needed",
+      "unit": "",
+      "name": "Coarse salt (topping)"
+    },
+    {
+      "id": "ing_1783649283310_06",
+      "amount": "3–4",
+      "unit": "g",
+      "name": "Sodium hydroxide pellets (lye)"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Dissolve yeast in a portion of water, then mix with flour, salt, and remaining water to form a smooth dough. Knead well and let rise for 30–60 minutes.",
+      "ingredient_links": [
+        "ing_1783649283310_01",
+        "ing_1783649283310_02",
+        "ing_1783649283310_03",
+        "ing_1783649283310_04"
+      ]
+    },
+    {
+      "text": "Shape the dough into rolls of about 75–80 g each and let them rise again for about 30 minutes.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Preheat oven to 220°C (top/bottom heat) or 190°C (fan) and prepare baking tray.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Prepare lye solution carefully by dissolving sodium hydroxide pellets in water. Dip each roll for about 10 seconds per side, then place on baking tray.",
+      "ingredient_links": [
+        "ing_1783649283310_06",
+        "ing_1783649283310_03"
+      ]
+    },
+    {
+      "text": "Score the rolls with a sharp knife and sprinkle with coarse salt.",
+      "ingredient_links": [
+        "ing_1783649283310_05"
+      ]
+    },
+    {
+      "text": "Bake for 17–20 minutes until deep brown and crusty.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Optional: For freezing, omit salt topping. Dough can also be cold-fermented overnight with reduced yeast.",
+      "ingredient_links": []
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-03T14:07:13.310Z",
+  "updated_at": "2026-07-03T14:07:13.310Z"
+},
+    {
+  "id": "recipe_1783649501123_wng4rf",
+  "name": "Air Fryer Chicken Wings",
+  "from": "",
+  "image": "",
+  "prep_time": 10,
+  "cook_time": 15,
+  "servings": 2,
+  "tags": [
+    "Savory",
+    "Snack",
+    "Party Food"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783649501123_01",
+      "amount": "500",
+      "unit": "g",
+      "name": "Chicken wings"
+    },
+    {
+      "id": "ing_1783649501123_02",
+      "amount": "to taste",
+      "unit": "",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783649501123_03",
+      "amount": "to taste",
+      "unit": "",
+      "name": "Spices"
+    },
+    {
+      "id": "ing_1783649501123_04",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Flour"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Cut chicken wings at the joints and separate them.",
+      "ingredient_links": [
+        "ing_1783649501123_01"
+      ]
+    },
+    {
+      "text": "Season the wings with salt and let them dry slightly.",
+      "ingredient_links": [
+        "ing_1783649501123_02",
+        "ing_1783649501123_01"
+      ]
+    },
+    {
+      "text": "Coat the wings with spices and a light layer of flour.",
+      "ingredient_links": [
+        "ing_1783649501123_03",
+        "ing_1783649501123_04"
+      ]
+    },
+    {
+      "text": "Air fry at 200°C for about 15 minutes until crispy and cooked through.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Do not overcrowd the air fryer basket.",
+      "ingredient_links": []
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-03T14:11:41.123Z",
+  "updated_at": "2026-07-03T14:11:41.123Z"
+},
+    {
+  "id": "recipe_1783649756631_xv9qz",
+  "name": "Baguettes (Long Fermentation)",
+  "from": "",
+  "image": "",
+  "prep_time": 240,
+  "cook_time": 20,
+  "servings": 3,
+  "tags": [
+    "Savory",
+    "Meal Prep"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783649756631_01",
+      "amount": "500",
+      "unit": "g",
+      "name": "Flour"
+    },
+    {
+      "id": "ing_1783649756631_02",
+      "amount": "350",
+      "unit": "ml",
+      "name": "Water"
+    },
+    {
+      "id": "ing_1783649756631_03",
+      "amount": "6",
+      "unit": "g",
+      "name": "Dry yeast"
+    },
+    {
+      "id": "ing_1783649756631_04",
+      "amount": "10",
+      "unit": "g",
+      "name": "Salt"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Prepare a preferment (poolish) by mixing part of the water, flour, and yeast and let it ferment. (150 Wasser 2 trockenhefe 150 Mehl)",
+      "ingredient_links": [
+        "ing_1783649756631_01",
+        "ing_1783649756631_02",
+        "ing_1783649756631_03"
+      ]
+    },
+    {
+      "text": "Prepare a second dough by mixing remaining water, yeast, salt, and flour, then combine with the poolish.",
+      "ingredient_links": [
+        "ing_1783649756631_01",
+        "ing_1783649756631_02",
+        "ing_1783649756631_03",
+        "ing_1783649756631_04"
+      ]
+    },
+    {
+      "text": "Let the dough rest (autolyse) for 20 minutes.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Knead the dough for about 10 minutes until elastic.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Perform stretch and folds on a floured surface and let rest for 5 minutes.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Repeat folds and rest cycles, allowing long fermentation for 60–120 minutes depending on temperature.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Divide dough into 3 portions and gently shape, folding twice into compact packets.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Let rest for 5 minutes, then gently shape into baguettes without over-flattening.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Final shaping: roll into baguette shape and place on a floured baking tray.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Proof for about 45–60 minutes, then score the surface.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Bake at 250°C (top/bottom heat) with steam for 10 minutes, then 10 minutes without steam, followed by an additional 4 minutes at 200°C if needed.",
+      "ingredient_links": []
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-03T14:15:56.631Z",
+  "updated_at": "2026-07-03T14:15:56.631Z"
+},
+    {
+  "id": "recipe_1783650021187_zk9qp",
+  "name": "Lemon Cream in Lemon Cups (Lenom)",
+  "from": "",
+  "image": "",
+  "prep_time": 20,
+  "cook_time": 10,
+  "servings": 6,
+  "tags": [
+    "Dessert",
+    "Fancy",
+    "Sweet"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783650021187_01",
+      "amount": "3",
+      "unit": "",
+      "name": "Lemons (for shells)"
+    },
+    {
+      "id": "ing_1783650021187_02",
+      "amount": "200",
+      "unit": "ml",
+      "name": "Heavy cream"
+    },
+    {
+      "id": "ing_1783650021187_03",
+      "amount": "50",
+      "unit": "g",
+      "name": "Sugar"
+    },
+    {
+      "id": "ing_1783650021187_04",
+      "amount": "1",
+      "unit": "",
+      "name": "Lemon zest"
+    },
+    {
+      "id": "ing_1783650021187_05",
+      "amount": "30",
+      "unit": "ml",
+      "name": "Lemon juice"
+    },
+    {
+      "id": "ing_1783650021187_06",
+      "amount": "a few",
+      "unit": "leaves",
+      "name": "Basil"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Cut lemons in half and scoop out the insides to create lemon cups.",
+      "ingredient_links": [
+        "ing_1783650021187_01"
+      ]
+    },
+    {
+      "text": "Heat cream, sugar, lemon zest, and basil until everything is dissolved and slightly foamy.",
+      "ingredient_links": [
+        "ing_1783650021187_02",
+        "ing_1783650021187_03",
+        "ing_1783650021187_04",
+        "ing_1783650021187_06"
+      ]
+    },
+    {
+      "text": "Remove basil leaves from the mixture.",
+      "ingredient_links": [
+        "ing_1783650021187_06"
+      ]
+    },
+    {
+      "text": "Stir in lemon juice thoroughly.",
+      "ingredient_links": [
+        "ing_1783650021187_05"
+      ]
+    },
+    {
+      "text": "Pour the cream mixture into the hollowed lemon halves.",
+      "ingredient_links": [
+        "ing_1783650021187_01"
+      ]
+    },
+    {
+      "text": "Chill for about 2 hours before serving.",
+      "ingredient_links": []
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-03T14:20:21.187Z",
+  "updated_at": "2026-07-03T14:20:21.187Z"
+},
+    {
+  "id": "recipe_1783650301189_bx4mp",
+  "name": "Chicken Bacon Burritos (Meal Prep)",
+  "from": "",
+  "image": "",
+  "prep_time": 30,
+  "cook_time": 40,
+  "servings": 10,
+  "tags": [
+    "Savory",
+    "Meal Prep"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783650301189_01",
+      "amount": "1.3",
+      "unit": "kg",
+      "name": "Chicken"
+    },
+    {
+      "id": "ing_1783650301189_02",
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Chili powder"
+    },
+    {
+      "id": "ing_1783650301189_03",
+      "amount": "1.5",
+      "unit": "tsp",
+      "name": "Cumin"
+    },
+    {
+      "id": "ing_1783650301189_04",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783650301189_05",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Black pepper"
+    },
+    {
+      "id": "ing_1783650301189_06",
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Paprika"
+    },
+    {
+      "id": "ing_1783650301189_07",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Garlic powder"
+    },
+    {
+      "id": "ing_1783650301189_08",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Onion powder"
+    },
+    {
+      "id": "ing_1783650301189_09",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Oregano"
+    },
+    {
+      "id": "ing_1783650301189_10",
+      "amount": "500",
+      "unit": "g",
+      "name": "Cottage cheese"
+    },
+    {
+      "id": "ing_1783650301189_11",
+      "amount": "1",
+      "unit": "",
+      "name": "Lime"
+    },
+    {
+      "id": "ing_1783650301189_12",
+      "amount": "45",
+      "unit": "g",
+      "name": "Mayonnaise"
+    },
+    {
+      "id": "ing_1783650301189_13",
+      "amount": "200",
+      "unit": "g",
+      "name": "Grated cheese"
+    },
+    {
+      "id": "ing_1783650301189_14",
+      "amount": "10",
+      "unit": "strips",
+      "name": "Bacon"
+    },
+    {
+      "id": "ing_1783650301189_15",
+      "amount": "10",
+      "unit": "",
+      "name": "Large tortillas"
+    },
+    {
+      "id": "ing_1783650301189_16",
+      "amount": "1",
+      "unit": "kg",
+      "name": "Cooked rice"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Cook rice and set aside.",
+      "ingredient_links": [
+        "ing_1783650301189_16"
+      ]
+    },
+    {
+      "text": "Cook bacon until crispy and set aside.",
+      "ingredient_links": [
+        "ing_1783650301189_14"
+      ]
+    },
+    {
+      "text": "Season chicken with spices and cook in air fryer at 190°C for about 20 minutes or pan fry until fully cooked.",
+      "ingredient_links": [
+        "ing_1783650301189_01",
+        "ing_1783650301189_02",
+        "ing_1783650301189_03",
+        "ing_1783650301189_04",
+        "ing_1783650301189_05",
+        "ing_1783650301189_06",
+        "ing_1783650301189_07",
+        "ing_1783650301189_08",
+        "ing_1783650301189_09"
+      ]
+    },
+    {
+      "text": "Blend cottage cheese, mayonnaise, lime juice, and garlic into a creamy sauce.",
+      "ingredient_links": [
+        "ing_1783650301189_10",
+        "ing_1783650301189_11",
+        "ing_1783650301189_12"
+      ]
+    },
+    {
+      "text": "Cut chicken and mix with rice, bacon, cheese, and sauce.",
+      "ingredient_links": [
+        "ing_1783650301189_01",
+        "ing_1783650301189_10",
+        "ing_1783650301189_13",
+        "ing_1783650301189_14",
+        "ing_1783650301189_16"
+      ]
+    },
+    {
+      "text": "Fill tortillas with rice mixture and toast in a pan until crisp.",
+      "ingredient_links": [
+        "ing_1783650301189_15"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-03T14:25:01.189Z",
+  "updated_at": "2026-07-03T14:25:01.189Z"
+},
+    {
+  "id": "recipe_1783650609123_cr9kqp",
+  "name": "Japanese Curry (Kare) (4 Servings)",
+  "from": "",
+  "image": "",
+  "prep_time": 20,
+  "cook_time": 30,
+  "servings": 4,
+  "tags": [
+    "Savory",
+    "Meal Prep"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783650609123_01",
+      "amount": "2",
+      "unit": "cups",
+      "name": "Rice"
+    },
+    {
+      "id": "ing_1783650609123_02",
+      "amount": "300",
+      "unit": "g",
+      "name": "Onions"
+    },
+    {
+      "id": "ing_1783650609123_03",
+      "amount": "200",
+      "unit": "g",
+      "name": "Potatoes"
+    },
+    {
+      "id": "ing_1783650609123_04",
+      "amount": "100",
+      "unit": "g",
+      "name": "Carrots"
+    },
+    {
+      "id": "ing_1783650609123_05",
+      "amount": "200",
+      "unit": "g",
+      "name": "Meat"
+    },
+    {
+      "id": "ing_1783650609123_06",
+      "amount": "700",
+      "unit": "ml",
+      "name": "Chicken broth (mild)"
+    },
+    {
+      "id": "ing_1783650609123_07",
+      "amount": "4",
+      "unit": "cubes",
+      "name": "Curry roux cubes"
+    },
+    {
+      "id": "ing_1783650609123_08",
+      "amount": "to taste",
+      "unit": "",
+      "name": "Tomato paste / chocolate / grated apple / ketchup (umami sweeteners)"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Cook rice in a rice cooker with water and set aside.",
+      "ingredient_links": [
+        "ing_1783650609123_01"
+      ]
+    },
+    {
+      "text": "Chop onions, potatoes, carrots, and meat into bite-sized pieces.",
+      "ingredient_links": [
+        "ing_1783650609123_02",
+        "ing_1783650609123_03",
+        "ing_1783650609123_04",
+        "ing_1783650609123_05"
+      ]
+    },
+    {
+      "text": "Brown the meat and vegetables in a pan.",
+      "ingredient_links": [
+        "ing_1783650609123_05",
+        "ing_1783650609123_02",
+        "ing_1783650609123_03",
+        "ing_1783650609123_04"
+      ]
+    },
+    {
+      "text": "Add chicken broth and simmer over medium heat for about 20 minutes until vegetables are tender.",
+      "ingredient_links": [
+        "ing_1783650609123_06"
+      ]
+    },
+    {
+      "text": "Add curry roux cubes and stir until fully dissolved.",
+      "ingredient_links": [
+        "ing_1783650609123_07"
+      ]
+    },
+    {
+      "text": "Add optional umami boosters like tomato paste, chocolate, grated apple, or ketchup, then simmer for 5 more minutes.",
+      "ingredient_links": [
+        "ing_1783650609123_08"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-03T14:30:09.123Z",
+  "updated_at": "2026-07-03T14:30:09.123Z"
+},
+    {
+  "id": "recipe_1783650894127_kps7lm",
+  "name": "Pumpkin Soup",
+  "from": "",
+  "image": "",
+  "prep_time": 15,
+  "cook_time": 25,
+  "servings": 4,
+  "tags": [
+    "Savory",
+    "Meal Prep"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783650894127_01",
+      "amount": "800",
+      "unit": "g",
+      "name": "Pumpkin"
+    },
+    {
+      "id": "ing_1783650894127_02",
+      "amount": "400",
+      "unit": "g",
+      "name": "Carrots"
+    },
+    {
+      "id": "ing_1783650894127_03",
+      "amount": "1",
+      "unit": "",
+      "name": "Onion"
+    },
+    {
+      "id": "ing_1783650894127_04",
+      "amount": "1",
+      "unit": "L",
+      "name": "Vegetable broth"
+    },
+    {
+      "id": "ing_1783650894127_05",
+      "amount": "5",
+      "unit": "cm piece",
+      "name": "Ginger"
+    },
+    {
+      "id": "ing_1783650894127_06",
+      "amount": "100",
+      "unit": "ml",
+      "name": "Coconut milk"
+    },
+    {
+      "id": "ing_1783650894127_07",
+      "amount": "to taste",
+      "unit": "",
+      "name": "Balsamic vinegar / soy sauce"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Chop pumpkin, carrots, onion, and ginger into chunks.",
+      "ingredient_links": [
+        "ing_1783650894127_01",
+        "ing_1783650894127_02",
+        "ing_1783650894127_03",
+        "ing_1783650894127_05"
+      ]
+    },
+    {
+      "text": "Sauté onion briefly, then add pumpkin, carrots, and ginger.",
+      "ingredient_links": [
+        "ing_1783650894127_03",
+        "ing_1783650894127_01",
+        "ing_1783650894127_02",
+        "ing_1783650894127_05"
+      ]
+    },
+    {
+      "text": "Add vegetable broth and simmer until vegetables are soft.",
+      "ingredient_links": [
+        "ing_1783650894127_04"
+      ]
+    },
+    {
+      "text": "Blend until smooth and stir in coconut milk.",
+      "ingredient_links": [
+        "ing_1783650894127_06"
+      ]
+    },
+    {
+      "text": "Season to taste with balsamic vinegar and/or soy sauce.",
+      "ingredient_links": [
+        "ing_1783650894127_07"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-03T14:34:54.127Z",
+  "updated_at": "2026-07-03T14:34:54.127Z"
+},
+    {
+  "id": "recipe_1783651189024_hrz7km",
+  "name": "Duchess Potatoes (Herzogin Kartoffeln)",
+  "from": "",
+  "image": "",
+  "prep_time": 30,
+  "cook_time": 20,
+  "servings": 4,
+  "tags": [
+    "Savory",
+    "Party Food",
+    "Fancy"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783651189024_01",
+      "amount": "550",
+      "unit": "g",
+      "name": "Potatoes"
+    },
+    {
+      "id": "ing_1783651189024_02",
+      "amount": "2",
+      "unit": "",
+      "name": "Egg yolks"
+    },
+    {
+      "id": "ing_1783651189024_03",
+      "amount": "50",
+      "unit": "g",
+      "name": "Parmesan cheese"
+    },
+    {
+      "id": "ing_1783651189024_04",
+      "amount": "50",
+      "unit": "g",
+      "name": "Butter"
+    },
+    {
+      "id": "ing_1783651189024_05",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Starch (if needed)"
+    },
+    {
+      "id": "ing_1783651189024_06",
+      "amount": "to taste",
+      "unit": "",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783651189024_07",
+      "amount": "to taste",
+      "unit": "",
+      "name": "Garlic / spices"
+    },
+    {
+      "id": "ing_1783651189024_08",
+      "amount": "to taste",
+      "unit": "",
+      "name": "Fresh herbs"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Peel, cut, and boil potatoes until soft. Let them steam off to remove excess moisture.",
+      "ingredient_links": [
+        "ing_1783651189024_01"
+      ]
+    },
+    {
+      "text": "Mash potatoes and mix with egg yolks, Parmesan, salt, garlic, spices, and melted butter.",
+      "ingredient_links": [
+        "ing_1783651189024_02",
+        "ing_1783651189024_03",
+        "ing_1783651189024_06",
+        "ing_1783651189024_07",
+        "ing_1783651189024_04"
+      ]
+    },
+    {
+      "text": "Add starch if the mixture is too soft, then fold in fresh herbs.",
+      "ingredient_links": [
+        "ing_1783651189024_05",
+        "ing_1783651189024_08"
+      ]
+    },
+    {
+      "text": "Let the mixture cool slightly, then pipe onto a baking tray.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Bake at 220°C (top/bottom heat) for about 15 minutes or air fry at 200°C for 7 minutes until golden.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Optionally garnish with extra egg yolk, zest, or herbs before serving.",
+      "ingredient_links": [
+        "ing_1783651189024_02",
+        "ing_1783651189024_08"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-03T14:39:49.024Z",
+  "updated_at": "2026-07-03T14:39:49.024Z"
+},
+    {
+  "id": "recipe_1783651509981_ebnd4k",
+  "name": "Eggs Benedict Flatbread",
+  "from": "",
+  "image": "",
+  "prep_time": 20,
+  "cook_time": 15,
+  "servings": 4,
+  "tags": [
+    "Breakfast",
+    "Savory"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783651509981_01",
+      "amount": "4",
+      "unit": "",
+      "name": "Eggs (for poaching)"
+    },
+    {
+      "id": "ing_1783651509981_02",
+      "amount": "1",
+      "unit": "",
+      "name": "Egg"
+    },
+    {
+      "id": "ing_1783651509981_03",
+      "amount": "150",
+      "unit": "g",
+      "name": "Low-fat quark"
+    },
+    {
+      "id": "ing_1783651509981_04",
+      "amount": "100",
+      "unit": "g",
+      "name": "Flour"
+    },
+    {
+      "id": "ing_1783651509981_05",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Baking powder"
+    },
+    {
+      "id": "ing_1783651509981_06",
+      "amount": "to taste",
+      "unit": "",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783651509981_07",
+      "amount": "to taste",
+      "unit": "",
+      "name": "Ham"
+    },
+    {
+      "id": "ing_1783651509981_08",
+      "amount": "to taste",
+      "unit": "",
+      "name": "Hollandaise sauce"
+    },
+    {
+      "id": "ing_1783651509981_09",
+      "amount": "to taste",
+      "unit": "",
+      "name": "Vegetables (cucumber/salad)"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Mix quark, flour, egg, baking powder, and salt into a batter.",
+      "ingredient_links": [
+        "ing_1783651509981_03",
+        "ing_1783651509981_04",
+        "ing_1783651509981_02",
+        "ing_1783651509981_05",
+        "ing_1783651509981_06"
+      ]
+    },
+    {
+      "text": "Cook the batter in a pan over medium-low heat on both sides until set and golden.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Poach eggs in vinegar water for 3–4 minutes.",
+      "ingredient_links": [
+        "ing_1783651509981_01"
+      ]
+    },
+    {
+      "text": "Fry the ham in a pan until lightly browned.",
+      "ingredient_links": [
+        "ing_1783651509981_07"
+      ]
+    },
+    {
+      "text": "Serve the flatbread topped with ham, poached eggs, hollandaise sauce, and fresh vegetables.",
+      "ingredient_links": [
+        "ing_1783651509981_08",
+        "ing_1783651509981_09"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-03T14:45:09.981Z",
+  "updated_at": "2026-07-03T14:45:09.981Z"
+},
+    {
+  "id": "recipe_1783651784432_kb7xq",
+  "name": "Garlic Flower Buns",
+  "from": "",
+  "image": "",
+  "prep_time": 30,
+  "cook_time": 20,
+  "servings": 4,
+  "tags": [
+    "Savory",
+    "Snack",
+    "Party Food"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783651784432_01",
+      "amount": "250",
+      "unit": "g",
+      "name": "Wheat flour"
+    },
+    {
+      "id": "ing_1783651784432_02",
+      "amount": "5",
+      "unit": "g",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783651784432_03",
+      "amount": "5",
+      "unit": "g",
+      "name": "Dry yeast"
+    },
+    {
+      "id": "ing_1783651784432_04",
+      "amount": "150",
+      "unit": "ml",
+      "name": "Lukewarm milk"
+    },
+    {
+      "id": "ing_1783651784432_05",
+      "amount": "30",
+      "unit": "g",
+      "name": "Butter (for dough)"
+    },
+    {
+      "id": "ing_1783651784432_06",
+      "amount": "1",
+      "unit": "",
+      "name": "Egg"
+    },
+    {
+      "id": "ing_1783651784432_07",
+      "amount": "40",
+      "unit": "g",
+      "name": "Butter (garlic butter)"
+    },
+    {
+      "id": "ing_1783651784432_08",
+      "amount": "2",
+      "unit": "",
+      "name": "Garlic cloves"
+    },
+    {
+      "id": "ing_1783651784432_09",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Salt (garlic butter)"
+    },
+    {
+      "id": "ing_1783651784432_10",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Parsley"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Mix flour, salt, yeast, milk, butter, and egg into a dough and let it rise for 1–2 hours until doubled in size.",
+      "ingredient_links": [
+        "ing_1783651784432_01",
+        "ing_1783651784432_02",
+        "ing_1783651784432_03",
+        "ing_1783651784432_04",
+        "ing_1783651784432_05",
+        "ing_1783651784432_06"
+      ]
+    },
+    {
+      "text": "Prepare garlic butter by mixing softened butter, grated garlic, salt, and parsley.",
+      "ingredient_links": [
+        "ing_1783651784432_07",
+        "ing_1783651784432_08",
+        "ing_1783651784432_09",
+        "ing_1783651784432_10"
+      ]
+    },
+    {
+      "text": "Divide dough into 4 portions, then further divide each into smaller pieces, flatten into discs, and spread with garlic butter.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Fold, roll, and shape into flower-like buns.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Let rise again for about 30 minutes.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Bake at 180°C (fan) for about 20 minutes until golden and cooked through.",
+      "ingredient_links": []
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-03T14:50:44.432Z",
+  "updated_at": "2026-07-03T14:50:44.432Z"
+},
+    {
+  "id": "recipe_1783652106671_hps8kd",
+  "name": "Hungarian Mushroom Soup",
+  "from": "",
+  "image": "",
+  "prep_time": 15,
+  "cook_time": 25,
+  "servings": 2,
+  "tags": [
+    "Savory",
+    "Meal Prep"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783652106671_01",
+      "amount": "2",
+      "unit": "",
+      "name": "Onions"
+    },
+    {
+      "id": "ing_1783652106671_02",
+      "amount": "250",
+      "unit": "g",
+      "name": "Champignons"
+    },
+    {
+      "id": "ing_1783652106671_03",
+      "amount": "100",
+      "unit": "g",
+      "name": "Shiitake mushrooms"
+    },
+    {
+      "id": "ing_1783652106671_04",
+      "amount": "20",
+      "unit": "g",
+      "name": "Butter"
+    },
+    {
+      "id": "ing_1783652106671_05",
+      "amount": "3",
+      "unit": "tsp",
+      "name": "Paprika powder"
+    },
+    {
+      "id": "ing_1783652106671_06",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Chili oil"
+    },
+    {
+      "id": "ing_1783652106671_07",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Flour"
+    },
+    {
+      "id": "ing_1783652106671_08",
+      "amount": "to taste",
+      "unit": "",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783652106671_09",
+      "amount": "to taste",
+      "unit": "",
+      "name": "Pepper"
+    },
+    {
+      "id": "ing_1783652106671_10",
+      "amount": "to taste",
+      "unit": "",
+      "name": "Dill"
+    },
+    {
+      "id": "ing_1783652106671_11",
+      "amount": "a splash",
+      "unit": "",
+      "name": "White wine"
+    },
+    {
+      "id": "ing_1783652106671_12",
+      "amount": "500",
+      "unit": "ml",
+      "name": "Broth"
+    },
+    {
+      "id": "ing_1783652106671_13",
+      "amount": "200",
+      "unit": "ml",
+      "name": "Milk"
+    },
+    {
+      "id": "ing_1783652106671_14",
+      "amount": "80",
+      "unit": "g",
+      "name": "Sour cream / quark / crème fraîche"
+    },
+    {
+      "id": "ing_1783652106671_15",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Soy sauce"
+    },
+    {
+      "id": "ing_1783652106671_16",
+      "amount": "to taste",
+      "unit": "",
+      "name": "Parsley"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Slice onions and mushrooms, then sauté until reduced in volume by about half.",
+      "ingredient_links": [
+        "ing_1783652106671_01",
+        "ing_1783652106671_02",
+        "ing_1783652106671_03"
+      ]
+    },
+    {
+      "text": "Remove mushrooms from the pan and melt butter in the same pan.",
+      "ingredient_links": [
+        "ing_1783652106671_04"
+      ]
+    },
+    {
+      "text": "Add paprika, chili oil, flour, salt, pepper, and dill, and cook into a thick roux.",
+      "ingredient_links": [
+        "ing_1783652106671_05",
+        "ing_1783652106671_06",
+        "ing_1783652106671_07",
+        "ing_1783652106671_08",
+        "ing_1783652106671_09",
+        "ing_1783652106671_10"
+      ]
+    },
+    {
+      "text": "Deglaze with a splash of white wine and add broth, then return mushrooms to the pot.",
+      "ingredient_links": [
+        "ing_1783652106671_11",
+        "ing_1783652106671_12"
+      ]
+    },
+    {
+      "text": "Simmer for about 10 minutes until slightly reduced.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Stir in milk and sour cream, quark, or crème fraîche.",
+      "ingredient_links": [
+        "ing_1783652106671_13",
+        "ing_1783652106671_14"
+      ]
+    },
+    {
+      "text": "Finish with parsley and season carefully with soy sauce, avoiding over-salting.",
+      "ingredient_links": [
+        "ing_1783652106671_15",
+        "ing_1783652106671_16"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-03T14:55:06.671Z",
+  "updated_at": "2026-07-03T14:55:06.671Z"
+},
+    {
+  "id": "recipe_1783652400198_bao4st",
+  "name": "Steamed Bao Buns (Basic Recipe)",
+  "from": "",
+  "image": "",
+  "prep_time": 25,
+  "cook_time": 20,
+  "servings": 4,
+  "tags": [
+    "Savory",
+    "Snack",
+    "Party Food"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783652400198_01",
+      "amount": "200",
+      "unit": "g",
+      "name": "Flour"
+    },
+    {
+      "id": "ing_1783652400198_02",
+      "amount": "100",
+      "unit": "ml",
+      "name": "Warm water"
+    },
+    {
+      "id": "ing_1783652400198_03",
+      "amount": "3",
+      "unit": "g",
+      "name": "Dry yeast"
+    },
+    {
+      "id": "ing_1783652400198_04",
+      "amount": "10",
+      "unit": "g",
+      "name": "Sugar"
+    },
+    {
+      "id": "ing_1783652400198_05",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783652400198_06",
+      "amount": "5",
+      "unit": "ml",
+      "name": "Oil"
+    },
+    {
+      "id": "ing_1783652400198_07",
+      "amount": "200",
+      "unit": "g",
+      "name": "Filling (any, optional)"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Mix yeast, sugar, and warm water and let it activate briefly.",
+      "ingredient_links": [
+        "ing_1783652400198_03",
+        "ing_1783652400198_04",
+        "ing_1783652400198_02"
+      ]
+    },
+    {
+      "text": "Add flour, salt, and oil, then knead into a smooth dough for 5–10 minutes.",
+      "ingredient_links": [
+        "ing_1783652400198_01",
+        "ing_1783652400198_05",
+        "ing_1783652400198_06"
+      ]
+    },
+    {
+      "text": "Let dough rise for about 1 hour until doubled in size.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Divide dough into 4 portions, flatten into circles, and add filling in the center.",
+      "ingredient_links": [
+        "ing_1783652400198_07"
+      ]
+    },
+    {
+      "text": "Seal buns and place on parchment squares, then let rest for 15 minutes.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Steam buns over boiling water for about 15 minutes, then rest for 5 minutes without heat.",
+      "ingredient_links": []
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-03T15:00:00.198Z",
+  "updated_at": "2026-07-03T15:00:00.198Z"
+},
+    {
+  "id": "recipe_1783652709912_meatxt",
+  "name": "Velveting Stir-Fry Meat",
+  "from": "",
+  "image": "",
+  "prep_time": 45,
+  "cook_time": 10,
+  "servings": 2,
+  "tags": [
+    "Savory",
+    "Meal Prep"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783652709912_01",
+      "amount": "400",
+      "unit": "g",
+      "name": "Thinly sliced meat (beef or chicken)"
+    },
+    {
+      "id": "ing_1783652709912_02",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Baking powder"
+    },
+    {
+      "id": "ing_1783652709912_03",
+      "amount": "as needed",
+      "unit": "",
+      "name": "Water"
+    },
+    {
+      "id": "ing_1783652709912_04",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Soy sauce"
+    },
+    {
+      "id": "ing_1783652709912_05",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Garlic"
+    },
+    {
+      "id": "ing_1783652709912_06",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Sake"
+    },
+    {
+      "id": "ing_1783652709912_07",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Sesame oil"
+    },
+    {
+      "id": "ing_1783652709912_08",
+      "amount": "to taste",
+      "unit": "",
+      "name": "Chili"
+    },
+    {
+      "id": "ing_1783652709912_09",
+      "amount": "to taste",
+      "unit": "",
+      "name": "MSG"
+    },
+    {
+      "id": "ing_1783652709912_10",
+      "amount": "1–2",
+      "unit": "tbsp",
+      "name": "Starch (cornstarch or similar)"
+    },
+    {
+      "id": "ing_1783652709912_11",
+      "amount": "for frying",
+      "unit": "",
+      "name": "Oil"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Slice meat thinly against the grain.",
+      "ingredient_links": [
+        "ing_1783652709912_01"
+      ]
+    },
+    {
+      "text": "Mix meat with baking powder and enough water to cover, then massage well.",
+      "ingredient_links": [
+        "ing_1783652709912_02",
+        "ing_1783652709912_03"
+      ]
+    },
+    {
+      "text": "Let rest for about 30 minutes, then rinse and drain thoroughly.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Marinate with soy sauce, garlic, sake, sesame oil, chili, and MSG.",
+      "ingredient_links": [
+        "ing_1783652709912_04",
+        "ing_1783652709912_05",
+        "ing_1783652709912_06",
+        "ing_1783652709912_07",
+        "ing_1783652709912_08",
+        "ing_1783652709912_09"
+      ]
+    },
+    {
+      "text": "Coat lightly with starch and massage again.",
+      "ingredient_links": [
+        "ing_1783652709912_10"
+      ]
+    },
+    {
+      "text": "Stir-fry in hot oil until browned and cooked through.",
+      "ingredient_links": [
+        "ing_1783652709912_11"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-03T15:05:09.912Z",
+  "updated_at": "2026-07-03T15:05:09.912Z"
+},
+    {
+  "id": "recipe_1783653051140_oko8sm",
+  "name": "Osaka-Style Okonomiyaki",
+  "from": "",
+  "image": "",
+  "prep_time": 25,
+  "cook_time": 15,
+  "servings": 2,
+  "tags": [
+    "Savory",
+    "Meal Prep"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783653051140_01",
+      "amount": "60",
+      "unit": "ml",
+      "name": "Water"
+    },
+    {
+      "id": "ing_1783653051140_02",
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "Dashi powder"
+    },
+    {
+      "id": "ing_1783653051140_03",
+      "amount": "50",
+      "unit": "g",
+      "name": "Wheat flour (Type 550)"
+    },
+    {
+      "id": "ing_1783653051140_04",
+      "amount": "1",
+      "unit": "",
+      "name": "Egg"
+    },
+    {
+      "id": "ing_1783653051140_05",
+      "amount": "to taste",
+      "unit": "",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783653051140_06",
+      "amount": "to taste",
+      "unit": "",
+      "name": "Sugar"
+    },
+    {
+      "id": "ing_1783653051140_07",
+      "amount": "120",
+      "unit": "g",
+      "name": "White cabbage"
+    },
+    {
+      "id": "ing_1783653051140_08",
+      "amount": "1",
+      "unit": "",
+      "name": "Spring onion"
+    },
+    {
+      "id": "ing_1783653051140_09",
+      "amount": "4",
+      "unit": "slices",
+      "name": "Bacon"
+    },
+    {
+      "id": "ing_1783653051140_10",
+      "amount": "1",
+      "unit": "piece",
+      "name": "Ginger (thumb-sized)"
+    },
+    {
+      "id": "ing_1783653051140_11",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Rice vinegar"
+    },
+    {
+      "id": "ing_1783653051140_12",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Sugar (for pickling)"
+    },
+    {
+      "id": "ing_1783653051140_13",
+      "amount": "1",
+      "unit": "sheet",
+      "name": "Nori"
+    },
+    {
+      "id": "ing_1783653051140_14",
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "Okonomiyaki sauce"
+    },
+    {
+      "id": "ing_1783653051140_15",
+      "amount": "to taste",
+      "unit": "",
+      "name": "Kewpie mayonnaise"
+    },
+    {
+      "id": "ing_1783653051140_16",
+      "amount": "1",
+      "unit": "handful",
+      "name": "Bonito flakes"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Mix water and dashi powder.",
+      "ingredient_links": [
+        "ing_1783653051140_01",
+        "ing_1783653051140_02"
+      ]
+    },
+    {
+      "text": "Add flour, egg, salt, and sugar to form a batter and chill in the fridge.",
+      "ingredient_links": [
+        "ing_1783653051140_03",
+        "ing_1783653051140_04",
+        "ing_1783653051140_05",
+        "ing_1783653051140_06"
+      ]
+    },
+    {
+      "text": "Mix shredded cabbage and chopped spring onion into the batter.",
+      "ingredient_links": [
+        "ing_1783653051140_07",
+        "ing_1783653051140_08"
+      ]
+    },
+    {
+      "text": "Pour into a pan as a thick pancake and top with bacon pieces.",
+      "ingredient_links": [
+        "ing_1783653051140_09"
+      ]
+    },
+    {
+      "text": "Cook until crispy, then flip and cook the other side until done.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Top with okonomiyaki sauce, mayonnaise, nori strips, pickled ginger, and bonito flakes.",
+      "ingredient_links": [
+        "ing_1783653051140_10",
+        "ing_1783653051140_13",
+        "ing_1783653051140_14",
+        "ing_1783653051140_15",
+        "ing_1783653051140_16"
+      ]
+    },
+    {
+      "text": "Optional: serve with quick pickled ginger made from ginger, rice vinegar, and sugar.",
+      "ingredient_links": [
+        "ing_1783653051140_10",
+        "ing_1783653051140_11",
+        "ing_1783653051140_12"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-03T15:10:51.140Z",
+  "updated_at": "2026-07-03T15:10:51.140Z"
+},
+    {
+  "id": "recipe_1783653309984_tfdch",
+  "name": "Chocolate Tofu Banana Smoothie",
+  "from": "",
+  "image": "",
+  "prep_time": 5,
+  "cook_time": 0,
+  "servings": 1,
+  "tags": [
+    "Dessert",
+    "Snack",
+    "Sweet"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783653309984_01",
+      "amount": "150",
+      "unit": "g",
+      "name": "Silken tofu"
+    },
+    {
+      "id": "ing_1783653309984_02",
+      "amount": "70",
+      "unit": "g",
+      "name": "Banana"
+    },
+    {
+      "id": "ing_1783653309984_03",
+      "amount": "100",
+      "unit": "ml",
+      "name": "Milk"
+    },
+    {
+      "id": "ing_1783653309984_04",
+      "amount": "10",
+      "unit": "g",
+      "name": "Cocoa powder"
+    },
+    {
+      "id": "ing_1783653309984_05",
+      "amount": "5",
+      "unit": "g",
+      "name": "Honey"
+    },
+    {
+      "id": "ing_1783653309984_06",
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "Chia seeds"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Add tofu, banana, milk, cocoa powder, honey, and chia seeds into a blender.",
+      "ingredient_links": [
+        "ing_1783653309984_01",
+        "ing_1783653309984_02",
+        "ing_1783653309984_03",
+        "ing_1783653309984_04",
+        "ing_1783653309984_05",
+        "ing_1783653309984_06"
+      ]
+    },
+    {
+      "text": "Blend until smooth and creamy.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Serve immediately.",
+      "ingredient_links": []
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-03T15:15:09.984Z",
+  "updated_at": "2026-07-03T15:15:09.984Z"
+},
+    {
+  "id": "recipe_1783653601142_mndkq",
+  "name": "Almond Cookies (Amaretto Style)",
+  "from": "",
+  "image": "",
+  "prep_time": 15,
+  "cook_time": 15,
+  "servings": 20,
+  "tags": [
+    "Dessert",
+    "Snack",
+    "Sweet"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783653601142_01",
+      "amount": "60",
+      "unit": "g",
+      "name": "Butter or margarine"
+    },
+    {
+      "id": "ing_1783653601142_02",
+      "amount": "50",
+      "unit": "g",
+      "name": "Sugar"
+    },
+    {
+      "id": "ing_1783653601142_03",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Amaretto or bitter almond aroma"
+    },
+    {
+      "id": "ing_1783653601142_04",
+      "amount": "60",
+      "unit": "g",
+      "name": "Ground almonds"
+    },
+    {
+      "id": "ing_1783653601142_05",
+      "amount": "50",
+      "unit": "g",
+      "name": "Whole almonds (peeled)"
+    },
+    {
+      "id": "ing_1783653601142_06",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Baking powder"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Mix butter, sugar, almond aroma, ground almonds, and baking powder into a dough.",
+      "ingredient_links": [
+        "ing_1783653601142_01",
+        "ing_1783653601142_02",
+        "ing_1783653601142_03",
+        "ing_1783653601142_04",
+        "ing_1783653601142_06"
+      ]
+    },
+    {
+      "text": "Roll out the dough and shape into small rectangles.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Place whole almonds on top and press lightly into the dough.",
+      "ingredient_links": [
+        "ing_1783653601142_05"
+      ]
+    },
+    {
+      "text": "Optionally decorate by pressing patterns with a fork from the edges toward the center.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Bake at 180°C (fan) for 12–15 minutes until lightly browned at the edges.",
+      "ingredient_links": []
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-03T15:20:01.142Z",
+  "updated_at": "2026-07-03T15:20:01.142Z"
+},
+    {
+  "id": "recipe_1783653901187_shltq",
+  "name": "Shallot Tarte Tatin (Upside-Down Puff Pastry Tart)",
+  "from": "",
+  "image": "",
+  "prep_time": 20,
+  "cook_time": 20,
+  "servings": 4,
+  "tags": [
+    "Savory",
+    "Fancy",
+    "Party Food"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783653901187_01",
+      "amount": "10",
+      "unit": "",
+      "name": "Shallots"
+    },
+    {
+      "id": "ing_1783653901187_02",
+      "amount": "1",
+      "unit": "sheet",
+      "name": "Puff pastry"
+    },
+    {
+      "id": "ing_1783653901187_03",
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "Balsamic vinegar"
+    },
+    {
+      "id": "ing_1783653901187_04",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Brown sugar"
+    },
+    {
+      "id": "ing_1783653901187_05",
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "Mustard"
+    },
+    {
+      "id": "ing_1783653901187_06",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Butter"
+    },
+    {
+      "id": "ing_1783653901187_07",
+      "amount": "100",
+      "unit": "ml",
+      "name": "Water"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Peel and halve shallots, then sauté cut-side down until lightly caramelized.",
+      "ingredient_links": [
+        "ing_1783653901187_01"
+      ]
+    },
+    {
+      "text": "Add water and simmer until shallots are tender, being careful not to burn.",
+      "ingredient_links": [
+        "ing_1783653901187_07"
+      ]
+    },
+    {
+      "text": "Remove shallots from the pan.",
+      "ingredient_links": [
+        "ing_1783653901187_01"
+      ]
+    },
+    {
+      "text": "In the same pan, combine balsamic vinegar, brown sugar, mustard, and butter to form a glaze.",
+      "ingredient_links": [
+        "ing_1783653901187_03",
+        "ing_1783653901187_04",
+        "ing_1783653901187_05",
+        "ing_1783653901187_06"
+      ]
+    },
+    {
+      "text": "Return shallots to the pan and arrange them evenly.",
+      "ingredient_links": [
+        "ing_1783653901187_01"
+      ]
+    },
+    {
+      "text": "Cover with puff pastry and bake at 180°C (fan) for about 20 minutes until golden.",
+      "ingredient_links": [
+        "ing_1783653901187_02"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-03T15:25:01.187Z",
+  "updated_at": "2026-07-03T15:25:01.187Z"
+},
+    {
+  "id": "recipe_1783654201194_cbn8q",
+  "name": "Cauliflower Nuggets",
+  "from": "",
+  "image": "",
+  "prep_time": 20,
+  "cook_time": 15,
+  "servings": 2,
+  "tags": [
+    "Snack",
+    "Savory",
+    "Party Food"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783654201194_01",
+      "amount": "1",
+      "unit": "",
+      "name": "Cauliflower"
+    },
+    {
+      "id": "ing_1783654201194_02",
+      "amount": "1",
+      "unit": "",
+      "name": "Egg"
+    },
+    {
+      "id": "ing_1783654201194_03",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Low-fat quark"
+    },
+    {
+      "id": "ing_1783654201194_04",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Flour"
+    },
+    {
+      "id": "ing_1783654201194_05",
+      "amount": "to taste",
+      "unit": "",
+      "name": "Spices (paprika, garlic, curry, etc.)"
+    },
+    {
+      "id": "ing_1783654201194_06",
+      "amount": "to taste",
+      "unit": "",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783654201194_07",
+      "amount": "as needed",
+      "unit": "",
+      "name": "Oil"
+    },
+    {
+      "id": "ing_1783654201194_08",
+      "amount": "as needed",
+      "unit": "",
+      "name": "Breadcrumb coating (panko / flour + starch / crushed cornflakes)"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Cut cauliflower into bite-sized nugget pieces.",
+      "ingredient_links": [
+        "ing_1783654201194_01"
+      ]
+    },
+    {
+      "text": "Mix egg, quark, flour, oil, salt, and spices into a coating batter.",
+      "ingredient_links": [
+        "ing_1783654201194_02",
+        "ing_1783654201194_03",
+        "ing_1783654201194_04",
+        "ing_1783654201194_07",
+        "ing_1783654201194_06",
+        "ing_1783654201194_05"
+      ]
+    },
+    {
+      "text": "Coat cauliflower pieces in the batter.",
+      "ingredient_links": [
+        "ing_1783654201194_01"
+      ]
+    },
+    {
+      "text": "Bread each piece using panko, flour-starch mix, or crushed cornflakes.",
+      "ingredient_links": [
+        "ing_1783654201194_08"
+      ]
+    },
+    {
+      "text": "Air fry at 180°C for about 10 minutes or bake at 200°C until cooked and crispy.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Serve with a tangy quark dip, optionally flavored with lemon or other acidity.",
+      "ingredient_links": [
+        "ing_1783654201194_03"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-03T15:30:01.194Z",
+  "updated_at": "2026-07-03T15:30:01.194Z"
+},
+    {
+  "id": "recipe_1783654501199_cuc8sl",
+  "name": "Asian Cucumber Salad",
+  "from": "",
+  "image": "",
+  "prep_time": 10,
+  "cook_time": 0,
+  "servings": 2,
+  "tags": [
+    "Snack",
+    "Appetizer",
+    "For Hot Days"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783654501199_01",
+      "amount": "1",
+      "unit": "",
+      "name": "Cucumber"
+    },
+    {
+      "id": "ing_1783654501199_02",
+      "amount": "0.5",
+      "unit": "tbsp",
+      "name": "Fish sauce"
+    },
+    {
+      "id": "ing_1783654501199_03",
+      "amount": "0.5",
+      "unit": "tbsp",
+      "name": "Sesame oil"
+    },
+    {
+      "id": "ing_1783654501199_04",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Soy sauce"
+    },
+    {
+      "id": "ing_1783654501199_05",
+      "amount": "0.5",
+      "unit": "tbsp",
+      "name": "Rice vinegar"
+    },
+    {
+      "id": "ing_1783654501199_06",
+      "amount": "0.5",
+      "unit": "tbsp",
+      "name": "MSG"
+    },
+    {
+      "id": "ing_1783654501199_07",
+      "amount": "0.5",
+      "unit": "tbsp",
+      "name": "Sugar"
+    },
+    {
+      "id": "ing_1783654501199_08",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Chili oil"
+    },
+    {
+      "id": "ing_1783654501199_09",
+      "amount": "1",
+      "unit": "dash",
+      "name": "Garlic oil"
+    },
+    {
+      "id": "ing_1783654501199_10",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Skyr or low-fat quark"
+    },
+    {
+      "id": "ing_1783654501199_11",
+      "amount": "1",
+      "unit": "",
+      "name": "Spring onion"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Slice cucumber and place in a bowl.",
+      "ingredient_links": [
+        "ing_1783654501199_01"
+      ]
+    },
+    {
+      "text": "Mix fish sauce, sesame oil, soy sauce, rice vinegar, MSG, sugar, chili oil, and garlic oil into a dressing.",
+      "ingredient_links": [
+        "ing_1783654501199_02",
+        "ing_1783654501199_03",
+        "ing_1783654501199_04",
+        "ing_1783654501199_05",
+        "ing_1783654501199_06",
+        "ing_1783654501199_07",
+        "ing_1783654501199_08",
+        "ing_1783654501199_09"
+      ]
+    },
+    {
+      "text": "Add skyr or quark to the dressing and mix until slightly creamy.",
+      "ingredient_links": [
+        "ing_1783654501199_10"
+      ]
+    },
+    {
+      "text": "Combine cucumber with dressing and toss well.",
+      "ingredient_links": [
+        "ing_1783654501199_01"
+      ]
+    },
+    {
+      "text": "Top with chopped spring onion before serving.",
+      "ingredient_links": [
+        "ing_1783654501199_11"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-03T15:35:01.199Z",
+  "updated_at": "2026-07-03T15:35:01.199Z"
+},
+    {
+  "id": "recipe_1783654801122_stm8eg",
+  "name": "Steamed Eggs (Silky Egg Custard)",
+  "from": "",
+  "image": "",
+  "prep_time": 5,
+  "cook_time": 13,
+  "servings": 1,
+  "tags": [
+    "Savory",
+    "Snack"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783654801122_01",
+      "amount": "2",
+      "unit": "",
+      "name": "Eggs"
+    },
+    {
+      "id": "ing_1783654801122_02",
+      "amount": "200",
+      "unit": "ml",
+      "name": "Warm water"
+    },
+    {
+      "id": "ing_1783654801122_03",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Broth powder"
+    },
+    {
+      "id": "ing_1783654801122_04",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783654801122_05",
+      "amount": "to taste",
+      "unit": "",
+      "name": "Garlic / ginger (optional)"
+    },
+    {
+      "id": "ing_1783654801122_06",
+      "amount": "0.5",
+      "unit": "",
+      "name": "Spring onion"
+    },
+    {
+      "id": "ing_1783654801122_07",
+      "amount": "to taste",
+      "unit": "",
+      "name": "Soy sauce"
+    },
+    {
+      "id": "ing_1783654801122_08",
+      "amount": "to taste",
+      "unit": "",
+      "name": "Chili oil"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Whisk eggs in a bowl until smooth.",
+      "ingredient_links": [
+        "ing_1783654801122_01"
+      ]
+    },
+    {
+      "text": "Mix in broth powder, salt, warm water, and optional spices.",
+      "ingredient_links": [
+        "ing_1783654801122_02",
+        "ing_1783654801122_03",
+        "ing_1783654801122_04",
+        "ing_1783654801122_05"
+      ]
+    },
+    {
+      "text": "Remove bubbles from the surface for a smooth texture.",
+      "ingredient_links": [
+        "ing_1783654801122_01"
+      ]
+    },
+    {
+      "text": "Steam over boiling water for about 13 minutes with lid on.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Top with spring onion, soy sauce, and chili oil before serving.",
+      "ingredient_links": [
+        "ing_1783654801122_06",
+        "ing_1783654801122_07",
+        "ing_1783654801122_08"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-03T15:40:01.122Z",
+  "updated_at": "2026-07-03T15:40:01.122Z"
+},
+    {
+  "id": "recipe_1783655101148_crr8pb",
+  "name": "Tomato Peanut Chickpea Curry",
+  "from": "",
+  "image": "",
+  "prep_time": 10,
+  "cook_time": 20,
+  "servings": 4,
+  "tags": [
+    "Savory",
+    "Meal Prep"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783655101148_01",
+      "amount": "2",
+      "unit": "",
+      "name": "Spring onions"
+    },
+    {
+      "id": "ing_1783655101148_02",
+      "amount": "1",
+      "unit": "can",
+      "name": "Chopped or blended tomatoes"
+    },
+    {
+      "id": "ing_1783655101148_03",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Peanut butter"
+    },
+    {
+      "id": "ing_1783655101148_04",
+      "amount": "1",
+      "unit": "can",
+      "name": "Chickpeas"
+    },
+    {
+      "id": "ing_1783655101148_05",
+      "amount": "1",
+      "unit": "can",
+      "name": "White beans"
+    },
+    {
+      "id": "ing_1783655101148_06",
+      "amount": "to taste",
+      "unit": "",
+      "name": "Spices"
+    },
+    {
+      "id": "ing_1783655101148_07",
+      "amount": "to taste",
+      "unit": "",
+      "name": "Cream"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Finely chop spring onions and blend together with tomatoes, spices, and peanut butter.",
+      "ingredient_links": [
+        "ing_1783655101148_01",
+        "ing_1783655101148_02",
+        "ing_1783655101148_03",
+        "ing_1783655101148_06"
+      ]
+    },
+    {
+      "text": "Pour mixture into a pan and add chickpeas and white beans.",
+      "ingredient_links": [
+        "ing_1783655101148_04",
+        "ing_1783655101148_05"
+      ]
+    },
+    {
+      "text": "Add cream and bring to a boil, stirring well.",
+      "ingredient_links": [
+        "ing_1783655101148_07"
+      ]
+    },
+    {
+      "text": "Simmer until slightly thickened and serve with flatbread.",
+      "ingredient_links": []
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-03T15:45:01.148Z",
+  "updated_at": "2026-07-03T15:45:01.148Z"
+}
   ],
   "images": {}
 }
