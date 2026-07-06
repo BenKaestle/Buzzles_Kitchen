@@ -4210,6 +4210,4212 @@
   "comments": [],
   "created_at": "2026-07-03T15:45:01.148Z",
   "updated_at": "2026-07-03T15:45:01.148Z"
+},
+    {
+  "id": "recipe_1782639895620_kungpao_9021",
+  "name": "Kung Pao Chicken",
+  "from": "",
+  "image": "",
+  "prep_time": 20,
+  "cook_time": 15,
+  "servings": 4,
+  "tags": [
+    "Savory",
+    "Party Food"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783001001_a1",
+      "amount": "500",
+      "unit": "g",
+      "name": "Chicken thigh"
+    },
+    {
+      "id": "ing_1783001002_a2",
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "Shaoxing wine"
+    },
+    {
+      "id": "ing_1783001003_a3",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Dark soy sauce"
+    },
+    {
+      "id": "ing_1783001004_a4",
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Cornflour"
+    },
+    {
+      "id": "ing_1783001005_a5",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Baking soda"
+    },
+    {
+      "id": "ing_1783001006_a6",
+      "amount": "",
+      "unit": "",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783001007_a7",
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper"
+    },
+    {
+      "id": "ing_1783001008_a8",
+      "amount": "250",
+      "unit": "ml",
+      "name": "Chicken stock"
+    },
+    {
+      "id": "ing_1783001009_a9",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Soy sauce"
+    },
+    {
+      "id": "ing_1783001010_a10",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Rice wine vinegar"
+    },
+    {
+      "id": "ing_1783001011_a11",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Sesame oil"
+    },
+    {
+      "id": "ing_1783001012_a12",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Sugar"
+    },
+    {
+      "id": "ing_1783001013_a13",
+      "amount": "",
+      "unit": "",
+      "name": "Garlic"
+    },
+    {
+      "id": "ing_1783001014_a14",
+      "amount": "",
+      "unit": "",
+      "name": "Ginger"
+    },
+    {
+      "id": "ing_1783001015_a15",
+      "amount": "",
+      "unit": "",
+      "name": "Chilli"
+    },
+    {
+      "id": "ing_1783001016_a16",
+      "amount": "",
+      "unit": "",
+      "name": "Spring onion"
+    },
+    {
+      "id": "ing_1783001017_a17",
+      "amount": "",
+      "unit": "",
+      "name": "White onion"
+    },
+    {
+      "id": "ing_1783001018_a18",
+      "amount": "",
+      "unit": "",
+      "name": "Ground Sichuan peppercorn powder"
+    },
+    {
+      "id": "ing_1783001019_a19",
+      "amount": "",
+      "unit": "",
+      "name": "Peanuts"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Cut the chicken thigh into evenly sized pieces.",
+      "ingredient_links": [
+        "ing_1783001001_a1"
+      ]
+    },
+    {
+      "text": "Marinate the chicken with Shaoxing wine, dark soy sauce, cornflour, baking soda, salt, and pepper.",
+      "ingredient_links": [
+        "ing_1783001002_a2",
+        "ing_1783001003_a3",
+        "ing_1783001004_a4",
+        "ing_1783001005_a5",
+        "ing_1783001006_a6",
+        "ing_1783001007_a7",
+        "ing_1783001001_a1"
+      ]
+    },
+    {
+      "text": "Cook the chicken over medium to high heat until browned, then set aside.",
+      "ingredient_links": [
+        "ing_1783001001_a1"
+      ]
+    },
+    {
+      "text": "In an oiled pan, fry garlic, ginger, and the white parts of spring onion, then add chilli.",
+      "ingredient_links": [
+        "ing_1783001013_a13",
+        "ing_1783001014_a14",
+        "ing_1783001016_a16",
+        "ing_1783001015_a15"
+      ]
+    },
+    {
+      "text": "Add white onion and cook until slightly softened but still crunchy, then return the chicken to the pan.",
+      "ingredient_links": [
+        "ing_1783001017_a17",
+        "ing_1783001001_a1"
+      ]
+    },
+    {
+      "text": "Pour in the sauce mixture (chicken stock, soy sauce, dark soy sauce, Shaoxing wine, rice wine vinegar, sesame oil, sugar, and cornflour), then add spring onion greens and Sichuan pepper powder. Simmer until thickened.",
+      "ingredient_links": [
+        "ing_1783001008_a8",
+        "ing_1783001009_a9",
+        "ing_1783001003_a3",
+        "ing_1783001002_a2",
+        "ing_1783001010_a10",
+        "ing_1783001011_a11",
+        "ing_1783001012_a12",
+        "ing_1783001004_a4",
+        "ing_1783001016_a16",
+        "ing_1783001018_a18"
+      ]
+    },
+    {
+      "text": "Finish by stirring in roasted peanuts and serve.",
+      "ingredient_links": [
+        "ing_1783001019_a19"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-06T00:00:00.000Z",
+  "updated_at": "2026-07-06T00:00:00.000Z"
+},
+    {
+  "id": "recipe_178300999001_bigbatch_quesadilla",
+  "name": "High-Protein Black Bean Quesadilla Meal Prep",
+  "from": "",
+  "image": "",
+  "prep_time": 40,
+  "cook_time": 35,
+  "servings": 20,
+  "tags": [
+    "Meal Prep",
+    "Savory",
+    "Snack"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_178300999101_a1",
+      "amount": "30",
+      "unit": "g",
+      "name": "Olive oil"
+    },
+    {
+      "id": "ing_178300999102_a2",
+      "amount": "10",
+      "unit": "cloves",
+      "name": "Garlic"
+    },
+    {
+      "id": "ing_178300999103_a3",
+      "amount": "1800",
+      "unit": "g",
+      "name": "Black beans"
+    },
+    {
+      "id": "ing_178300999104_a4",
+      "amount": "30",
+      "unit": "g",
+      "name": "Taco seasoning"
+    },
+    {
+      "id": "ing_178300999105_a5",
+      "amount": "800",
+      "unit": "g",
+      "name": "Red enchilada sauce"
+    },
+    {
+      "id": "ing_178300999106_a6",
+      "amount": "10",
+      "unit": "g",
+      "name": "Nutritional yeast"
+    },
+    {
+      "id": "ing_178300999107_a7",
+      "amount": "1",
+      "unit": "bunch",
+      "name": "Cilantro stems"
+    },
+    {
+      "id": "ing_178300999108_a8",
+      "amount": "360",
+      "unit": "g",
+      "name": "Cottage cheese"
+    },
+    {
+      "id": "ing_178300999109_a9",
+      "amount": "200",
+      "unit": "g",
+      "name": "Fat-free mozzarella"
+    },
+    {
+      "id": "ing_178300999110_a10",
+      "amount": "200",
+      "unit": "g",
+      "name": "Cheddar cheese"
+    },
+    {
+      "id": "ing_178300999111_a11",
+      "amount": "1",
+      "unit": "bunch",
+      "name": "Cilantro leaves"
+    },
+    {
+      "id": "ing_178300999112_a12",
+      "amount": "20",
+      "unit": "",
+      "name": "Low-carb taco tortillas"
+    },
+    {
+      "id": "ing_178300999113_a13",
+      "amount": "200",
+      "unit": "g",
+      "name": "Diced chipotles"
+    },
+    {
+      "id": "ing_178300999114_a14",
+      "amount": "200",
+      "unit": "g",
+      "name": "0% Greek yogurt"
+    },
+    {
+      "id": "ing_178300999115_a15",
+      "amount": "20",
+      "unit": "g",
+      "name": "Honey"
+    },
+    {
+      "id": "ing_178300999116_a16",
+      "amount": "10",
+      "unit": "g",
+      "name": "Avocado oil"
+    },
+    {
+      "id": "ing_178300999117_a17",
+      "amount": "",
+      "unit": "",
+      "name": "Salt"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Heat olive oil in a large pot over medium heat and cook garlic until fragrant.",
+      "ingredient_links": [
+        "ing_178300999101_a1",
+        "ing_178300999102_a2"
+      ]
+    },
+    {
+      "text": "Add black beans, taco seasoning, enchilada sauce, nutritional yeast, and chopped cilantro stems. Simmer for about 30 minutes until thickened.",
+      "ingredient_links": [
+        "ing_178300999103_a3",
+        "ing_178300999104_a4",
+        "ing_178300999105_a5",
+        "ing_178300999106_a6",
+        "ing_178300999107_a7"
+      ]
+    },
+    {
+      "text": "Mash the bean mixture until thick but still textured, then mix in cottage cheese, mozzarella, cheddar, and cilantro leaves. Let cool.",
+      "ingredient_links": [
+        "ing_178300999108_a8",
+        "ing_178300999109_a9",
+        "ing_178300999110_a10",
+        "ing_178300999111_a11"
+      ]
+    },
+    {
+      "text": "Divide filling across tortillas, fold, and optionally toast until lightly golden. Cool completely and freeze.",
+      "ingredient_links": [
+        "ing_178300999112_a12"
+      ]
+    },
+    {
+      "text": "Prepare chipotle sauce by blending chipotles, Greek yogurt, honey, avocado oil, and salt.",
+      "ingredient_links": [
+        "ing_178300999113_a13",
+        "ing_178300999114_a14",
+        "ing_178300999115_a15",
+        "ing_178300999116_a16",
+        "ing_178300999117_a17"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-06T00:00:00.000Z",
+  "updated_at": "2026-07-06T00:00:00.000Z"
+},
+    {
+  "id": "recipe_178300999002_honey_lemon_garlic_chicken",
+  "name": "Honey Lemon Garlic Chicken",
+  "from": "",
+  "image": "",
+  "prep_time": 10,
+  "cook_time": 20,
+  "servings": 2,
+  "tags": [
+    "Savory",
+    "Fancy"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_178300999201_a1",
+      "amount": "3",
+      "unit": "",
+      "name": "Chicken thighs"
+    },
+    {
+      "id": "ing_178300999202_a2",
+      "amount": "",
+      "unit": "",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_178300999203_a3",
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper"
+    },
+    {
+      "id": "ing_178300999204_a4",
+      "amount": "",
+      "unit": "",
+      "name": "Cornstarch or flour"
+    },
+    {
+      "id": "ing_178300999205_a5",
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "Butter"
+    },
+    {
+      "id": "ing_178300999206_a6",
+      "amount": "3",
+      "unit": "cloves",
+      "name": "Garlic"
+    },
+    {
+      "id": "ing_178300999207_a7",
+      "amount": "2.5",
+      "unit": "tbsp",
+      "name": "Soy sauce"
+    },
+    {
+      "id": "ing_178300999208_a8",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Honey"
+    },
+    {
+      "id": "ing_178300999209_a9",
+      "amount": "1",
+      "unit": "",
+      "name": "Lemon zest"
+    },
+    {
+      "id": "ing_178300999210_a10",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Paprika"
+    },
+    {
+      "id": "ing_178300999211_a11",
+      "amount": "1.5",
+      "unit": "tsp",
+      "name": "Chili flakes"
+    },
+    {
+      "id": "ing_178300999212_a12",
+      "amount": "",
+      "unit": "",
+      "name": "Sesame seeds (optional garnish)"
+    },
+    {
+      "id": "ing_178300999213_a13",
+      "amount": "",
+      "unit": "",
+      "name": "Green onion (optional garnish)"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Season chicken thighs with salt and pepper, then coat lightly in cornstarch or flour.",
+      "ingredient_links": [
+        "ing_178300999201_a1",
+        "ing_178300999202_a2",
+        "ing_178300999203_a3",
+        "ing_178300999204_a4"
+      ]
+    },
+    {
+      "text": "Pan fry chicken over medium-high heat for 6–8 minutes per side until crispy and cooked through, then set aside.",
+      "ingredient_links": [
+        "ing_178300999201_a1"
+      ]
+    },
+    {
+      "text": "Melt butter in a pan, then add garlic, soy sauce, honey, lemon zest, paprika, and chili flakes. Stir and reduce until thick and sticky.",
+      "ingredient_links": [
+        "ing_178300999205_a5",
+        "ing_178300999206_a6",
+        "ing_178300999207_a7",
+        "ing_178300999208_a8",
+        "ing_178300999209_a9",
+        "ing_178300999210_a10",
+        "ing_178300999211_a11"
+      ]
+    },
+    {
+      "text": "Return chicken to the pan and coat thoroughly in the sauce.",
+      "ingredient_links": [
+        "ing_178300999201_a1"
+      ]
+    },
+    {
+      "text": "Optional: continue reducing remaining sauce until it becomes very thick, then drizzle over the chicken for extra glaze.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Garnish with sesame seeds and green onions and serve.",
+      "ingredient_links": [
+        "ing_178300999212_a12",
+        "ing_178300999213_a13"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-06T00:00:00.000Z",
+  "updated_at": "2026-07-06T00:00:00.000Z"
+},
+    {
+  "id": "recipe_178300999003_sesame_peanut_noodles",
+  "name": "Sesame Peanut Chicken Noodles",
+  "from": "",
+  "image": "",
+  "prep_time": 20,
+  "cook_time": 15,
+  "servings": 2,
+  "tags": [
+    "Savory",
+    "Meal Prep"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_178300999301_a1",
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "Soy sauce (marinade)"
+    },
+    {
+      "id": "ing_178300999302_a2",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Black pepper"
+    },
+    {
+      "id": "ing_178300999303_a3",
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "Chili flakes"
+    },
+    {
+      "id": "ing_178300999304_a4",
+      "amount": "2",
+      "unit": "cloves",
+      "name": "Garlic (marinade)"
+    },
+    {
+      "id": "ing_178300999305_a5",
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Ginger (grated)"
+    },
+    {
+      "id": "ing_178300999306_a6",
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "Baking soda"
+    },
+    {
+      "id": "ing_178300999307_a7",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Cornstarch"
+    },
+    {
+      "id": "ing_178300999308_a8",
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "Soy sauce (sauce)"
+    },
+    {
+      "id": "ing_178300999309_a9",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Chili crisp"
+    },
+    {
+      "id": "ing_178300999310_a10",
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Rice vinegar"
+    },
+    {
+      "id": "ing_178300999311_a11",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Sesame oil"
+    },
+    {
+      "id": "ing_178300999312_a12",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Brown sugar"
+    },
+    {
+      "id": "ing_178300999313_a13",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Peanut butter"
+    },
+    {
+      "id": "ing_178300999314_a14",
+      "amount": "1",
+      "unit": "clove",
+      "name": "Garlic (sauce)"
+    },
+    {
+      "id": "ing_178300999315_a15",
+      "amount": "",
+      "unit": "",
+      "name": "Noodles"
+    },
+    {
+      "id": "ing_178300999316_a16",
+      "amount": "",
+      "unit": "",
+      "name": "Spring onions"
+    },
+    {
+      "id": "ing_178300999317_a17",
+      "amount": "",
+      "unit": "",
+      "name": "Butter"
+    },
+    {
+      "id": "ing_178300999318_a18",
+      "amount": "",
+      "unit": "",
+      "name": "Sesame seeds"
+    },
+    {
+      "id": "ing_178300999319_a19",
+      "amount": "",
+      "unit": "",
+      "name": "Chicken"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Marinate chicken with soy sauce, pepper, chili flakes, grated garlic, grated ginger, baking soda, and cornstarch.",
+      "ingredient_links": [
+        "ing_178300999301_a1",
+        "ing_178300999302_a2",
+        "ing_178300999303_a3",
+        "ing_178300999304_a4",
+        "ing_178300999305_a5",
+        "ing_178300999306_a6",
+        "ing_178300999307_a7",
+        "ing_178300999319_a19"
+      ]
+    },
+    {
+      "text": "Cook chicken in a pan until browned and cooked through, then set aside.",
+      "ingredient_links": [
+        "ing_178300999319_a19"
+      ]
+    },
+    {
+      "text": "Cook noodles according to package instructions and drain.",
+      "ingredient_links": [
+        "ing_178300999315_a15"
+      ]
+    },
+    {
+      "text": "In a bowl, mix soy sauce, chili crisp, rice vinegar, sesame oil, brown sugar, peanut butter, and grated garlic to form the sauce.",
+      "ingredient_links": [
+        "ing_178300999308_a8",
+        "ing_178300999309_a9",
+        "ing_178300999310_a10",
+        "ing_178300999311_a11",
+        "ing_178300999312_a12",
+        "ing_178300999313_a13",
+        "ing_178300999314_a14"
+      ]
+    },
+    {
+      "text": "In a pan, melt butter and toss cooked noodles with sauce until evenly coated.",
+      "ingredient_links": [
+        "ing_178300999317_a17",
+        "ing_178300999315_a15"
+      ]
+    },
+    {
+      "text": "Add chicken and spring onions, mix well and heat through.",
+      "ingredient_links": [
+        "ing_178300999319_a19",
+        "ing_178300999316_a16"
+      ]
+    },
+    {
+      "text": "Finish with sesame seeds and serve.",
+      "ingredient_links": [
+        "ing_178300999318_a18"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-06T00:00:00.000Z",
+  "updated_at": "2026-07-06T00:00:00.000Z"
+},
+    {
+  "id": "recipe_178300999004_kebab_wrap_traybaked",
+  "name": "Tray-Baked Kebab Wrap",
+  "from": "",
+  "image": "",
+  "prep_time": 20,
+  "cook_time": 45,
+  "servings": 5,
+  "tags": [
+    "Savory",
+    "Meal Prep",
+    "Party Food"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_178300999401_a1",
+      "amount": "700",
+      "unit": "g",
+      "name": "Ground beef (80/20)"
+    },
+    {
+      "id": "ing_178300999402_a2",
+      "amount": "1",
+      "unit": "",
+      "name": "Small onion (grated, squeezed)"
+    },
+    {
+      "id": "ing_178300999403_a3",
+      "amount": "4-5",
+      "unit": "cloves",
+      "name": "Garlic"
+    },
+    {
+      "id": "ing_178300999404_a4",
+      "amount": "2",
+      "unit": "",
+      "name": "Red bell peppers"
+    },
+    {
+      "id": "ing_178300999405_a5",
+      "amount": "1/2",
+      "unit": "bunch",
+      "name": "Fresh parsley"
+    },
+    {
+      "id": "ing_178300999406_a6",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Chili flakes"
+    },
+    {
+      "id": "ing_178300999407_a7",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Paprika"
+    },
+    {
+      "id": "ing_178300999408_a8",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Cumin"
+    },
+    {
+      "id": "ing_178300999409_a9",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_178300999410_a10",
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "Black pepper"
+    },
+    {
+      "id": "ing_178300999411_a11",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Olive oil"
+    },
+    {
+      "id": "ing_178300999412_a12",
+      "amount": "4-6",
+      "unit": "",
+      "name": "Large wraps (lavash or tortillas)"
+    },
+    {
+      "id": "ing_178300999413_a13",
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "Tahini"
+    },
+    {
+      "id": "ing_178300999414_a14",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Greek yogurt"
+    },
+    {
+      "id": "ing_178300999415_a15",
+      "amount": "1-2",
+      "unit": "tbsp",
+      "name": "Lemon juice"
+    },
+    {
+      "id": "ing_178300999416_a16",
+      "amount": "1",
+      "unit": "clove",
+      "name": "Garlic (tahini sauce)"
+    },
+    {
+      "id": "ing_178300999417_a17",
+      "amount": "",
+      "unit": "",
+      "name": "Water"
+    },
+    {
+      "id": "ing_178300999418_a18",
+      "amount": "1",
+      "unit": "large",
+      "name": "Red onion"
+    },
+    {
+      "id": "ing_178300999419_a19",
+      "amount": "1",
+      "unit": "",
+      "name": "Tomato"
+    },
+    {
+      "id": "ing_178300999420_a20",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Sumac"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Mix ground beef with grated onion, garlic, chopped red peppers, parsley, chili flakes, paprika, cumin, salt, and black pepper until fully combined.",
+      "ingredient_links": [
+        "ing_178300999401_a1",
+        "ing_178300999402_a2",
+        "ing_178300999403_a3",
+        "ing_178300999404_a4",
+        "ing_178300999405_a5",
+        "ing_178300999406_a6",
+        "ing_178300999407_a7",
+        "ing_178300999408_a8",
+        "ing_178300999409_a9",
+        "ing_178300999410_a10"
+      ]
+    },
+    {
+      "text": "Spread the meat mixture onto a lightly oiled baking tray and optionally score into portions. Place whole red peppers alongside and drizzle with olive oil.",
+      "ingredient_links": [
+        "ing_178300999411_a11",
+        "ing_178300999404_a4"
+      ]
+    },
+    {
+      "text": "Bake at 200°C for 30–40 minutes until cooked through and slightly charred, with blistered peppers.",
+      "ingredient_links": [
+        "ing_178300999401_a1",
+        "ing_178300999404_a4"
+      ]
+    },
+    {
+      "text": "Prepare tahini sauce by mixing tahini, yogurt, lemon juice, garlic, salt, and water until smooth and pourable.",
+      "ingredient_links": [
+        "ing_178300999413_a13",
+        "ing_178300999414_a14",
+        "ing_178300999415_a15",
+        "ing_178300999416_a16",
+        "ing_178300999417_a17"
+      ]
+    },
+    {
+      "text": "Combine red onion, tomato, parsley, sumac, olive oil, lemon juice, and salt to make onion salad.",
+      "ingredient_links": [
+        "ing_178300999418_a18",
+        "ing_178300999419_a19",
+        "ing_178300999420_a20"
+      ]
+    },
+    {
+      "text": "Slice baked kebab, warm wraps, and assemble with kebab, roasted peppers, onion salad, and tahini sauce.",
+      "ingredient_links": [
+        "ing_178300999412_a12"
+      ]
+    },
+    {
+      "text": "Roll wraps tightly and toast briefly in a pan until golden and crisp.",
+      "ingredient_links": [
+        "ing_178300999412_a12"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-06T00:00:00.000Z",
+  "updated_at": "2026-07-06T00:00:00.000Z"
+},
+    {
+  "id": "recipe_178300999005_shoyu_garlic_rice",
+  "name": "Shoyu Garlic Rice (Rice Cooker)",
+  "from": "",
+  "image": "",
+  "prep_time": 10,
+  "cook_time": 30,
+  "servings": 3,
+  "tags": [
+    "Savory",
+    "Meal Prep"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_178300999501_a1",
+      "amount": "2",
+      "unit": "cups",
+      "name": "Rice"
+    },
+    {
+      "id": "ing_178300999502_a2",
+      "amount": "",
+      "unit": "",
+      "name": "Water (rice cooker amount minus 1/4 cup)"
+    },
+    {
+      "id": "ing_178300999503_a3",
+      "amount": "340",
+      "unit": "g",
+      "name": "Chicken (3/4 lb)"
+    },
+    {
+      "id": "ing_178300999504_a4",
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "Shoyu (soy sauce)"
+    },
+    {
+      "id": "ing_178300999505_a5",
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "Mirin"
+    },
+    {
+      "id": "ing_178300999506_a6",
+      "amount": "4-5",
+      "unit": "cloves",
+      "name": "Garlic"
+    },
+    {
+      "id": "ing_178300999507_a7",
+      "amount": "1.5",
+      "unit": "tsp",
+      "name": "Onion powder"
+    },
+    {
+      "id": "ing_178300999508_a8",
+      "amount": "1/2",
+      "unit": "",
+      "name": "Onion"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Add rice and water to a rice cooker (using slightly less water than usual).",
+      "ingredient_links": [
+        "ing_178300999501_a1",
+        "ing_178300999502_a2"
+      ]
+    },
+    {
+      "text": "Add chicken, soy sauce, mirin, garlic, onion powder, and chopped onion directly into the rice cooker.",
+      "ingredient_links": [
+        "ing_178300999503_a3",
+        "ing_178300999504_a4",
+        "ing_178300999505_a5",
+        "ing_178300999506_a6",
+        "ing_178300999507_a7",
+        "ing_178300999508_a8"
+      ]
+    },
+    {
+      "text": "Cook in the rice cooker until done, allowing flavors to absorb into the rice.",
+      "ingredient_links": [
+        "ing_178300999501_a1",
+        "ing_178300999503_a3"
+      ]
+    },
+    {
+      "text": "Fluff, mix well, and serve once fully cooked.",
+      "ingredient_links": [
+        "ing_178300999501_a1"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-06T00:00:00.000Z",
+  "updated_at": "2026-07-06T00:00:00.000Z"
+},
+    {
+  "id": "recipe_178300999006_summer_kidneybean_wrap",
+  "name": "Summer Kidney Bean Wrap",
+  "from": "",
+  "image": "",
+  "prep_time": 15,
+  "cook_time": 5,
+  "servings": 1,
+  "tags": [
+    "Snack",
+    "Savory",
+    "Meal Prep"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_178300999601_a1",
+      "amount": "1",
+      "unit": "can",
+      "name": "Kidney beans (pre-cooked)"
+    },
+    {
+      "id": "ing_178300999602_a2",
+      "amount": "1",
+      "unit": "",
+      "name": "Canned tomato"
+    },
+    {
+      "id": "ing_178300999603_a3",
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "Cumin"
+    },
+    {
+      "id": "ing_178300999604_a4",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Paprika powder"
+    },
+    {
+      "id": "ing_178300999605_a5",
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "Garlic powder"
+    },
+    {
+      "id": "ing_178300999606_a6",
+      "amount": "",
+      "unit": "",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_178300999607_a7",
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper"
+    },
+    {
+      "id": "ing_178300999608_a8",
+      "amount": "1",
+      "unit": "",
+      "name": "Small red onion"
+    },
+    {
+      "id": "ing_178300999609_a9",
+      "amount": "1",
+      "unit": "",
+      "name": "Tomato"
+    },
+    {
+      "id": "ing_178300999610_a10",
+      "amount": "",
+      "unit": "",
+      "name": "Parsley or coriander"
+    },
+    {
+      "id": "ing_178300999611_a11",
+      "amount": "",
+      "unit": "",
+      "name": "Lime juice"
+    },
+    {
+      "id": "ing_178300999612_a12",
+      "amount": "200",
+      "unit": "ml",
+      "name": "Soy yogurt"
+    },
+    {
+      "id": "ing_178300999613_a13",
+      "amount": "1",
+      "unit": "clove",
+      "name": "Garlic"
+    },
+    {
+      "id": "ing_178300999614_a14",
+      "amount": "",
+      "unit": "",
+      "name": "Romaine lettuce"
+    },
+    {
+      "id": "ing_178300999615_a15",
+      "amount": "1",
+      "unit": "",
+      "name": "Wrap"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Mash kidney beans with canned tomato, cumin, paprika, garlic powder, salt, and pepper until combined but still chunky.",
+      "ingredient_links": [
+        "ing_178300999601_a1",
+        "ing_178300999602_a2",
+        "ing_178300999603_a3",
+        "ing_178300999604_a4",
+        "ing_178300999605_a5",
+        "ing_178300999606_a6",
+        "ing_178300999607_a7"
+      ]
+    },
+    {
+      "text": "Mix diced tomato, red onion, and herbs with lime juice and salt to form a fresh salad.",
+      "ingredient_links": [
+        "ing_178300999608_a8",
+        "ing_178300999609_a9",
+        "ing_178300999610_a10",
+        "ing_178300999611_a11"
+      ]
+    },
+    {
+      "text": "Stir soy yogurt with grated garlic, lime juice, salt, and pepper to make the sauce.",
+      "ingredient_links": [
+        "ing_178300999612_a12",
+        "ing_178300999613_a13"
+      ]
+    },
+    {
+      "text": "Spread bean mixture onto a wrap, top with salad, romaine lettuce, and yogurt sauce, then roll tightly and serve.",
+      "ingredient_links": [
+        "ing_178300999615_a15",
+        "ing_178300999614_a14"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-06T00:00:00.000Z",
+  "updated_at": "2026-07-06T00:00:00.000Z"
+},
+    {
+  "id": "recipe_178300999007_chinese_chicken_breast",
+  "name": "Chinese Braised Chicken Breast with Scallions",
+  "from": "",
+  "image": "",
+  "prep_time": 20,
+  "cook_time": 25,
+  "servings": 2,
+  "tags": [
+    "Savory",
+    "Meal Prep"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_178300999701_a1",
+      "amount": "2",
+      "unit": "",
+      "name": "Chicken breasts"
+    },
+    {
+      "id": "ing_178300999702_a2",
+      "amount": "1",
+      "unit": "piece",
+      "name": "Ginger"
+    },
+    {
+      "id": "ing_178300999703_a3",
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "Cooking wine"
+    },
+    {
+      "id": "ing_178300999704_a4",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Light soy sauce"
+    },
+    {
+      "id": "ing_178300999705_a5",
+      "amount": "1",
+      "unit": "",
+      "name": "Egg"
+    },
+    {
+      "id": "ing_178300999706_a6",
+      "amount": "6",
+      "unit": "tbsp",
+      "name": "Cornstarch"
+    },
+    {
+      "id": "ing_178300999707_a7",
+      "amount": "1",
+      "unit": "bunch",
+      "name": "Green onions"
+    },
+    {
+      "id": "ing_178300999708_a8",
+      "amount": "",
+      "unit": "",
+      "name": "Oil for frying"
+    },
+    {
+      "id": "ing_178300999709_a9",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Dark soy sauce"
+    },
+    {
+      "id": "ing_178300999710_a10",
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "Sugar"
+    },
+    {
+      "id": "ing_178300999711_a11",
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "Chinese five spice"
+    },
+    {
+      "id": "ing_178300999712_a12",
+      "amount": "",
+      "unit": "",
+      "name": "Chicken powder"
+    },
+    {
+      "id": "ing_178300999713_a13",
+      "amount": "1.5",
+      "unit": "cups",
+      "name": "Water"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Slice chicken breasts into thick pieces and lightly pound to tenderize.",
+      "ingredient_links": [
+        "ing_178300999701_a1"
+      ]
+    },
+    {
+      "text": "Mix smashed ginger with cooking wine and light soy sauce, then massage into the chicken.",
+      "ingredient_links": [
+        "ing_178300999702_a2",
+        "ing_178300999703_a3",
+        "ing_178300999704_a4"
+      ]
+    },
+    {
+      "text": "Add egg and cornstarch, mixing until chicken is evenly coated.",
+      "ingredient_links": [
+        "ing_178300999705_a5",
+        "ing_178300999706_a6"
+      ]
+    },
+    {
+      "text": "Pan-fry chicken until golden on both sides, then remove and set aside.",
+      "ingredient_links": [
+        "ing_178300999701_a1"
+      ]
+    },
+    {
+      "text": "Fry ginger and scallion whites in the same pan, then layer scallion greens and chicken back in.",
+      "ingredient_links": [
+        "ing_178300999702_a2",
+        "ing_178300999707_a7"
+      ]
+    },
+    {
+      "text": "Add soy sauces, sugar, five spice, chicken powder, and water. Bring to a boil.",
+      "ingredient_links": [
+        "ing_178300999704_a4",
+        "ing_178300999709_a9",
+        "ing_178300999710_a10",
+        "ing_178300999711_a11",
+        "ing_178300999712_a12",
+        "ing_178300999713_a13"
+      ]
+    },
+    {
+      "text": "Cover and simmer, then uncover and reduce until sauce becomes glossy.",
+      "ingredient_links": [
+        "ing_178300999713_a13"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-06T00:00:00.000Z",
+  "updated_at": "2026-07-06T00:00:00.000Z"
+},
+    {
+  "id": "recipe_178300999008_pickle_dip",
+  "name": "Pickle Dip",
+  "from": "",
+  "image": "",
+  "prep_time": 10,
+  "cook_time": 5,
+  "servings": 4,
+  "tags": [
+    "Dip",
+    "Snack",
+    "Appetizer",
+    "Savory"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_178300999801_a1",
+      "amount": "1",
+      "unit": "jar",
+      "name": "Pickles"
+    },
+    {
+      "id": "ing_178300999802_a2",
+      "amount": "3",
+      "unit": "",
+      "name": "Spring onions"
+    },
+    {
+      "id": "ing_178300999803_a3",
+      "amount": "250",
+      "unit": "g",
+      "name": "Herb quark"
+    },
+    {
+      "id": "ing_178300999804_a4",
+      "amount": "250",
+      "unit": "g",
+      "name": "Low-fat quark (Magerquark)"
+    },
+    {
+      "id": "ing_178300999805_a5",
+      "amount": "200",
+      "unit": "g",
+      "name": "Cottage cheese (grainy quark)"
+    },
+    {
+      "id": "ing_178300999806_a6",
+      "amount": "",
+      "unit": "",
+      "name": "Cheddar"
+    },
+    {
+      "id": "ing_178300999807_a7",
+      "amount": "",
+      "unit": "",
+      "name": "Tabasco"
+    },
+    {
+      "id": "ing_178300999808_a8",
+      "amount": "",
+      "unit": "",
+      "name": "Jalapeños"
+    },
+    {
+      "id": "ing_178300999809_a9",
+      "amount": "",
+      "unit": "",
+      "name": "Bacon (optional)"
+    },
+    {
+      "id": "ing_178300999810_a10",
+      "amount": "",
+      "unit": "",
+      "name": "Ham (optional)"
+    },
+    {
+      "id": "ing_178300999811_a11",
+      "amount": "",
+      "unit": "",
+      "name": "Chicken (optional)"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Finely chop pickles and spring onions.",
+      "ingredient_links": [
+        "ing_178300999801_a1",
+        "ing_178300999802_a2"
+      ]
+    },
+    {
+      "text": "Mix herb quark, low-fat quark, and cottage cheese until smooth.",
+      "ingredient_links": [
+        "ing_178300999803_a3",
+        "ing_178300999804_a4",
+        "ing_178300999805_a5"
+      ]
+    },
+    {
+      "text": "Stir in chopped pickles, spring onions, cheddar, Tabasco, and jalapeños.",
+      "ingredient_links": [
+        "ing_178300999801_a1",
+        "ing_178300999802_a2",
+        "ing_178300999806_a6",
+        "ing_178300999807_a7",
+        "ing_178300999808_a8"
+      ]
+    },
+    {
+      "text": "Optionally fold in cooked bacon, ham, or chicken for extra protein.",
+      "ingredient_links": [
+        "ing_178300999809_a9",
+        "ing_178300999810_a10",
+        "ing_178300999811_a11"
+      ]
+    },
+    {
+      "text": "Mix well and chill before serving.",
+      "ingredient_links": []
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-06T00:00:00.000Z",
+  "updated_at": "2026-07-06T00:00:00.000Z"
+},
+    {
+  "id": "recipe_178300999009_tuna_egg_dip_cucumber",
+  "name": "Tuna Egg Dip with Cucumber",
+  "from": "",
+  "image": "",
+  "prep_time": 10,
+  "cook_time": 10,
+  "servings": 1,
+  "tags": [
+    "Snack",
+    "Savory",
+    "Appetizer",
+    "Meal Prep"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_178300999901_a1",
+      "amount": "3",
+      "unit": "",
+      "name": "Mini cucumbers"
+    },
+    {
+      "id": "ing_178300999902_a2",
+      "amount": "1",
+      "unit": "can",
+      "name": "Tuna"
+    },
+    {
+      "id": "ing_178300999903_a3",
+      "amount": "3",
+      "unit": "tsp",
+      "name": "Greek yogurt"
+    },
+    {
+      "id": "ing_178300999904_a4",
+      "amount": "",
+      "unit": "",
+      "name": "Wasabi (small amount)"
+    },
+    {
+      "id": "ing_178300999905_a5",
+      "amount": "2",
+      "unit": "",
+      "name": "Eggs"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Boil eggs until hard boiled, then peel and chop.",
+      "ingredient_links": [
+        "ing_178300999905_a5"
+      ]
+    },
+    {
+      "text": "Mix tuna, Greek yogurt, and a small amount of wasabi into a creamy dip.",
+      "ingredient_links": [
+        "ing_178300999902_a2",
+        "ing_178300999903_a3",
+        "ing_178300999904_a4"
+      ]
+    },
+    {
+      "text": "Slice or chop cucumbers for dipping or serving.",
+      "ingredient_links": [
+        "ing_178300999901_a1"
+      ]
+    },
+    {
+      "text": "Combine chopped eggs with the tuna mixture or serve on top.",
+      "ingredient_links": [
+        "ing_178300999905_a5",
+        "ing_178300999902_a2"
+      ]
+    },
+    {
+      "text": "Serve chilled with cucumbers on the side.",
+      "ingredient_links": [
+        "ing_178300999901_a1"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-06T00:00:00.000Z",
+  "updated_at": "2026-07-06T00:00:00.000Z"
+},
+    {
+  "id": "recipe_178300999010_bourbon_chicken",
+  "name": "Bourbon Chicken",
+  "from": "",
+  "image": "",
+  "prep_time": 15,
+  "cook_time": 25,
+  "servings": 4,
+  "tags": [
+    "Savory",
+    "Meal Prep",
+    "Fancy"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783009991001_a1",
+      "amount": "900",
+      "unit": "g",
+      "name": "Chicken thighs (2 lbs)"
+    },
+    {
+      "id": "ing_1783009991002_a2",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Onion powder"
+    },
+    {
+      "id": "ing_1783009991003_a3",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Garlic powder"
+    },
+    {
+      "id": "ing_1783009991004_a4",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Paprika"
+    },
+    {
+      "id": "ing_1783009991005_a5",
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper"
+    },
+    {
+      "id": "ing_1783009991006_a6",
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "Soy sauce"
+    },
+    {
+      "id": "ing_1783009991007_a7",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Hoisin sauce"
+    },
+    {
+      "id": "ing_1783009991008_a8",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Ketchup"
+    },
+    {
+      "id": "ing_1783009991009_a9",
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "Apple juice"
+    },
+    {
+      "id": "ing_1783009991010_a10",
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "Water"
+    },
+    {
+      "id": "ing_1783009991011_a11",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Apple cider vinegar"
+    },
+    {
+      "id": "ing_1783009991012_a12",
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "Brown sugar"
+    },
+    {
+      "id": "ing_1783009991013_a13",
+      "amount": "1",
+      "unit": "inch",
+      "name": "Ginger (grated)"
+    },
+    {
+      "id": "ing_1783009991014_a14",
+      "amount": "3",
+      "unit": "cloves",
+      "name": "Garlic"
+    },
+    {
+      "id": "ing_1783009991015_a15",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Cornstarch slurry"
+    },
+    {
+      "id": "ing_1783009991016_a16",
+      "amount": "",
+      "unit": "",
+      "name": "Oil for frying"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Whisk soy sauce, hoisin, ketchup, apple juice, water, vinegar, brown sugar, ginger, and garlic into a sauce mixture.",
+      "ingredient_links": [
+        "ing_1783009991006_a6",
+        "ing_1783009991007_a7",
+        "ing_1783009991008_a8",
+        "ing_1783009991009_a9",
+        "ing_1783009991010_a10",
+        "ing_1783009991011_a11",
+        "ing_1783009991012_a12",
+        "ing_1783009991013_a13",
+        "ing_1783009991014_a14"
+      ]
+    },
+    {
+      "text": "Season chicken thighs with onion powder, garlic powder, paprika, and black pepper.",
+      "ingredient_links": [
+        "ing_1783009991001_a1",
+        "ing_1783009991002_a2",
+        "ing_1783009991003_a3",
+        "ing_1783009991004_a4",
+        "ing_1783009991005_a5"
+      ]
+    },
+    {
+      "text": "Brown chicken in a skillet with oil, then remove and set aside.",
+      "ingredient_links": [
+        "ing_1783009991001_a1",
+        "ing_1783009991016_a16"
+      ]
+    },
+    {
+      "text": "Pour sauce into the pan and reduce by half, scraping up browned bits, then stir in cornstarch slurry.",
+      "ingredient_links": [
+        "ing_1783009991015_a15"
+      ]
+    },
+    {
+      "text": "Return chicken to the pan and simmer until fully cooked and sauce is thickened.",
+      "ingredient_links": [
+        "ing_1783009991001_a1"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-06T00:00:00.000Z",
+  "updated_at": "2026-07-06T00:00:00.000Z"
+},
+    {
+  "id": "recipe_178300999011_sticky_sweet_chicken",
+  "name": "Sticky Sweet Chicken",
+  "from": "",
+  "image": "",
+  "prep_time": 15,
+  "cook_time": 15,
+  "servings": 2,
+  "tags": [
+    "Savory",
+    "Meal Prep"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783009991101_a1",
+      "amount": "16",
+      "unit": "oz",
+      "name": "Chicken thighs (bite-sized chunks)"
+    },
+    {
+      "id": "ing_1783009991102_a2",
+      "amount": "",
+      "unit": "",
+      "name": "Neutral oil"
+    },
+    {
+      "id": "ing_1783009991103_a3",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Dark soy sauce"
+    },
+    {
+      "id": "ing_1783009991104_a4",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Light soy sauce"
+    },
+    {
+      "id": "ing_1783009991105_a5",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Oyster sauce"
+    },
+    {
+      "id": "ing_1783009991106_a6",
+      "amount": "3",
+      "unit": "cloves",
+      "name": "Garlic"
+    },
+    {
+      "id": "ing_1783009991107_a7",
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "Brown sugar"
+    },
+    {
+      "id": "ing_1783009991108_a8",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Honey"
+    },
+    {
+      "id": "ing_1783009991109_a9",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Rice vinegar"
+    },
+    {
+      "id": "ing_1783009991110_a10",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Sesame oil"
+    },
+    {
+      "id": "ing_1783009991111_a11",
+      "amount": "",
+      "unit": "",
+      "name": "Scallions (optional garnish)"
+    },
+    {
+      "id": "ing_1783009991112_a12",
+      "amount": "",
+      "unit": "",
+      "name": "Steamed rice (optional serving)"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Marinate chicken with dark soy sauce, light soy sauce, oyster sauce, garlic, brown sugar, honey, rice vinegar, and sesame oil for 15 minutes.",
+      "ingredient_links": [
+        "ing_1783009991101_a1",
+        "ing_1783009991103_a3",
+        "ing_1783009991104_a4",
+        "ing_1783009991105_a5",
+        "ing_1783009991106_a6",
+        "ing_1783009991107_a7",
+        "ing_1783009991108_a8",
+        "ing_1783009991109_a9",
+        "ing_1783009991110_a10"
+      ]
+    },
+    {
+      "text": "Cook chicken in a pan over medium heat until fully cooked and sauce reduces into a sticky glaze.",
+      "ingredient_links": [
+        "ing_1783009991101_a1",
+        "ing_1783009991102_a2"
+      ]
+    },
+    {
+      "text": "Serve over rice once the sauce is thick and glossy.",
+      "ingredient_links": [
+        "ing_1783009991112_a12"
+      ]
+    },
+    {
+      "text": "Optionally garnish with scallions.",
+      "ingredient_links": [
+        "ing_1783009991111_a11"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-06T00:00:00.000Z",
+  "updated_at": "2026-07-06T00:00:00.000Z"
+},
+    {
+  "id": "recipe_178300999012_smashed_beef_kabob_yogurt",
+  "name": "Smashed Beef Kabob with Cucumber Yogurt",
+  "from": "NYT Cooking",
+  "image": "",
+  "prep_time": 20,
+  "cook_time": 15,
+  "servings": 4,
+  "tags": [
+    "Savory",
+    "Fancy",
+    "Party Food"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783009991201_a1",
+      "amount": "2",
+      "unit": "cups",
+      "name": "Greek yogurt"
+    },
+    {
+      "id": "ing_1783009991202_a2",
+      "amount": "2",
+      "unit": "",
+      "name": "Mini cucumbers"
+    },
+    {
+      "id": "ing_1783009991203_a3",
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "Mint"
+    },
+    {
+      "id": "ing_1783009991204_a4",
+      "amount": "1",
+      "unit": "",
+      "name": "Large garlic clove"
+    },
+    {
+      "id": "ing_1783009991205_a5",
+      "amount": "450",
+      "unit": "g",
+      "name": "Ground beef (80/20)"
+    },
+    {
+      "id": "ing_1783009991206_a6",
+      "amount": "1",
+      "unit": "",
+      "name": "Small yellow onion"
+    },
+    {
+      "id": "ing_1783009991207_a7",
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "Ground turmeric"
+    },
+    {
+      "id": "ing_1783009991208_a8",
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783009991209_a9",
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper"
+    },
+    {
+      "id": "ing_1783009991210_a10",
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "Walnuts"
+    },
+    {
+      "id": "ing_1783009991211_a11",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Dried cranberries"
+    },
+    {
+      "id": "ing_1783009991212_a12",
+      "amount": "",
+      "unit": "",
+      "name": "Pomegranate molasses (optional)"
+    },
+    {
+      "id": "ing_1783009991213_a13",
+      "amount": "",
+      "unit": "",
+      "name": "Pita or rice (for serving)"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Mix Greek yogurt with cucumbers, mint, and garlic, then chill until serving.",
+      "ingredient_links": [
+        "ing_1783009991201_a1",
+        "ing_1783009991202_a2",
+        "ing_1783009991203_a3",
+        "ing_1783009991204_a4"
+      ]
+    },
+    {
+      "text": "Combine ground beef with onion, turmeric, 1 teaspoon of salt, and black pepper.",
+      "ingredient_links": [
+        "ing_1783009991205_a5",
+        "ing_1783009991206_a6",
+        "ing_1783009991207_a7",
+        "ing_1783009991208_a8",
+        "ing_1783009991209_a9"
+      ]
+    },
+    {
+      "text": "Cook beef in a hot skillet in large chunks until deeply browned and crisp on the bottom, then break apart.",
+      "ingredient_links": [
+        "ing_1783009991205_a5"
+      ]
+    },
+    {
+      "text": "Stir in walnuts and cranberries and cook until toasted and fully browned.",
+      "ingredient_links": [
+        "ing_1783009991210_a10",
+        "ing_1783009991211_a11"
+      ]
+    },
+    {
+      "text": "Season yogurt with remaining salt, spread on a plate, top with beef, and finish with pomegranate molasses.",
+      "ingredient_links": [
+        "ing_1783009991201_a1",
+        "ing_1783009991208_a8",
+        "ing_1783009991212_a12"
+      ]
+    },
+    {
+      "text": "Serve with warm pita or rice.",
+      "ingredient_links": [
+        "ing_1783009991213_a13"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-06T00:00:00.000Z",
+  "updated_at": "2026-07-06T00:00:00.000Z"
+},
+    {
+  "id": "recipe_178300999013_creamy_garlic_lemon_chickpeas",
+  "name": "Creamy Garlic-Lemon Chickpeas",
+  "from": "",
+  "image": "",
+  "prep_time": 10,
+  "cook_time": 20,
+  "servings": 4,
+  "tags": [
+    "Savory",
+    "Meal Prep",
+    "Vegetarian"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783009991301_a1",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Olive oil"
+    },
+    {
+      "id": "ing_1783009991302_a2",
+      "amount": "3-4",
+      "unit": "",
+      "name": "Shallots (minced)"
+    },
+    {
+      "id": "ing_1783009991303_a3",
+      "amount": "6",
+      "unit": "cloves",
+      "name": "Garlic"
+    },
+    {
+      "id": "ing_1783009991304_a4",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Miso paste"
+    },
+    {
+      "id": "ing_1783009991305_a5",
+      "amount": "1-3",
+      "unit": "tbsp",
+      "name": "Red pepper flakes"
+    },
+    {
+      "id": "ing_1783009991306_a6",
+      "amount": "900",
+      "unit": "g",
+      "name": "Chickpeas (canned, drained & rinsed)"
+    },
+    {
+      "id": "ing_1783009991307_a7",
+      "amount": "235",
+      "unit": "ml",
+      "name": "Heavy cream"
+    },
+    {
+      "id": "ing_1783009991308_a8",
+      "amount": "235",
+      "unit": "ml",
+      "name": "Chicken or vegetable broth"
+    },
+    {
+      "id": "ing_1783009991309_a9",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Nutritional yeast"
+    },
+    {
+      "id": "ing_1783009991310_a10",
+      "amount": "1",
+      "unit": "",
+      "name": "Lemon zest and juice"
+    },
+    {
+      "id": "ing_1783009991311_a11",
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper"
+    },
+    {
+      "id": "ing_1783009991312_a12",
+      "amount": "",
+      "unit": "",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783009991313_a13",
+      "amount": "",
+      "unit": "",
+      "name": "Fresh parsley"
+    },
+    {
+      "id": "ing_1783009991314_a14",
+      "amount": "",
+      "unit": "",
+      "name": "Fresh basil"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Sauté shallots and garlic in olive oil until fragrant.",
+      "ingredient_links": [
+        "ing_1783009991301_a1",
+        "ing_1783009991302_a2",
+        "ing_1783009991303_a3"
+      ]
+    },
+    {
+      "text": "Stir in miso paste and red pepper flakes to build flavor.",
+      "ingredient_links": [
+        "ing_1783009991304_a4",
+        "ing_1783009991305_a5"
+      ]
+    },
+    {
+      "text": "Add chickpeas, broth, and cream, then simmer until slightly thickened.",
+      "ingredient_links": [
+        "ing_1783009991306_a6",
+        "ing_1783009991307_a7",
+        "ing_1783009991308_a8"
+      ]
+    },
+    {
+      "text": "Stir in nutritional yeast, lemon zest, and lemon juice, then adjust seasoning with salt and pepper.",
+      "ingredient_links": [
+        "ing_1783009991309_a9",
+        "ing_1783009991310_a10",
+        "ing_1783009991311_a11",
+        "ing_1783009991312_a12"
+      ]
+    },
+    {
+      "text": "Garnish with fresh parsley and basil before serving.",
+      "ingredient_links": [
+        "ing_1783009991313_a13",
+        "ing_1783009991314_a14"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-06T00:00:00.000Z",
+  "updated_at": "2026-07-06T00:00:00.000Z"
+},
+    {
+  "id": "recipe_178300999014_crispy_beef_tacos_honey_chipotle",
+  "name": "Crispy Beef Tacos with Honey Chipotle Sauce",
+  "from": "",
+  "image": "",
+  "prep_time": 25,
+  "cook_time": 25,
+  "servings": 4,
+  "tags": [
+    "Savory",
+    "Party Food",
+    "Snack"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783009991401_a1",
+      "amount": "1",
+      "unit": "lb",
+      "name": "Ground beef (80/20)"
+    },
+    {
+      "id": "ing_1783009991402_a2",
+      "amount": "1",
+      "unit": "",
+      "name": "Yellow onion (diced)"
+    },
+    {
+      "id": "ing_1783009991403_a3",
+      "amount": "6",
+      "unit": "cloves",
+      "name": "Garlic"
+    },
+    {
+      "id": "ing_1783009991404_a4",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Tomato paste"
+    },
+    {
+      "id": "ing_1783009991405_a5",
+      "amount": "120",
+      "unit": "ml",
+      "name": "Beef stock"
+    },
+    {
+      "id": "ing_1783009991406_a6",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Avocado oil"
+    },
+    {
+      "id": "ing_1783009991407_a7",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Cumin"
+    },
+    {
+      "id": "ing_1783009991408_a8",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Chili powder"
+    },
+    {
+      "id": "ing_1783009991409_a9",
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Paprika"
+    },
+    {
+      "id": "ing_1783009991410_a10",
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Oregano"
+    },
+    {
+      "id": "ing_1783009991411_a11",
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Garlic powder"
+    },
+    {
+      "id": "ing_1783009991412_a12",
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Black pepper"
+    },
+    {
+      "id": "ing_1783009991413_a13",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Cayenne pepper (optional)"
+    },
+    {
+      "id": "ing_1783009991414_a14",
+      "amount": "160",
+      "unit": "ml",
+      "name": "Sour cream"
+    },
+    {
+      "id": "ing_1783009991415_a15",
+      "amount": "80",
+      "unit": "ml",
+      "name": "Mayonnaise"
+    },
+    {
+      "id": "ing_1783009991416_a16",
+      "amount": "2",
+      "unit": "",
+      "name": "Chipotle peppers in adobo"
+    },
+    {
+      "id": "ing_1783009991417_a17",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Honey"
+    },
+    {
+      "id": "ing_1783009991418_a18",
+      "amount": "4-5",
+      "unit": "cloves",
+      "name": "Garlic (sauce)"
+    },
+    {
+      "id": "ing_1783009991419_a19",
+      "amount": "1/2",
+      "unit": "",
+      "name": "Lime (juice)"
+    },
+    {
+      "id": "ing_1783009991420_a20",
+      "amount": "4",
+      "unit": "roma",
+      "name": "Tomatoes"
+    },
+    {
+      "id": "ing_1783009991421_a21",
+      "amount": "1/2",
+      "unit": "",
+      "name": "White onion"
+    },
+    {
+      "id": "ing_1783009991422_a22",
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "Cilantro"
+    },
+    {
+      "id": "ing_1783009991423_a23",
+      "amount": "10-12",
+      "unit": "",
+      "name": "Mini tortillas"
+    },
+    {
+      "id": "ing_1783009991424_a24",
+      "amount": "2",
+      "unit": "cups",
+      "name": "Shredded mozzarella"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Cook onion in avocado oil until soft, then add garlic and ground beef. Brown the beef.",
+      "ingredient_links": [
+        "ing_1783009991402_a2",
+        "ing_1783009991403_a3",
+        "ing_1783009991401_a1",
+        "ing_1783009991406_a6"
+      ]
+    },
+    {
+      "text": "Add taco seasoning spices and tomato paste, then pour in beef stock and simmer until thick and saucy.",
+      "ingredient_links": [
+        "ing_1783009991407_a7",
+        "ing_1783009991408_a8",
+        "ing_1783009991409_a9",
+        "ing_1783009991410_a10",
+        "ing_1783009991411_a11",
+        "ing_1783009991412_a12",
+        "ing_1783009991413_a13",
+        "ing_1783009991404_a4",
+        "ing_1783009991405_a5"
+      ]
+    },
+    {
+      "text": "Blend all honey chipotle sauce ingredients until smooth.",
+      "ingredient_links": [
+        "ing_1783009991414_a14",
+        "ing_1783009991415_a15",
+        "ing_1783009991416_a16",
+        "ing_1783009991417_a17",
+        "ing_1783009991418_a18",
+        "ing_1783009991419_a19"
+      ]
+    },
+    {
+      "text": "Mix pico de gallo ingredients (tomato, onion, cilantro, lime, salt, pepper).",
+      "ingredient_links": [
+        "ing_1783009991420_a20",
+        "ing_1783009991421_a21",
+        "ing_1783009991422_a22"
+      ]
+    },
+    {
+      "text": "Assemble tacos with tortillas, beef, and mozzarella, then fold and fry until crispy.",
+      "ingredient_links": [
+        "ing_1783009991423_a23",
+        "ing_1783009991401_a1",
+        "ing_1783009991424_a24"
+      ]
+    },
+    {
+      "text": "Serve with pico de gallo and honey chipotle sauce.",
+      "ingredient_links": []
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-06T00:00:00.000Z",
+  "updated_at": "2026-07-06T00:00:00.000Z"
+},
+    {
+  "id": "recipe_178300999015_microwave_diet_egg_bokki",
+  "name": "Microwave Diet Egg Bokki (Dduk-less)",
+  "from": "",
+  "image": "",
+  "prep_time": 10,
+  "cook_time": 5,
+  "servings": 1,
+  "tags": [
+    "Snack",
+    "Savory",
+    "Meal Prep"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783009991501_a1",
+      "amount": "2",
+      "unit": "",
+      "name": "Boiled eggs"
+    },
+    {
+      "id": "ing_1783009991502_a2",
+      "amount": "3",
+      "unit": "leaves",
+      "name": "Cabbage"
+    },
+    {
+      "id": "ing_1783009991503_a3",
+      "amount": "",
+      "unit": "",
+      "name": "Shredded cheese"
+    },
+    {
+      "id": "ing_1783009991504_a4",
+      "amount": "",
+      "unit": "",
+      "name": "Green onion"
+    },
+    {
+      "id": "ing_1783009991505_a5",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Gochujang"
+    },
+    {
+      "id": "ing_1783009991506_a6",
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "Gochugaru"
+    },
+    {
+      "id": "ing_1783009991507_a7",
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "Soy sauce"
+    },
+    {
+      "id": "ing_1783009991508_a8",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Sweetener"
+    },
+    {
+      "id": "ing_1783009991509_a9",
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "Minced garlic"
+    },
+    {
+      "id": "ing_1783009991510_a10",
+      "amount": "50",
+      "unit": "ml",
+      "name": "Water"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Mix gochujang, gochugaru, soy sauce, sweetener, garlic, and water to form sauce.",
+      "ingredient_links": [
+        "ing_1783009991505_a5",
+        "ing_1783009991506_a6",
+        "ing_1783009991507_a7",
+        "ing_1783009991508_a8",
+        "ing_1783009991509_a9",
+        "ing_1783009991510_a10"
+      ]
+    },
+    {
+      "text": "Microwave cabbage for 2 minutes until softened.",
+      "ingredient_links": [
+        "ing_1783009991502_a2"
+      ]
+    },
+    {
+      "text": "Combine boiled eggs, cabbage, and sauce in a bowl and microwave briefly until heated through.",
+      "ingredient_links": [
+        "ing_1783009991501_a1",
+        "ing_1783009991502_a2"
+      ]
+    },
+    {
+      "text": "Top with shredded cheese and green onion before serving.",
+      "ingredient_links": [
+        "ing_1783009991503_a3",
+        "ing_1783009991504_a4"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-06T00:00:00.000Z",
+  "updated_at": "2026-07-06T00:00:00.000Z"
+},
+    {
+  "id": "recipe_178300999016_creamy_french_onion_pasta",
+  "name": "One-Pot Creamy French Onion Pasta",
+  "from": "",
+  "image": "",
+  "prep_time": 15,
+  "cook_time": 35,
+  "servings": 4,
+  "tags": [
+    "Savory",
+    "Fancy"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783009991601_a1",
+      "amount": "3",
+      "unit": "",
+      "name": "Large yellow onions"
+    },
+    {
+      "id": "ing_1783009991602_a2",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Butter"
+    },
+    {
+      "id": "ing_1783009991603_a3",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Vegetable oil"
+    },
+    {
+      "id": "ing_1783009991604_a4",
+      "amount": "8",
+      "unit": "oz",
+      "name": "Pancetta"
+    },
+    {
+      "id": "ing_1783009991605_a5",
+      "amount": "2",
+      "unit": "cloves",
+      "name": "Garlic"
+    },
+    {
+      "id": "ing_1783009991606_a6",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "White wine"
+    },
+    {
+      "id": "ing_1783009991607_a7",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783009991608_a8",
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "Thyme"
+    },
+    {
+      "id": "ing_1783009991609_a9",
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "Fresh rosemary"
+    },
+    {
+      "id": "ing_1783009991610_a10",
+      "amount": "250",
+      "unit": "g",
+      "name": "Pasta (8–10 oz)"
+    },
+    {
+      "id": "ing_1783009991611_a11",
+      "amount": "720",
+      "unit": "ml",
+      "name": "Beef broth"
+    },
+    {
+      "id": "ing_1783009991612_a12",
+      "amount": "240",
+      "unit": "ml",
+      "name": "Heavy cream"
+    },
+    {
+      "id": "ing_1783009991613_a13",
+      "amount": "100",
+      "unit": "g",
+      "name": "Parmesan cheese (Parmigiano Reggiano)"
+    },
+    {
+      "id": "ing_1783009991614_a14",
+      "amount": "50",
+      "unit": "g",
+      "name": "Gruyère cheese"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Cook onions in butter and oil until deeply caramelized.",
+      "ingredient_links": [
+        "ing_1783009991601_a1",
+        "ing_1783009991602_a2",
+        "ing_1783009991603_a3"
+      ]
+    },
+    {
+      "text": "Add pancetta and cook until crisp, then stir in garlic and white wine.",
+      "ingredient_links": [
+        "ing_1783009991604_a4",
+        "ing_1783009991605_a5",
+        "ing_1783009991606_a6"
+      ]
+    },
+    {
+      "text": "Season with salt, thyme, and rosemary.",
+      "ingredient_links": [
+        "ing_1783009991607_a7",
+        "ing_1783009991608_a8",
+        "ing_1783009991609_a9"
+      ]
+    },
+    {
+      "text": "Add pasta and beef broth, then simmer until pasta is cooked and liquid is reduced.",
+      "ingredient_links": [
+        "ing_1783009991610_a10",
+        "ing_1783009991611_a11"
+      ]
+    },
+    {
+      "text": "Stir in cream and cheeses until melted and creamy.",
+      "ingredient_links": [
+        "ing_1783009991612_a12",
+        "ing_1783009991613_a13",
+        "ing_1783009991614_a14"
+      ]
+    },
+    {
+      "text": "Serve hot once sauce is thick and glossy.",
+      "ingredient_links": []
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-06T00:00:00.000Z",
+  "updated_at": "2026-07-06T00:00:00.000Z"
+},
+    {
+  "id": "recipe_178300999017_high_protein_low_cal_alfredo",
+  "name": "High Protein Low Cal Alfredo (Cauliflower Alfredo Sauce)",
+  "from": "Joshua Weissman",
+  "image": "",
+  "prep_time": 10,
+  "cook_time": 20,
+  "servings": 4,
+  "tags": [
+    "Savory",
+    "Meal Prep"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783009991701_a1",
+      "amount": "1",
+      "unit": "large head",
+      "name": "Cauliflower"
+    },
+    {
+      "id": "ing_1783009991702_a2",
+      "amount": "22",
+      "unit": "g",
+      "name": "Parmesan cheese"
+    },
+    {
+      "id": "ing_1783009991703_a3",
+      "amount": "22",
+      "unit": "g",
+      "name": "Pecorino Romano cheese"
+    },
+    {
+      "id": "ing_1783009991704_a4",
+      "amount": "3",
+      "unit": "cloves",
+      "name": "Garlic"
+    },
+    {
+      "id": "ing_1783009991705_a5",
+      "amount": "120",
+      "unit": "ml",
+      "name": "Skim milk"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Cook cauliflower until very soft for a smooth texture.",
+      "ingredient_links": [
+        "ing_1783009991701_a1"
+      ]
+    },
+    {
+      "text": "Blend hot cauliflower with Parmesan, Pecorino Romano, garlic, and skim milk until completely smooth.",
+      "ingredient_links": [
+        "ing_1783009991701_a1",
+        "ing_1783009991702_a2",
+        "ing_1783009991703_a3",
+        "ing_1783009991704_a4",
+        "ing_1783009991705_a5"
+      ]
+    },
+    {
+      "text": "Use as a creamy low-calorie Alfredo sauce.",
+      "ingredient_links": []
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-06T00:00:00.000Z",
+  "updated_at": "2026-07-06T00:00:00.000Z"
+},
+    {
+  "id": "recipe_178300999018_crispy_parmesan_crusted_potatoes",
+  "name": "Crispy Parmesan Crusted Potatoes",
+  "from": "",
+  "image": "",
+  "prep_time": 10,
+  "cook_time": 25,
+  "servings": 4,
+  "tags": [
+    "Snack",
+    "Appetizer",
+    "Savory"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783009991801_a1",
+      "amount": "",
+      "unit": "",
+      "name": "Baby Dutch yellow potatoes"
+    },
+    {
+      "id": "ing_1783009991802_a2",
+      "amount": "1/2",
+      "unit": "stick",
+      "name": "Butter"
+    },
+    {
+      "id": "ing_1783009991803_a3",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Parmesan cheese"
+    },
+    {
+      "id": "ing_1783009991804_a4",
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "Onion powder"
+    },
+    {
+      "id": "ing_1783009991805_a5",
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "Garlic powder"
+    },
+    {
+      "id": "ing_1783009991806_a6",
+      "amount": "",
+      "unit": "",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783009991807_a7",
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 415ºF and score potatoes.",
+      "ingredient_links": [
+        "ing_1783009991801_a1"
+      ]
+    },
+    {
+      "text": "Melt butter and mix with parmesan, onion powder, garlic powder, salt, and pepper in a baking dish.",
+      "ingredient_links": [
+        "ing_1783009991802_a2",
+        "ing_1783009991803_a3",
+        "ing_1783009991804_a4",
+        "ing_1783009991805_a5",
+        "ing_1783009991806_a6",
+        "ing_1783009991807_a7"
+      ]
+    },
+    {
+      "text": "Place potatoes cut-side down and brush with butter mixture, then top with extra parmesan.",
+      "ingredient_links": [
+        "ing_1783009991801_a1",
+        "ing_1783009991802_a2",
+        "ing_1783009991803_a3"
+      ]
+    },
+    {
+      "text": "Bake until golden and crispy.",
+      "ingredient_links": [
+        "ing_1783009991801_a1"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-06T00:00:00.000Z",
+  "updated_at": "2026-07-06T00:00:00.000Z"
+},
+    {
+  "id": "recipe_178300999019_satay_kichererbsen",
+  "name": "Satay Chickpeas",
+  "from": "",
+  "image": "",
+  "prep_time": 10,
+  "cook_time": 20,
+  "servings": 3,
+  "tags": [
+    "Savory",
+    "Meal Prep",
+    "Vegetarian"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783009991901_a1",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Olive oil"
+    },
+    {
+      "id": "ing_1783009991902_a2",
+      "amount": "100",
+      "unit": "g",
+      "name": "Leek"
+    },
+    {
+      "id": "ing_1783009991903_a3",
+      "amount": "2",
+      "unit": "",
+      "name": "Spring onions"
+    },
+    {
+      "id": "ing_1783009991904_a4",
+      "amount": "1",
+      "unit": "jar",
+      "name": "Chickpeas"
+    },
+    {
+      "id": "ing_1783009991905_a5",
+      "amount": "5",
+      "unit": "tbsp",
+      "name": "Peanut butter"
+    },
+    {
+      "id": "ing_1783009991906_a6",
+      "amount": "1",
+      "unit": "thumb",
+      "name": "Ginger"
+    },
+    {
+      "id": "ing_1783009991907_a7",
+      "amount": "400",
+      "unit": "ml",
+      "name": "Water"
+    },
+    {
+      "id": "ing_1783009991908_a8",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Miso paste"
+    },
+    {
+      "id": "ing_1783009991909_a9",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Coconut aminos or soy sauce"
+    },
+    {
+      "id": "ing_1783009991910_a10",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Sriracha"
+    },
+    {
+      "id": "ing_1783009991911_a11",
+      "amount": "1",
+      "unit": "",
+      "name": "Lime"
+    },
+    {
+      "id": "ing_1783009991912_a12",
+      "amount": "",
+      "unit": "",
+      "name": "Sesame (topping)"
+    },
+    {
+      "id": "ing_1783009991913_a13",
+      "amount": "",
+      "unit": "",
+      "name": "Chili oil (topping)"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Slice leek and spring onions, reserving some green parts for garnish.",
+      "ingredient_links": [
+        "ing_1783009991902_a2",
+        "ing_1783009991903_a3"
+      ]
+    },
+    {
+      "text": "Sauté leek and spring onions in olive oil until lightly browned.",
+      "ingredient_links": [
+        "ing_1783009991901_a1",
+        "ing_1783009991902_a2",
+        "ing_1783009991903_a3"
+      ]
+    },
+    {
+      "text": "Deglaze with miso water, then reduce heat and stir in peanut butter, coconut aminos, sriracha, and grated ginger.",
+      "ingredient_links": [
+        "ing_1783009991908_a8",
+        "ing_1783009991905_a5",
+        "ing_1783009991909_a9",
+        "ing_1783009991910_a10",
+        "ing_1783009991906_a6",
+        "ing_1783009991907_a7"
+      ]
+    },
+    {
+      "text": "Simmer until creamy and slightly thickened, then add lime juice and chickpeas.",
+      "ingredient_links": [
+        "ing_1783009991911_a11",
+        "ing_1783009991904_a4"
+      ]
+    },
+    {
+      "text": "Cook for a few more minutes until heated through.",
+      "ingredient_links": [
+        "ing_1783009991904_a4"
+      ]
+    },
+    {
+      "text": "Top with spring onion greens, sesame, and chili oil before serving.",
+      "ingredient_links": [
+        "ing_1783009991903_a3",
+        "ing_1783009991912_a12",
+        "ing_1783009991913_a13"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-06T00:00:00.000Z",
+  "updated_at": "2026-07-06T00:00:00.000Z"
+},
+    {
+  "id": "recipe_178300999020_pea_fritters",
+  "name": "Pea Fritters",
+  "from": "",
+  "image": "",
+  "prep_time": 15,
+  "cook_time": 10,
+  "servings": 2,
+  "tags": [
+    "Snack",
+    "Appetizer",
+    "Savory"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783009992001_a1",
+      "amount": "300",
+      "unit": "g",
+      "name": "Frozen peas (cooked)"
+    },
+    {
+      "id": "ing_1783009992002_a2",
+      "amount": "1",
+      "unit": "clove",
+      "name": "Garlic"
+    },
+    {
+      "id": "ing_1783009992003_a3",
+      "amount": "",
+      "unit": "",
+      "name": "Nutritional yeast"
+    },
+    {
+      "id": "ing_1783009992004_a4",
+      "amount": "",
+      "unit": "",
+      "name": "Fresh parsley"
+    },
+    {
+      "id": "ing_1783009992005_a5",
+      "amount": "",
+      "unit": "",
+      "name": "Fresh mint"
+    },
+    {
+      "id": "ing_1783009992006_a6",
+      "amount": "",
+      "unit": "",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783009992007_a7",
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper"
+    },
+    {
+      "id": "ing_1783009992008_a8",
+      "amount": "60",
+      "unit": "g",
+      "name": "White flour"
+    },
+    {
+      "id": "ing_1783009992009_a9",
+      "amount": "60",
+      "unit": "ml",
+      "name": "Water"
+    },
+    {
+      "id": "ing_1783009992010_a10",
+      "amount": "",
+      "unit": "",
+      "name": "Yogurt (for dip)"
+    },
+    {
+      "id": "ing_1783009992011_a11",
+      "amount": "",
+      "unit": "",
+      "name": "Lemon juice (for dip)"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Blend or mash half of the peas with garlic, nutritional yeast, and water until slightly smooth.",
+      "ingredient_links": [
+        "ing_1783009992001_a1",
+        "ing_1783009992002_a2",
+        "ing_1783009992003_a3",
+        "ing_1783009992009_a9"
+      ]
+    },
+    {
+      "text": "Mix in remaining peas, chopped herbs, flour, salt, and pepper until combined.",
+      "ingredient_links": [
+        "ing_1783009992001_a1",
+        "ing_1783009992004_a4",
+        "ing_1783009992005_a5",
+        "ing_1783009992008_a8",
+        "ing_1783009992006_a6",
+        "ing_1783009992007_a7"
+      ]
+    },
+    {
+      "text": "Shape mixture into small patties and cook in a pan or oven until crispy.",
+      "ingredient_links": [
+        "ing_1783009992008_a8"
+      ]
+    },
+    {
+      "text": "Mix yogurt, lemon juice, herbs, and salt to make the dip.",
+      "ingredient_links": [
+        "ing_1783009992010_a10",
+        "ing_1783009992011_a11",
+        "ing_1783009992004_a4",
+        "ing_1783009992005_a5",
+        "ing_1783009992006_a6"
+      ]
+    },
+    {
+      "text": "Serve fritters warm with the yogurt dip.",
+      "ingredient_links": []
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-06T00:00:00.000Z",
+  "updated_at": "2026-07-06T00:00:00.000Z"
+},
+    {
+  "id": "recipe_178300999021_low_cal_high_protein_mayo",
+  "name": "Low Calorie High Protein Mayo",
+  "from": "Hossein Fitness",
+  "image": "",
+  "prep_time": 15,
+  "cook_time": 12,
+  "servings": 1,
+  "tags": [
+    "Dip",
+    "Snack",
+    "Meal Prep"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783009992101_a1",
+      "amount": "5",
+      "unit": "",
+      "name": "Hard boiled egg whites"
+    },
+    {
+      "id": "ing_1783009992102_a2",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Olive oil"
+    },
+    {
+      "id": "ing_1783009992103_a3",
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "Worcestershire sauce"
+    },
+    {
+      "id": "ing_1783009992104_a4",
+      "amount": "2.5",
+      "unit": "tbsp",
+      "name": "Vinegar or pickle juice"
+    },
+    {
+      "id": "ing_1783009992105_a5",
+      "amount": "",
+      "unit": "",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783009992106_a6",
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Boil eggs for 12 minutes, then cool in ice water.",
+      "ingredient_links": [
+        "ing_1783009992101_a1"
+      ]
+    },
+    {
+      "text": "Peel eggs, separate yolks from whites, and add yolks to a blender.",
+      "ingredient_links": [
+        "ing_1783009992101_a1"
+      ]
+    },
+    {
+      "text": "Blend egg yolks with olive oil, Worcestershire sauce, vinegar or pickle juice, salt, and pepper until smooth.",
+      "ingredient_links": [
+        "ing_1783009992102_a2",
+        "ing_1783009992103_a3",
+        "ing_1783009992104_a4",
+        "ing_1783009992105_a5",
+        "ing_1783009992106_a6"
+      ]
+    },
+    {
+      "text": "Use as a high-protein low-calorie mayo alternative.",
+      "ingredient_links": []
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-06T00:00:00.000Z",
+  "updated_at": "2026-07-06T00:00:00.000Z"
+},
+    {
+  "id": "recipe_178300999022_caramelized_garlic_butter",
+  "name": "Caramelized Garlic Butter",
+  "from": "",
+  "image": "",
+  "prep_time": 10,
+  "cook_time": 15,
+  "servings": 8,
+  "tags": [
+    "Dip",
+    "Appetizer",
+    "Snack"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783009992201_a1",
+      "amount": "250",
+      "unit": "g",
+      "name": "Butter"
+    },
+    {
+      "id": "ing_1783009992202_a2",
+      "amount": "1",
+      "unit": "head",
+      "name": "Garlic"
+    },
+    {
+      "id": "ing_1783009992203_a3",
+      "amount": "",
+      "unit": "",
+      "name": "Sea salt (for serving)"
+    },
+    {
+      "id": "ing_1783009992204_a4",
+      "amount": "",
+      "unit": "",
+      "name": "Bread (for serving)"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Gently cook garlic in butter until caramelized, ensuring it is fully submerged.",
+      "ingredient_links": [
+        "ing_1783009992201_a1",
+        "ing_1783009992202_a2"
+      ]
+    },
+    {
+      "text": "Let the melted butter cool until no longer hot.",
+      "ingredient_links": [
+        "ing_1783009992201_a1"
+      ]
+    },
+    {
+      "text": "Blend butter with caramelized garlic until smooth and creamy.",
+      "ingredient_links": [
+        "ing_1783009992201_a1",
+        "ing_1783009992202_a2"
+      ]
+    },
+    {
+      "text": "Chill for 30 minutes in the refrigerator.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Serve on fresh bread with sea salt.",
+      "ingredient_links": [
+        "ing_1783009992203_a3",
+        "ing_1783009992204_a4"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-06T00:00:00.000Z",
+  "updated_at": "2026-07-06T00:00:00.000Z"
+},
+    {
+  "id": "recipe_178300999023_garlic_butter_chicken_crispy_soy_honey",
+  "name": "Garlic Butter Chicken with Crispy Soy Honey Glaze",
+  "from": "",
+  "image": "",
+  "prep_time": 20,
+  "cook_time": 20,
+  "servings": 1,
+  "tags": [
+    "Savory",
+    "Meal Prep",
+    "Snack"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783009992301_a1",
+      "amount": "4",
+      "unit": "oz",
+      "name": "Chicken breast"
+    },
+    {
+      "id": "ing_1783009992302_a2",
+      "amount": "",
+      "unit": "",
+      "name": "Flour (for dredging)"
+    },
+    {
+      "id": "ing_1783009992303_a3",
+      "amount": "",
+      "unit": "",
+      "name": "Egg (for dredging)"
+    },
+    {
+      "id": "ing_1783009992304_a4",
+      "amount": "",
+      "unit": "",
+      "name": "Crushed cornflakes"
+    },
+    {
+      "id": "ing_1783009992305_a5",
+      "amount": "",
+      "unit": "",
+      "name": "Light butter"
+    },
+    {
+      "id": "ing_1783009992306_a6",
+      "amount": "",
+      "unit": "",
+      "name": "Garlic (minced)"
+    },
+    {
+      "id": "ing_1783009992307_a7",
+      "amount": "",
+      "unit": "",
+      "name": "Light soy sauce"
+    },
+    {
+      "id": "ing_1783009992308_a8",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Brown sugar"
+    },
+    {
+      "id": "ing_1783009992309_a9",
+      "amount": "",
+      "unit": "",
+      "name": "Honey"
+    },
+    {
+      "id": "ing_1783009992310_a10",
+      "amount": "60",
+      "unit": "ml",
+      "name": "Water"
+    },
+    {
+      "id": "ing_1783009992311_a11",
+      "amount": "",
+      "unit": "",
+      "name": "Sour cream"
+    },
+    {
+      "id": "ing_1783009992312_a12",
+      "amount": "",
+      "unit": "",
+      "name": "Sriracha"
+    },
+    {
+      "id": "ing_1783009992313_a13",
+      "amount": "1",
+      "unit": "",
+      "name": "Ciabatta bread"
+    },
+    {
+      "id": "ing_1783009992314_a14",
+      "amount": "1",
+      "unit": "",
+      "name": "Cucumber"
+    },
+    {
+      "id": "ing_1783009992315_a15",
+      "amount": "",
+      "unit": "",
+      "name": "Red onion"
+    },
+    {
+      "id": "ing_1783009992316_a16",
+      "amount": "",
+      "unit": "",
+      "name": "Avocado oil"
+    },
+    {
+      "id": "ing_1783009992317_a17",
+      "amount": "",
+      "unit": "",
+      "name": "Hot sauce"
+    },
+    {
+      "id": "ing_1783009992318_a18",
+      "amount": "",
+      "unit": "",
+      "name": "Parsley"
+    },
+    {
+      "id": "ing_1783009992319_a19",
+      "amount": "",
+      "unit": "",
+      "name": "Red pepper flakes"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Dredge chicken in flour, egg, and crushed cornflakes, then air fry at 385°F for 16 minutes, flipping halfway until cooked through.",
+      "ingredient_links": [
+        "ing_1783009992301_a1",
+        "ing_1783009992302_a2",
+        "ing_1783009992303_a3",
+        "ing_1783009992304_a4"
+      ]
+    },
+    {
+      "text": "Make garlic butter soy glaze by cooking butter, garlic, soy sauce, brown sugar, honey, and water until thickened.",
+      "ingredient_links": [
+        "ing_1783009992305_a5",
+        "ing_1783009992306_a6",
+        "ing_1783009992307_a7",
+        "ing_1783009992308_a8",
+        "ing_1783009992309_a9",
+        "ing_1783009992310_a10"
+      ]
+    },
+    {
+      "text": "Mix sour cream with sriracha for a spicy sauce.",
+      "ingredient_links": [
+        "ing_1783009992311_a11",
+        "ing_1783009992312_a12"
+      ]
+    },
+    {
+      "text": "Prepare cucumber salad with cucumber, red onion, avocado oil, hot sauce, garlic, parsley, and red pepper flakes.",
+      "ingredient_links": [
+        "ing_1783009992314_a14",
+        "ing_1783009992315_a15",
+        "ing_1783009992316_a16",
+        "ing_1783009992317_a17",
+        "ing_1783009992318_a18",
+        "ing_1783009992319_a19"
+      ]
+    },
+    {
+      "text": "Assemble sandwich using ciabatta, crispy chicken, garlic butter soy glaze, sour cream sauce, and cucumber salad.",
+      "ingredient_links": [
+        "ing_1783009992313_a13"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-06T00:00:00.000Z",
+  "updated_at": "2026-07-06T00:00:00.000Z"
+},
+    {
+  "id": "recipe_178300999024_potato_pizza",
+  "name": "Potato Pizza",
+  "from": "",
+  "image": "",
+  "prep_time": 25,
+  "cook_time": 65,
+  "servings": 6,
+  "tags": [
+    "Savory",
+    "Snack",
+    "Party Food"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783009992401_a1",
+      "amount": "6",
+      "unit": "medium-small",
+      "name": "Potatoes (boiled)"
+    },
+    {
+      "id": "ing_1783009992402_a2",
+      "amount": "1",
+      "unit": "bunch",
+      "name": "Leek"
+    },
+    {
+      "id": "ing_1783009992403_a3",
+      "amount": "",
+      "unit": "",
+      "name": "Sausage (sucuk)"
+    },
+    {
+      "id": "ing_1783009992404_a4",
+      "amount": "",
+      "unit": "",
+      "name": "Kashar cheese"
+    },
+    {
+      "id": "ing_1783009992405_a5",
+      "amount": "100",
+      "unit": "g",
+      "name": "Cream cheese"
+    },
+    {
+      "id": "ing_1783009992406_a6",
+      "amount": "200",
+      "unit": "ml",
+      "name": "Heavy cream"
+    },
+    {
+      "id": "ing_1783009992407_a7",
+      "amount": "2",
+      "unit": "",
+      "name": "Eggs"
+    },
+    {
+      "id": "ing_1783009992408_a8",
+      "amount": "",
+      "unit": "",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783009992409_a9",
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Press boiled potatoes into a greased baking dish and pre-bake at 200°C until slightly crisp.",
+      "ingredient_links": [
+        "ing_1783009992401_a1"
+      ]
+    },
+    {
+      "text": "Add chopped leek and lightly cooked sausage on top.",
+      "ingredient_links": [
+        "ing_1783009992402_a2",
+        "ing_1783009992403_a3"
+      ]
+    },
+    {
+      "text": "Mix cream cheese, cream, eggs, salt, and pepper into a smooth sauce.",
+      "ingredient_links": [
+        "ing_1783009992405_a5",
+        "ing_1783009992406_a6",
+        "ing_1783009992407_a7",
+        "ing_1783009992408_a8",
+        "ing_1783009992409_a9"
+      ]
+    },
+    {
+      "text": "Pour sauce over the layers and top with shredded cheese.",
+      "ingredient_links": [
+        "ing_1783009992404_a4"
+      ]
+    },
+    {
+      "text": "Bake at 160°C until golden and set, then serve hot.",
+      "ingredient_links": []
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-06T00:00:00.000Z",
+  "updated_at": "2026-07-06T00:00:00.000Z"
+},
+    {
+  "id": "recipe_178300999025_hachis_parmentier",
+  "name": "Hachis Parmentier",
+  "from": "",
+  "image": "",
+  "prep_time": 25,
+  "cook_time": 60,
+  "servings": 6,
+  "tags": [
+    "Savory",
+    "Fancy",
+    "Meal Prep"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783009992501_a1",
+      "amount": "2",
+      "unit": "lb",
+      "name": "Lean ground beef"
+    },
+    {
+      "id": "ing_1783009992502_a2",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Oil"
+    },
+    {
+      "id": "ing_1783009992503_a3",
+      "amount": "1",
+      "unit": "",
+      "name": "Yellow onion"
+    },
+    {
+      "id": "ing_1783009992504_a4",
+      "amount": "2",
+      "unit": "",
+      "name": "Carrots"
+    },
+    {
+      "id": "ing_1783009992505_a5",
+      "amount": "3",
+      "unit": "stalks",
+      "name": "Celery"
+    },
+    {
+      "id": "ing_1783009992506_a6",
+      "amount": "3",
+      "unit": "cloves",
+      "name": "Garlic"
+    },
+    {
+      "id": "ing_1783009992507_a7",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Tomato paste"
+    },
+    {
+      "id": "ing_1783009992508_a8",
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "Thyme"
+    },
+    {
+      "id": "ing_1783009992509_a9",
+      "amount": "160",
+      "unit": "ml",
+      "name": "Red wine"
+    },
+    {
+      "id": "ing_1783009992510_a10",
+      "amount": "480",
+      "unit": "ml",
+      "name": "Beef stock"
+    },
+    {
+      "id": "ing_1783009992511_a11",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Flour"
+    },
+    {
+      "id": "ing_1783009992512_a12",
+      "amount": "500",
+      "unit": "g",
+      "name": "Russet potatoes (cooked)"
+    },
+    {
+      "id": "ing_1783009992513_a13",
+      "amount": "6",
+      "unit": "tbsp",
+      "name": "Butter"
+    },
+    {
+      "id": "ing_1783009992514_a14",
+      "amount": "1",
+      "unit": "",
+      "name": "Egg yolk"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Sear ground beef in oil until browned, then remove from pan.",
+      "ingredient_links": [
+        "ing_1783009992501_a1",
+        "ing_1783009992502_a2"
+      ]
+    },
+    {
+      "text": "Sauté onion, carrots, and celery until browned, then add garlic.",
+      "ingredient_links": [
+        "ing_1783009992503_a3",
+        "ing_1783009992504_a4",
+        "ing_1783009992505_a5",
+        "ing_1783009992506_a6"
+      ]
+    },
+    {
+      "text": "Stir in tomato paste and flour, cooking briefly.",
+      "ingredient_links": [
+        "ing_1783009992507_a7",
+        "ing_1783009992511_a11"
+      ]
+    },
+    {
+      "text": "Deglaze with red wine, then add beef stock, thyme, and beef. Simmer until thickened.",
+      "ingredient_links": [
+        "ing_1783009992509_a9",
+        "ing_1783009992510_a10",
+        "ing_1783009992508_a8",
+        "ing_1783009992501_a1"
+      ]
+    },
+    {
+      "text": "Prepare mashed potatoes by mixing cooked potatoes with butter and egg yolk.",
+      "ingredient_links": [
+        "ing_1783009992512_a12",
+        "ing_1783009992513_a13",
+        "ing_1783009992514_a14"
+      ]
+    },
+    {
+      "text": "Assemble beef filling in a baking dish, top with mashed potatoes, and bake until golden.",
+      "ingredient_links": [
+        "ing_1783009992512_a12"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-06T00:00:00.000Z",
+  "updated_at": "2026-07-06T00:00:00.000Z"
+},
+    {
+  "id": "recipe_178300999026_cauliflower_nuggets",
+  "name": "Healthy Cauliflower Nuggets",
+  "from": "",
+  "image": "",
+  "prep_time": 15,
+  "cook_time": 10,
+  "servings": 1,
+  "tags": [
+    "Snack",
+    "Appetizer",
+    "Meal Prep"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783009992601_a1",
+      "amount": "",
+      "unit": "",
+      "name": "Cauliflower florets"
+    },
+    {
+      "id": "ing_1783009992602_a2",
+      "amount": "",
+      "unit": "",
+      "name": "Oil"
+    },
+    {
+      "id": "ing_1783009992603_a3",
+      "amount": "1",
+      "unit": "",
+      "name": "Egg"
+    },
+    {
+      "id": "ing_1783009992604_a4",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Flour"
+    },
+    {
+      "id": "ing_1783009992605_a5",
+      "amount": "",
+      "unit": "",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783009992606_a6",
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper"
+    },
+    {
+      "id": "ing_1783009992607_a7",
+      "amount": "",
+      "unit": "",
+      "name": "Paprika powder"
+    },
+    {
+      "id": "ing_1783009992608_a8",
+      "amount": "",
+      "unit": "",
+      "name": "Curry powder"
+    },
+    {
+      "id": "ing_1783009992609_a9",
+      "amount": "",
+      "unit": "",
+      "name": "Garlic powder"
+    },
+    {
+      "id": "ing_1783009992610_a10",
+      "amount": "",
+      "unit": "",
+      "name": "Panko breadcrumbs"
+    },
+    {
+      "id": "ing_1783009992611_a11",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Skyr"
+    },
+    {
+      "id": "ing_1783009992612_a12",
+      "amount": "",
+      "unit": "",
+      "name": "Cream cheese (for dip)"
+    },
+    {
+      "id": "ing_1783009992613_a13",
+      "amount": "",
+      "unit": "",
+      "name": "Milk (for dip)"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Mix egg, flour, spices, and seasoning to create a coating mixture.",
+      "ingredient_links": [
+        "ing_1783009992603_a3",
+        "ing_1783009992604_a4",
+        "ing_1783009992605_a5",
+        "ing_1783009992606_a6",
+        "ing_1783009992607_a7",
+        "ing_1783009992608_a8",
+        "ing_1783009992609_a9"
+      ]
+    },
+    {
+      "text": "Coat cauliflower florets in the mixture, then cover with panko breadcrumbs.",
+      "ingredient_links": [
+        "ing_1783009992601_a1",
+        "ing_1783009992610_a10"
+      ]
+    },
+    {
+      "text": "Air fry at 180°C for 10 minutes until crispy.",
+      "ingredient_links": [
+        "ing_1783009992601_a1"
+      ]
+    },
+    {
+      "text": "Mix cream cheese and milk to make a herb dip.",
+      "ingredient_links": [
+        "ing_1783009992612_a12",
+        "ing_1783009992613_a13"
+      ]
+    },
+    {
+      "text": "Serve cauliflower nuggets with dip.",
+      "ingredient_links": []
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-06T00:00:00.000Z",
+  "updated_at": "2026-07-06T00:00:00.000Z"
+},
+    {
+  "id": "recipe_178300999027_potato_mochi_sweet_soy_glaze",
+  "name": "Potato Mochi with Sweet Soy Sauce Glaze",
+  "from": "",
+  "image": "",
+  "prep_time": 20,
+  "cook_time": 15,
+  "servings": 3,
+  "tags": [
+    "Snack",
+    "Dessert",
+    "Party Food"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783009992701_a1",
+      "amount": "500",
+      "unit": "g",
+      "name": "Potato"
+    },
+    {
+      "id": "ing_1783009992702_a2",
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "Arrowroot powder (or potato starch)"
+    },
+    {
+      "id": "ing_1783009992703_a3",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783009992704_a4",
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "Mirin"
+    },
+    {
+      "id": "ing_1783009992705_a5",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Soy sauce"
+    },
+    {
+      "id": "ing_1783009992706_a6",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Brown sugar"
+    },
+    {
+      "id": "ing_1783009992707_a7",
+      "amount": "3/4",
+      "unit": "tbsp",
+      "name": "Arrowroot powder"
+    },
+    {
+      "id": "ing_1783009992708_a8",
+      "amount": "120",
+      "unit": "ml",
+      "name": "Water"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Boil and mash potato until smooth.",
+      "ingredient_links": [
+        "ing_1783009992701_a1"
+      ]
+    },
+    {
+      "text": "Mix mashed potato with starch and salt to form a dough.",
+      "ingredient_links": [
+        "ing_1783009992701_a1",
+        "ing_1783009992702_a2",
+        "ing_1783009992703_a3"
+      ]
+    },
+    {
+      "text": "Shape into small pieces and pan-fry until golden and crispy.",
+      "ingredient_links": [
+        "ing_1783009992701_a1"
+      ]
+    },
+    {
+      "text": "Make glaze by combining mirin, soy sauce, brown sugar, starch, and water, then simmer until thickened.",
+      "ingredient_links": [
+        "ing_1783009992704_a4",
+        "ing_1783009992705_a5",
+        "ing_1783009992706_a6",
+        "ing_1783009992707_a7",
+        "ing_1783009992708_a8"
+      ]
+    },
+    {
+      "text": "Coat potato mochi in sweet soy glaze and serve.",
+      "ingredient_links": []
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-06T00:00:00.000Z",
+  "updated_at": "2026-07-06T00:00:00.000Z"
+},
+    {
+  "id": "recipe_178300999028_shrimp_napa_cabbage_dumplings",
+  "name": "Shrimp Napa Cabbage Dumplings",
+  "from": "",
+  "image": "",
+  "prep_time": 20,
+  "cook_time": 10,
+  "servings": 6,
+  "tags": [
+    "Savory",
+    "Meal Prep",
+    "Snack"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783009992801_a1",
+      "amount": "6",
+      "unit": "leaves",
+      "name": "Napa cabbage leaves"
+    },
+    {
+      "id": "ing_1783009992802_a2",
+      "amount": "",
+      "unit": "",
+      "name": "Oil spray"
+    },
+    {
+      "id": "ing_1783009992803_a3",
+      "amount": "1/2",
+      "unit": "medium",
+      "name": "Carrot"
+    },
+    {
+      "id": "ing_1783009992804_a4",
+      "amount": "2",
+      "unit": "",
+      "name": "Green onions"
+    },
+    {
+      "id": "ing_1783009992805_a5",
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Minced garlic"
+    },
+    {
+      "id": "ing_1783009992806_a6",
+      "amount": "10",
+      "unit": "oz",
+      "name": "Raw shrimp"
+    },
+    {
+      "id": "ing_1783009992807_a7",
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "Sesame oil"
+    },
+    {
+      "id": "ing_1783009992808_a8",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Soy sauce"
+    },
+    {
+      "id": "ing_1783009992809_a9",
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "Black pepper"
+    },
+    {
+      "id": "ing_1783009992810_a10",
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "Ponzu sauce"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Blanch napa cabbage leaves in boiling water until pliable, then transfer to cold water.",
+      "ingredient_links": [
+        "ing_1783009992801_a1"
+      ]
+    },
+    {
+      "text": "Chop carrot, green onions, and shrimp into small pieces.",
+      "ingredient_links": [
+        "ing_1783009992803_a3",
+        "ing_1783009992804_a4",
+        "ing_1783009992806_a6"
+      ]
+    },
+    {
+      "text": "Mix shrimp, vegetables, garlic, sesame oil, soy sauce, and black pepper in a bowl.",
+      "ingredient_links": [
+        "ing_1783009992805_a5",
+        "ing_1783009992807_a7",
+        "ing_1783009992808_a8",
+        "ing_1783009992809_a9"
+      ]
+    },
+    {
+      "text": "Fill cabbage leaves with mixture and roll into dumplings.",
+      "ingredient_links": [
+        "ing_1783009992801_a1"
+      ]
+    },
+    {
+      "text": "Pan-sear dumplings until browned and shrimp is fully cooked.",
+      "ingredient_links": [
+        "ing_1783009992806_a6"
+      ]
+    },
+    {
+      "text": "Serve with ponzu sauce drizzled on top.",
+      "ingredient_links": [
+        "ing_1783009992810_a10"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-06T00:00:00.000Z",
+  "updated_at": "2026-07-06T00:00:00.000Z"
+},
+    {
+  "id": "recipe_178300999029_crispy_rice_paper_gimbap_gochujang_tofu",
+  "name": "Crispy Rice Paper Gimbap Roll with Gochujang Tofu",
+  "from": "",
+  "image": "",
+  "prep_time": 25,
+  "cook_time": 15,
+  "servings": 4,
+  "tags": [
+    "Savory",
+    "Snack",
+    "Appetizer"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783009992901_a1",
+      "amount": "4",
+      "unit": "",
+      "name": "Rice paper sheets"
+    },
+    {
+      "id": "ing_1783009992902_a2",
+      "amount": "1",
+      "unit": "cup",
+      "name": "Cooked short grain rice"
+    },
+    {
+      "id": "ing_1783009992903_a3",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Sesame oil"
+    },
+    {
+      "id": "ing_1783009992904_a4",
+      "amount": "6",
+      "unit": "oz",
+      "name": "Extra firm tofu"
+    },
+    {
+      "id": "ing_1783009992905_a5",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Gochujang"
+    },
+    {
+      "id": "ing_1783009992906_a6",
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "Coconut aminos"
+    },
+    {
+      "id": "ing_1783009992907_a7",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Rice vinegar"
+    },
+    {
+      "id": "ing_1783009992908_a8",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Maple syrup"
+    },
+    {
+      "id": "ing_1783009992909_a9",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Water"
+    },
+    {
+      "id": "ing_1783009992910_a10",
+      "amount": "1",
+      "unit": "",
+      "name": "Cucumber"
+    },
+    {
+      "id": "ing_1783009992911_a11",
+      "amount": "1",
+      "unit": "",
+      "name": "Avocado"
+    },
+    {
+      "id": "ing_1783009992912_a12",
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "Purple cabbage (shredded)"
+    },
+    {
+      "id": "ing_1783009992913_a13",
+      "amount": "",
+      "unit": "",
+      "name": "Sesame seeds"
+    },
+    {
+      "id": "ing_1783009992914_a14",
+      "amount": "",
+      "unit": "",
+      "name": "Avocado oil (for frying)"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Mix tofu with gochujang, coconut aminos, rice vinegar, maple syrup, and water to make a glaze.",
+      "ingredient_links": [
+        "ing_1783009992904_a4",
+        "ing_1783009992905_a5",
+        "ing_1783009992906_a6",
+        "ing_1783009992907_a7",
+        "ing_1783009992908_a8",
+        "ing_1783009992909_a9"
+      ]
+    },
+    {
+      "text": "Prepare fillings by slicing cucumber, avocado, and shredding cabbage.",
+      "ingredient_links": [
+        "ing_1783009992910_a10",
+        "ing_1783009992911_a11",
+        "ing_1783009992912_a12"
+      ]
+    },
+    {
+      "text": "Assemble rice paper rolls with rice, tofu, vegetables, and seaweed, then sprinkle with sesame seeds.",
+      "ingredient_links": [
+        "ing_1783009992901_a1",
+        "ing_1783009992902_a2",
+        "ing_1783009992903_a3",
+        "ing_1783009992913_a13"
+      ]
+    },
+    {
+      "text": "Pan-fry rolls in avocado oil until crispy on all sides.",
+      "ingredient_links": [
+        "ing_1783009992914_a14"
+      ]
+    },
+    {
+      "text": "Serve hot and crispy.",
+      "ingredient_links": []
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-06T00:00:00.000Z",
+  "updated_at": "2026-07-06T00:00:00.000Z"
 }
   ],
   "images": {}
