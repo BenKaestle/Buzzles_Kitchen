@@ -8415,7 +8415,3020 @@
       "comments": [],
       "created_at": "2026-07-06T00:00:00.000Z",
       "updated_at": "2026-07-07T12:56:35.355Z"
+    },
+    {
+  "id": "recipe_1783527846154_f8k2m",
+  "name": "Easy Fitness Döner",
+  "from": "",
+  "image": "",
+  "prep_time": 20,
+  "cook_time": 20,
+  "servings": 2,
+  "tags": [
+    "Savory",
+    "Meal Prep"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783527846154_1",
+      "amount": "130",
+      "unit": "g",
+      "name": "Spelt flour (Type 630)"
+    },
+    {
+      "id": "ing_1783527846154_2",
+      "amount": "30",
+      "unit": "g",
+      "name": "Protein cream powder"
+    },
+    {
+      "id": "ing_1783527846154_3",
+      "amount": "140",
+      "unit": "g",
+      "name": "Low-fat quark"
+    },
+    {
+      "id": "ing_1783527846154_4",
+      "amount": "8",
+      "unit": "g",
+      "name": "Baking powder"
+    },
+    {
+      "id": "ing_1783527846154_5",
+      "amount": "2",
+      "unit": "g",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783527846154_6",
+      "amount": "22",
+      "unit": "ml",
+      "name": "Water"
+    },
+    {
+      "id": "ing_1783527846154_7",
+      "amount": "300",
+      "unit": "g",
+      "name": "Chicken breast slices"
+    },
+    {
+      "id": "ing_1783527846154_8",
+      "amount": "1",
+      "unit": "head",
+      "name": "Lettuce"
+    },
+    {
+      "id": "ing_1783527846154_9",
+      "amount": "1",
+      "unit": "",
+      "name": "Onion"
+    },
+    {
+      "id": "ing_1783527846154_10",
+      "amount": "2",
+      "unit": "",
+      "name": "Tomatoes"
+    },
+    {
+      "id": "ing_1783527846154_11",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Sesame seeds"
+    },
+    {
+      "id": "ing_1783527846154_12",
+      "amount": "200",
+      "unit": "g",
+      "name": "1.5% yogurt"
+    },
+    {
+      "id": "ing_1783527846154_13",
+      "amount": "1",
+      "unit": "clove",
+      "name": "Garlic (optional)"
+    },
+    {
+      "id": "ing_1783527846154_14",
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper"
+    },
+    {
+      "id": "ing_1783527846154_15",
+      "amount": "",
+      "unit": "",
+      "name": "Fresh parsley"
+    },
+    {
+      "id": "ing_1783527846154_16",
+      "amount": "",
+      "unit": "",
+      "name": "Fresh chives"
+    },
+    {
+      "id": "ing_1783527846154_17",
+      "amount": "",
+      "unit": "",
+      "name": "Oil spray"
+    },
+    {
+      "id": "ing_1783527846154_18",
+      "amount": "",
+      "unit": "",
+      "name": "Döner seasoning or seasoning of choice"
     }
+  ],
+  "instructions": [
+    {
+      "text": "Mix the spelt flour, protein cream powder, low-fat quark, baking powder, salt, and water into a smooth dough. Shape into two flatbreads.",
+      "ingredient_links": [
+        "ing_1783527846154_1",
+        "ing_1783527846154_2",
+        "ing_1783527846154_3",
+        "ing_1783527846154_4",
+        "ing_1783527846154_5",
+        "ing_1783527846154_6"
+      ]
+    },
+    {
+      "text": "Bake the flatbreads at 180°C fan oven without preheating for 12–15 minutes. Do not let them brown too much or they will become dry.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Meanwhile, fry the chicken breast slices in a pan using oil spray and season with döner seasoning or your preferred spices.",
+      "ingredient_links": [
+        "ing_1783527846154_7",
+        "ing_1783527846154_17",
+        "ing_1783527846154_18"
+      ]
+    },
+    {
+      "text": "Prepare the sauce by mixing the yogurt with the optional garlic, salt, black pepper, fresh parsley, and fresh chives.",
+      "ingredient_links": [
+        "ing_1783527846154_12",
+        "ing_1783527846154_13",
+        "ing_1783527846154_5",
+        "ing_1783527846154_14",
+        "ing_1783527846154_15",
+        "ing_1783527846154_16"
+      ]
+    },
+    {
+      "text": "Slice the lettuce, onion, and tomatoes.",
+      "ingredient_links": [
+        "ing_1783527846154_8",
+        "ing_1783527846154_9",
+        "ing_1783527846154_10"
+      ]
+    },
+    {
+      "text": "Cut open the baked flatbreads, fill them with the chicken, lettuce, onion, tomatoes, and sauce. Sprinkle with sesame seeds before serving.",
+      "ingredient_links": [
+        "ing_1783527846154_7",
+        "ing_1783527846154_8",
+        "ing_1783527846154_9",
+        "ing_1783527846154_10",
+        "ing_1783527846154_11",
+        "ing_1783527846154_12"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-07T12:00:00.000Z",
+  "updated_at": "2026-07-07T12:00:00.000Z"
+},
+    {
+  "id": "recipe_1783528129047_v7mqd",
+  "name": "Flammfladen",
+  "from": "",
+  "image": "",
+  "prep_time": 40,
+  "cook_time": 10,
+  "servings": 4,
+  "tags": [
+    "Savory",
+    "Fancy",
+    "Party Food"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783528129047_1",
+      "amount": "1000",
+      "unit": "g",
+      "name": "Type 00 wheat flour (or Type 405)"
+    },
+    {
+      "id": "ing_1783528129047_2",
+      "amount": "620",
+      "unit": "g",
+      "name": "Cold water"
+    },
+    {
+      "id": "ing_1783528129047_3",
+      "amount": "30",
+      "unit": "g",
+      "name": "Olive oil"
+    },
+    {
+      "id": "ing_1783528129047_4",
+      "amount": "30",
+      "unit": "g",
+      "name": "Fine sea salt"
+    },
+    {
+      "id": "ing_1783528129047_5",
+      "amount": "1",
+      "unit": "g",
+      "name": "Fresh yeast"
+    },
+    {
+      "id": "ing_1783528129047_6",
+      "amount": "500",
+      "unit": "g",
+      "name": "Crème fraîche"
+    },
+    {
+      "id": "ing_1783528129047_7",
+      "amount": "400",
+      "unit": "g",
+      "name": "Bacon cubes"
+    },
+    {
+      "id": "ing_1783528129047_8",
+      "amount": "3",
+      "unit": "",
+      "name": "Red onions"
+    },
+    {
+      "id": "ing_1783528129047_9",
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper"
+    },
+    {
+      "id": "ing_1783528129047_10",
+      "amount": "",
+      "unit": "",
+      "name": "Flour for dusting"
+    },
+    {
+      "id": "ing_1783528129047_11",
+      "amount": "",
+      "unit": "",
+      "name": "Oil for greasing the bowl"
+    },
+    {
+      "id": "ing_1783528129047_12",
+      "amount": "",
+      "unit": "",
+      "name": "Fresh chives"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Mix the flour, cold water, and yeast in a bowl and begin kneading. Once the flour has absorbed the water, add the olive oil and sea salt. Knead until smooth, then transfer the dough to the work surface, stretch and fold it a few times, and shape it into a tight ball.",
+      "ingredient_links": [
+        "ing_1783528129047_1",
+        "ing_1783528129047_2",
+        "ing_1783528129047_3",
+        "ing_1783528129047_4",
+        "ing_1783528129047_5"
+      ]
+    },
+    {
+      "text": "Place the dough in a lightly greased bowl, cover it, and let it ferment at room temperature for 12–24 hours.",
+      "ingredient_links": [
+        "ing_1783528129047_11"
+      ]
+    },
+    {
+      "text": "The next day, slice the red onions, season them with a little salt, and set aside. Dust your work surface with flour, gently turn out the dough, dust the top with more flour, and divide it into four equal portions.",
+      "ingredient_links": [
+        "ing_1783528129047_8",
+        "ing_1783528129047_4",
+        "ing_1783528129047_10"
+      ]
+    },
+    {
+      "text": "Use your fingertips to press each dough portion into a flatbread with small dimples. Spread each with crème fraîche seasoned with salt and black pepper. Squeeze excess moisture from the onions, then top with the onions and bacon cubes.",
+      "ingredient_links": [
+        "ing_1783528129047_6",
+        "ing_1783528129047_4",
+        "ing_1783528129047_9",
+        "ing_1783528129047_8",
+        "ing_1783528129047_7"
+      ]
+    },
+    {
+      "text": "Transfer the flatbreads to a pizza peel or cutting board and bake in a preheated 250°C oven on a baking tray, pizza stone, or baking steel for 8–10 minutes.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Sprinkle with fresh chives after baking and serve immediately.",
+      "ingredient_links": [
+        "ing_1783528129047_12"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-07T12:00:00.000Z",
+  "updated_at": "2026-07-07T12:00:00.000Z"
+},
+    {
+  "id": "recipe_1783528459012_k9p3x",
+  "name": "Duck Pan Sauce with Orange and Grand Marnier",
+  "from": "",
+  "image": "",
+  "prep_time": 10,
+  "cook_time": 25,
+  "servings": 2,
+  "tags": [
+    "Savory",
+    "Fancy"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783528459012_1",
+      "amount": "2",
+      "unit": "",
+      "name": "Duck breasts"
+    },
+    {
+      "id": "ing_1783528459012_2",
+      "amount": "30",
+      "unit": "ml",
+      "name": "Grand Marnier"
+    },
+    {
+      "id": "ing_1783528459012_3",
+      "amount": "1",
+      "unit": "",
+      "name": "Shallot"
+    },
+    {
+      "id": "ing_1783528459012_4",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Orange marmalade"
+    },
+    {
+      "id": "ing_1783528459012_5",
+      "amount": "200",
+      "unit": "ml",
+      "name": "Orange juice"
+    },
+    {
+      "id": "ing_1783528459012_6",
+      "amount": "250",
+      "unit": "ml",
+      "name": "Chicken or veal stock"
+    },
+    {
+      "id": "ing_1783528459012_7",
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Soy sauce"
+    },
+    {
+      "id": "ing_1783528459012_8",
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "Butter"
+    },
+    {
+      "id": "ing_1783528459012_9",
+      "amount": "2",
+      "unit": "sprigs",
+      "name": "Thyme"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Score the skin of the duck breasts and sear them in a pan until the skin is crispy and caramelized. Remove the duck and keep the browned bits in the pan for the sauce.",
+      "ingredient_links": [
+        "ing_1783528459012_1"
+      ]
+    },
+    {
+      "text": "Add the diced shallot to the pan and cook until softened.",
+      "ingredient_links": [
+        "ing_1783528459012_3"
+      ]
+    },
+    {
+      "text": "Deglaze the pan with Grand Marnier, then add orange marmalade, orange juice, chicken or veal stock, soy sauce, and thyme.",
+      "ingredient_links": [
+        "ing_1783528459012_2",
+        "ing_1783528459012_4",
+        "ing_1783528459012_5",
+        "ing_1783528459012_6",
+        "ing_1783528459012_7",
+        "ing_1783528459012_9"
+      ]
+    },
+    {
+      "text": "Reduce the sauce until it thickens and the flavors concentrate. Remove from heat and whisk in cold butter for a glossy finish.",
+      "ingredient_links": [
+        "ing_1783528459012_8"
+      ]
+    },
+    {
+      "text": "Serve the sauce over the duck breasts, mashed potatoes, rice, or another side dish.",
+      "ingredient_links": [
+        "ing_1783528459012_1"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-07T12:00:00.000Z",
+  "updated_at": "2026-07-07T12:00:00.000Z"
+},
+    {
+  "id": "recipe_1783529014726_p4x7k",
+  "name": "Fisherman's Pie",
+  "from": "",
+  "image": "",
+  "prep_time": 30,
+  "cook_time": 45,
+  "servings": 6,
+  "tags": [
+    "Savory",
+    "Fancy",
+    "Meal Prep"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783529014726_1",
+      "amount": "4",
+      "unit": "",
+      "name": "Russet potatoes"
+    },
+    {
+      "id": "ing_1783529014726_2",
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "Salted butter"
+    },
+    {
+      "id": "ing_1783529014726_3",
+      "amount": "3",
+      "unit": "",
+      "name": "Egg yolks"
+    },
+    {
+      "id": "ing_1783529014726_4",
+      "amount": "",
+      "unit": "",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783529014726_5",
+      "amount": "",
+      "unit": "",
+      "name": "White pepper"
+    },
+    {
+      "id": "ing_1783529014726_6",
+      "amount": "2",
+      "unit": "",
+      "name": "Small leeks"
+    },
+    {
+      "id": "ing_1783529014726_7",
+      "amount": "1",
+      "unit": "",
+      "name": "Shallot"
+    },
+    {
+      "id": "ing_1783529014726_8",
+      "amount": "0.5",
+      "unit": "",
+      "name": "Fennel bulb"
+    },
+    {
+      "id": "ing_1783529014726_9",
+      "amount": "8",
+      "unit": "",
+      "name": "Brown mushrooms"
+    },
+    {
+      "id": "ing_1783529014726_10",
+      "amount": "5",
+      "unit": "oz",
+      "name": "Salmon"
+    },
+    {
+      "id": "ing_1783529014726_11",
+      "amount": "10",
+      "unit": "oz",
+      "name": "White fish (such as cod or snapper)"
+    },
+    {
+      "id": "ing_1783529014726_12",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "All-purpose flour"
+    },
+    {
+      "id": "ing_1783529014726_13",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Butter"
+    },
+    {
+      "id": "ing_1783529014726_14",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Seaweed seasoning"
+    },
+    {
+      "id": "ing_1783529014726_15",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Fresh dill"
+    },
+    {
+      "id": "ing_1783529014726_16",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Fresh parsley"
+    },
+    {
+      "id": "ing_1783529014726_17",
+      "amount": "1.5",
+      "unit": "cups",
+      "name": "Whole milk"
+    },
+    {
+      "id": "ing_1783529014726_18",
+      "amount": "0.5",
+      "unit": "cups",
+      "name": "Heavy cream"
+    },
+    {
+      "id": "ing_1783529014726_19",
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Boil the russet potatoes until tender. Mash them with salted butter, egg yolks, salt, and white pepper until smooth and creamy.",
+      "ingredient_links": [
+        "ing_1783529014726_1",
+        "ing_1783529014726_2",
+        "ing_1783529014726_3",
+        "ing_1783529014726_4",
+        "ing_1783529014726_5"
+      ]
+    },
+    {
+      "text": "Prepare the filling vegetables by slicing the leeks, shallot, fennel, and brown mushrooms.",
+      "ingredient_links": [
+        "ing_1783529014726_6",
+        "ing_1783529014726_7",
+        "ing_1783529014726_8",
+        "ing_1783529014726_9"
+      ]
+    },
+    {
+      "text": "Cook the vegetables in butter until softened. Add flour and stir to create a roux.",
+      "ingredient_links": [
+        "ing_1783529014726_12",
+        "ing_1783529014726_13",
+        "ing_1783529014726_6",
+        "ing_1783529014726_7",
+        "ing_1783529014726_8",
+        "ing_1783529014726_9"
+      ]
+    },
+    {
+      "text": "Gradually add whole milk and heavy cream while stirring until the sauce thickens.",
+      "ingredient_links": [
+        "ing_1783529014726_17",
+        "ing_1783529014726_18"
+      ]
+    },
+    {
+      "text": "Add the salmon, white fish, seaweed seasoning, dill, parsley, salt, and pepper. Cook gently until the fish is just cooked through.",
+      "ingredient_links": [
+        "ing_1783529014726_10",
+        "ing_1783529014726_11",
+        "ing_1783529014726_14",
+        "ing_1783529014726_15",
+        "ing_1783529014726_16",
+        "ing_1783529014726_4",
+        "ing_1783529014726_19"
+      ]
+    },
+    {
+      "text": "Transfer the fish filling into a baking dish and spread the mashed potatoes evenly over the top.",
+      "ingredient_links": [
+        "ing_1783529014726_1"
+      ]
+    },
+    {
+      "text": "Bake until the potato topping is golden and the filling is bubbling. Serve warm.",
+      "ingredient_links": []
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-07T12:00:00.000Z",
+  "updated_at": "2026-07-07T12:00:00.000Z"
+},
+    {
+  "id": "recipe_1783529673041_x6n9p",
+  "name": "King Oyster Mushroom Scallops",
+  "from": "",
+  "image": "",
+  "prep_time": 20,
+  "cook_time": 20,
+  "servings": 4,
+  "tags": [
+    "Savory",
+    "Appetizer",
+    "Fancy"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783529673041_1",
+      "amount": "400",
+      "unit": "g",
+      "name": "King oyster mushrooms"
+    },
+    {
+      "id": "ing_1783529673041_2",
+      "amount": "125",
+      "unit": "ml",
+      "name": "Vegetable stock"
+    },
+    {
+      "id": "ing_1783529673041_3",
+      "amount": "3",
+      "unit": "pieces",
+      "name": "Dried kombu"
+    },
+    {
+      "id": "ing_1783529673041_4",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Olive oil"
+    },
+    {
+      "id": "ing_1783529673041_5",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Vegan butter"
+    },
+    {
+      "id": "ing_1783529673041_6",
+      "amount": "2",
+      "unit": "cloves",
+      "name": "Garlic"
+    },
+    {
+      "id": "ing_1783529673041_7",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Lemon juice"
+    },
+    {
+      "id": "ing_1783529673041_8",
+      "amount": "",
+      "unit": "",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783529673041_9",
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper"
+    },
+    {
+      "id": "ing_1783529673041_10",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Fresh parsley"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Slice off the root ends and caps of the king oyster mushrooms. Cut the remaining stems into 2.5 cm thick rounds. Score one or both sides of the mushroom rounds in a criss cross pattern.",
+      "ingredient_links": [
+        "ing_1783529673041_1"
+      ]
+    },
+    {
+      "text": "Place the mushroom pieces flat in a pan. Add vegetable stock and dried kombu, cover with a lid, and bring to a boil. Cook for a few minutes until the mushrooms release liquid, then remove the lid and boil until all liquid has evaporated.",
+      "ingredient_links": [
+        "ing_1783529673041_1",
+        "ing_1783529673041_2",
+        "ing_1783529673041_3"
+      ]
+    },
+    {
+      "text": "Heat olive oil in a clean pan and sear the mushroom rounds until golden brown on both sides.",
+      "ingredient_links": [
+        "ing_1783529673041_1",
+        "ing_1783529673041_4"
+      ]
+    },
+    {
+      "text": "Add vegan butter and let it melt. Add minced garlic and cook for about 2 minutes. Add lemon juice, salt, and black pepper, then swirl everything together for another 20 seconds.",
+      "ingredient_links": [
+        "ing_1783529673041_5",
+        "ing_1783529673041_6",
+        "ing_1783529673041_7",
+        "ing_1783529673041_8",
+        "ing_1783529673041_9"
+      ]
+    },
+    {
+      "text": "Add fresh parsley and toss the mushrooms until coated. Arrange the mushroom scallops on a plate, spoon over the remaining lemon butter sauce, and serve.",
+      "ingredient_links": [
+        "ing_1783529673041_10",
+        "ing_1783529673041_5"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-07T12:00:00.000Z",
+  "updated_at": "2026-07-07T12:00:00.000Z"
+},
+    {
+  "id": "recipe_1783530218457_t2k6m",
+  "name": "Jalapeño Salmon Bites in Crispy Rice Paper",
+  "from": "",
+  "image": "",
+  "prep_time": 30,
+  "cook_time": 20,
+  "servings": 4,
+  "tags": [
+    "Savory",
+    "Appetizer",
+    "Party Food"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783530218457_1",
+      "amount": "450",
+      "unit": "g",
+      "name": "Salmon"
+    },
+    {
+      "id": "ing_1783530218457_2",
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783530218457_3",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Smoked paprika"
+    },
+    {
+      "id": "ing_1783530218457_4",
+      "amount": "3",
+      "unit": "cloves",
+      "name": "Garlic"
+    },
+    {
+      "id": "ing_1783530218457_5",
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Ginger"
+    },
+    {
+      "id": "ing_1783530218457_6",
+      "amount": "0.25",
+      "unit": "cup",
+      "name": "Low sodium soy sauce"
+    },
+    {
+      "id": "ing_1783530218457_7",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Brown sugar"
+    },
+    {
+      "id": "ing_1783530218457_8",
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "Crushed red pepper flakes"
+    },
+    {
+      "id": "ing_1783530218457_9",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Sriracha sauce"
+    },
+    {
+      "id": "ing_1783530218457_10",
+      "amount": "1",
+      "unit": "",
+      "name": "Avocado"
+    },
+    {
+      "id": "ing_1783530218457_11",
+      "amount": "1",
+      "unit": "",
+      "name": "Jalapeño"
+    },
+    {
+      "id": "ing_1783530218457_12",
+      "amount": "16",
+      "unit": "",
+      "name": "Small rice paper sheets"
+    },
+    {
+      "id": "ing_1783530218457_13",
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "Olive oil"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Cut the salmon into 2.5 cm cubes. Season with salt and smoked paprika and set aside.",
+      "ingredient_links": [
+        "ing_1783530218457_1",
+        "ing_1783530218457_2",
+        "ing_1783530218457_3"
+      ]
+    },
+    {
+      "text": "Mix garlic, ginger, soy sauce, brown sugar, red pepper flakes, and sriracha sauce together to make the marinade.",
+      "ingredient_links": [
+        "ing_1783530218457_4",
+        "ing_1783530218457_5",
+        "ing_1783530218457_6",
+        "ing_1783530218457_7",
+        "ing_1783530218457_8",
+        "ing_1783530218457_9"
+      ]
+    },
+    {
+      "text": "Add the salmon to the marinade and coat well. Reserve one quarter of the sauce as a dipping sauce. Marinate the salmon for at least 4 hours, preferably overnight.",
+      "ingredient_links": [
+        "ing_1783530218457_1"
+      ]
+    },
+    {
+      "text": "Fry the salmon bites in a pan over medium heat until golden brown and cooked through, about 3–4 minutes per side. Remove from heat.",
+      "ingredient_links": [
+        "ing_1783530218457_1"
+      ]
+    },
+    {
+      "text": "Dip the rice paper sheets in warm water. Add two salmon cubes, one slice of jalapeño, and one small avocado wedge. Fold the sides and roll into a small package. Wrap each bite again with another rice paper sheet for a double layer.",
+      "ingredient_links": [
+        "ing_1783530218457_1",
+        "ing_1783530218457_10",
+        "ing_1783530218457_11",
+        "ing_1783530218457_12"
+      ]
+    },
+    {
+      "text": "Heat olive oil in a pan over medium heat. Fry the wrapped bites in a single layer without overcrowding until crispy and golden brown, about 3–4 minutes per side. Serve with the reserved dipping sauce.",
+      "ingredient_links": [
+        "ing_1783530218457_13"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-07T12:00:00.000Z",
+  "updated_at": "2026-07-07T12:00:00.000Z"
+},
+    {
+  "id": "recipe_1783530862941_z5m8r",
+  "name": "Chicken Francese",
+  "from": "",
+  "image": "",
+  "prep_time": 20,
+  "cook_time": 25,
+  "servings": 4,
+  "tags": [
+    "Savory",
+    "Fancy"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783530862941_1",
+      "amount": "500",
+      "unit": "g",
+      "name": "Chicken breasts"
+    },
+    {
+      "id": "ing_1783530862941_2",
+      "amount": "35",
+      "unit": "g",
+      "name": "Plain flour"
+    },
+    {
+      "id": "ing_1783530862941_3",
+      "amount": "0.75",
+      "unit": "tsp",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783530862941_4",
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "Black pepper"
+    },
+    {
+      "id": "ing_1783530862941_5",
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "Garlic powder"
+    },
+    {
+      "id": "ing_1783530862941_6",
+      "amount": "2",
+      "unit": "",
+      "name": "Eggs"
+    },
+    {
+      "id": "ing_1783530862941_7",
+      "amount": "20",
+      "unit": "g",
+      "name": "Parmesan"
+    },
+    {
+      "id": "ing_1783530862941_8",
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "Olive oil"
+    },
+    {
+      "id": "ing_1783530862941_9",
+      "amount": "75",
+      "unit": "g",
+      "name": "Unsalted butter"
+    },
+    {
+      "id": "ing_1783530862941_10",
+      "amount": "1",
+      "unit": "",
+      "name": "Large lemon"
+    },
+    {
+      "id": "ing_1783530862941_11",
+      "amount": "60",
+      "unit": "ml",
+      "name": "Dry white wine"
+    },
+    {
+      "id": "ing_1783530862941_12",
+      "amount": "180",
+      "unit": "ml",
+      "name": "Chicken stock"
+    },
+    {
+      "id": "ing_1783530862941_13",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Fresh chives"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Prepare two shallow dishes. Mix flour, salt, black pepper, and garlic powder in one dish. Whisk eggs and parmesan together in the second dish. Slice each chicken breast horizontally through the centre to create four even pieces, then coat each piece in the flour mixture.",
+      "ingredient_links": [
+        "ing_1783530862941_1",
+        "ing_1783530862941_2",
+        "ing_1783530862941_3",
+        "ing_1783530862941_4",
+        "ing_1783530862941_5",
+        "ing_1783530862941_6",
+        "ing_1783530862941_7"
+      ]
+    },
+    {
+      "text": "Heat olive oil and 15g butter in a large non-stick pan over medium-high heat. Dip each chicken piece into the egg mixture, let excess drip off, and cook for about 3 minutes per side until golden and nearly cooked through. Remove the chicken. Fry the lemon slices for about 20 seconds per side until slightly softened and coloured, then set aside.",
+      "ingredient_links": [
+        "ing_1783530862941_8",
+        "ing_1783530862941_9",
+        "ing_1783530862941_1",
+        "ing_1783530862941_6",
+        "ing_1783530862941_7",
+        "ing_1783530862941_10"
+      ]
+    },
+    {
+      "text": "Pour the white wine into the pan and simmer rapidly for about 2 minutes until mostly evaporated, scraping up the browned bits from the pan. Add chicken stock and 1 tablespoon lemon juice, then bring to a simmer.",
+      "ingredient_links": [
+        "ing_1783530862941_11",
+        "ing_1783530862941_12",
+        "ing_1783530862941_10"
+      ]
+    },
+    {
+      "text": "Coat the cold butter cubes with leftover flour, add them to the pan, and whisk quickly until incorporated into the sauce. Add chives and continue simmering while stirring until the sauce becomes glossy and thick. Season to taste.",
+      "ingredient_links": [
+        "ing_1783530862941_9",
+        "ing_1783530862941_2",
+        "ing_1783530862941_13"
+      ]
+    },
+    {
+      "text": "Return the chicken and any resting juices to the pan. Place the lemon slices on top, baste with the sauce to warm through, and serve.",
+      "ingredient_links": [
+        "ing_1783530862941_1",
+        "ing_1783530862941_10"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-07T12:00:00.000Z",
+  "updated_at": "2026-07-07T12:00:00.000Z"
+},
+    {
+  "id": "recipe_1783531439028_h4v9m",
+  "name": "Melon, Burrata & Crispy Prosciutto Salad",
+  "from": "",
+  "image": "",
+  "prep_time": 15,
+  "cook_time": 5,
+  "servings": 4,
+  "tags": [
+    "For Hot Days",
+    "Savory",
+    "Fancy"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783531439028_1",
+      "amount": "2",
+      "unit": "cups",
+      "name": "Arugula"
+    },
+    {
+      "id": "ing_1783531439028_2",
+      "amount": "2",
+      "unit": "cups",
+      "name": "Cantaloupe melon"
+    },
+    {
+      "id": "ing_1783531439028_3",
+      "amount": "60",
+      "unit": "g",
+      "name": "Prosciutto"
+    },
+    {
+      "id": "ing_1783531439028_4",
+      "amount": "170-225",
+      "unit": "g",
+      "name": "Burrata"
+    },
+    {
+      "id": "ing_1783531439028_5",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Fresh basil"
+    },
+    {
+      "id": "ing_1783531439028_6",
+      "amount": "",
+      "unit": "",
+      "name": "Olive oil"
+    },
+    {
+      "id": "ing_1783531439028_7",
+      "amount": "",
+      "unit": "",
+      "name": "Balsamic reduction"
+    },
+    {
+      "id": "ing_1783531439028_8",
+      "amount": "",
+      "unit": "",
+      "name": "Flaky salt"
+    },
+    {
+      "id": "ing_1783531439028_9",
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Use a melon baller to create melon balls, or cut the melon into 1/2–1 inch cubes.",
+      "ingredient_links": [
+        "ing_1783531439028_2"
+      ]
+    },
+    {
+      "text": "Heat a skillet over medium heat. Place prosciutto slices flat in the pan and cook for 1–2 minutes until they begin to crisp and shrink. Flip and cook for another minute until crispy. Repeat with remaining slices, then cool and roughly chop.",
+      "ingredient_links": [
+        "ing_1783531439028_3"
+      ]
+    },
+    {
+      "text": "Arrange the salad on a platter with a base of arugula, then add melon, burrata, crispy prosciutto, and chopped basil.",
+      "ingredient_links": [
+        "ing_1783531439028_1",
+        "ing_1783531439028_2",
+        "ing_1783531439028_4",
+        "ing_1783531439028_3",
+        "ing_1783531439028_5"
+      ]
+    },
+    {
+      "text": "Drizzle with olive oil and balsamic reduction. Season with flaky salt and black pepper to taste. Avoid adding too much salt because the prosciutto is already salty.",
+      "ingredient_links": [
+        "ing_1783531439028_6",
+        "ing_1783531439028_7",
+        "ing_1783531439028_8",
+        "ing_1783531439028_9"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-07T12:00:00.000Z",
+  "updated_at": "2026-07-07T12:00:00.000Z"
+},
+    {
+  "id": "recipe_1783531926475_j3c8v",
+  "name": "Creamy Cheese and Tomato Pasta",
+  "from": "",
+  "image": "",
+  "prep_time": 10,
+  "cook_time": 40,
+  "servings": 4,
+  "tags": [
+    "Savory",
+    "Meal Prep"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783531926475_1",
+      "amount": "300",
+      "unit": "g",
+      "name": "Pasta"
+    },
+    {
+      "id": "ing_1783531926475_2",
+      "amount": "200",
+      "unit": "g",
+      "name": "Fresh spinach"
+    },
+    {
+      "id": "ing_1783531926475_3",
+      "amount": "300",
+      "unit": "g",
+      "name": "Cherry tomatoes"
+    },
+    {
+      "id": "ing_1783531926475_4",
+      "amount": "1",
+      "unit": "bulb",
+      "name": "Garlic"
+    },
+    {
+      "id": "ing_1783531926475_5",
+      "amount": "200",
+      "unit": "g",
+      "name": "Vegan cream cheese"
+    },
+    {
+      "id": "ing_1783531926475_6",
+      "amount": "3-4",
+      "unit": "tbsp",
+      "name": "Olive oil"
+    },
+    {
+      "id": "ing_1783531926475_7",
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper"
+    },
+    {
+      "id": "ing_1783531926475_8",
+      "amount": "",
+      "unit": "",
+      "name": "Salt"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Add spinach, cherry tomatoes, the exposed garlic bulb, and vegan cream cheese to a baking dish. Drizzle with olive oil and season with salt and black pepper.",
+      "ingredient_links": [
+        "ing_1783531926475_2",
+        "ing_1783531926475_3",
+        "ing_1783531926475_4",
+        "ing_1783531926475_5",
+        "ing_1783531926475_6",
+        "ing_1783531926475_7",
+        "ing_1783531926475_8"
+      ]
+    },
+    {
+      "text": "Bake at 180°C for 30–40 minutes until the tomatoes are soft and the garlic is roasted.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Cook the pasta according to the package instructions.",
+      "ingredient_links": [
+        "ing_1783531926475_1"
+      ]
+    },
+    {
+      "text": "Squeeze the roasted garlic out of its skin and mix it with the baked ingredients to create a creamy sauce.",
+      "ingredient_links": [
+        "ing_1783531926475_4",
+        "ing_1783531926475_5"
+      ]
+    },
+    {
+      "text": "Add the cooked pasta to the baking dish, mix everything together, and serve.",
+      "ingredient_links": [
+        "ing_1783531926475_1"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-07T12:00:00.000Z",
+  "updated_at": "2026-07-07T12:00:00.000Z"
+},
+    {
+  "id": "recipe_1783532468019_m5q2x",
+  "name": "Steak & Stout Pie with Mash and Gravy",
+  "from": "",
+  "image": "",
+  "prep_time": 45,
+  "cook_time": 180,
+  "servings": 4,
+  "tags": [
+    "Savory",
+    "Fancy",
+    "Meal Prep"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783532468019_1",
+      "amount": "800",
+      "unit": "g",
+      "name": "Shortcrust pastry"
+    },
+    {
+      "id": "ing_1783532468019_2",
+      "amount": "",
+      "unit": "",
+      "name": "Plain flour"
+    },
+    {
+      "id": "ing_1783532468019_3",
+      "amount": "1",
+      "unit": "",
+      "name": "Egg"
+    },
+    {
+      "id": "ing_1783532468019_4",
+      "amount": "3-4",
+      "unit": "tbsp",
+      "name": "Vegetable oil"
+    },
+    {
+      "id": "ing_1783532468019_5",
+      "amount": "900",
+      "unit": "g",
+      "name": "Stewing steak pieces"
+    },
+    {
+      "id": "ing_1783532468019_6",
+      "amount": "2",
+      "unit": "",
+      "name": "Onions"
+    },
+    {
+      "id": "ing_1783532468019_7",
+      "amount": "2",
+      "unit": "sticks",
+      "name": "Celery"
+    },
+    {
+      "id": "ing_1783532468019_8",
+      "amount": "4",
+      "unit": "cloves",
+      "name": "Garlic"
+    },
+    {
+      "id": "ing_1783532468019_9",
+      "amount": "1",
+      "unit": "sprig",
+      "name": "Fresh thyme"
+    },
+    {
+      "id": "ing_1783532468019_10",
+      "amount": "2",
+      "unit": "",
+      "name": "Bay leaves"
+    },
+    {
+      "id": "ing_1783532468019_11",
+      "amount": "300",
+      "unit": "ml",
+      "name": "Beef stock"
+    },
+    {
+      "id": "ing_1783532468019_12",
+      "amount": "400",
+      "unit": "ml",
+      "name": "Stout"
+    },
+    {
+      "id": "ing_1783532468019_13",
+      "amount": "2",
+      "unit": "",
+      "name": "Large carrots"
+    },
+    {
+      "id": "ing_1783532468019_14",
+      "amount": "",
+      "unit": "",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783532468019_15",
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper"
+    },
+    {
+      "id": "ing_1783532468019_16",
+      "amount": "1200",
+      "unit": "g",
+      "name": "Maris Piper potatoes"
+    },
+    {
+      "id": "ing_1783532468019_17",
+      "amount": "150",
+      "unit": "g",
+      "name": "Unsalted butter"
+    },
+    {
+      "id": "ing_1783532468019_18",
+      "amount": "100",
+      "unit": "ml",
+      "name": "Milk"
+    },
+    {
+      "id": "ing_1783532468019_19",
+      "amount": "50",
+      "unit": "g",
+      "name": "Flour"
+    },
+    {
+      "id": "ing_1783532468019_20",
+      "amount": "150",
+      "unit": "ml",
+      "name": "Red wine"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Heat oil in a large ovenproof casserole dish. Season and brown the beef in batches, then set aside.",
+      "ingredient_links": [
+        "ing_1783532468019_4",
+        "ing_1783532468019_5",
+        "ing_1783532468019_14",
+        "ing_1783532468019_15"
+      ]
+    },
+    {
+      "text": "Reduce the heat and cook onions, celery, and garlic until softened, about 8–10 minutes. Return the beef to the pan and add thyme, bay leaves, and beef stock.",
+      "ingredient_links": [
+        "ing_1783532468019_6",
+        "ing_1783532468019_7",
+        "ing_1783532468019_8",
+        "ing_1783532468019_9",
+        "ing_1783532468019_10",
+        "ing_1783532468019_11",
+        "ing_1783532468019_5"
+      ]
+    },
+    {
+      "text": "Add stout and carrots. Bring to a boil, then cook covered in the oven at 150°C for 2–2.5 hours until the beef is tender. Adjust seasoning and allow the filling to cool.",
+      "ingredient_links": [
+        "ing_1783532468019_12",
+        "ing_1783532468019_13",
+        "ing_1783532468019_14",
+        "ing_1783532468019_15"
+      ]
+    },
+    {
+      "text": "Line a pie dish with shortcrust pastry. Blind bake with baking beans for 15 minutes at 200°C, remove the beans, and bake for a few more minutes. Let cool and tidy the edges.",
+      "ingredient_links": [
+        "ing_1783532468019_1"
+      ]
+    },
+    {
+      "text": "Peel and chop the potatoes into medium chunks. Boil in salted water until fork-tender, then mash or pass through a potato ricer. Melt butter with milk and mix into the mash. Season to taste.",
+      "ingredient_links": [
+        "ing_1783532468019_16",
+        "ing_1783532468019_17",
+        "ing_1783532468019_18",
+        "ing_1783532468019_14",
+        "ing_1783532468019_15"
+      ]
+    },
+    {
+      "text": "Fill the pastry-lined dish with the steak filling. Brush the pastry edge with beaten egg, place the pastry lid on top, seal, trim, and crimp the edges. Create steam vents and decorate with leftover pastry if desired. Brush the top with remaining egg wash.",
+      "ingredient_links": [
+        "ing_1783532468019_1",
+        "ing_1783532468019_3",
+        "ing_1783532468019_5"
+      ]
+    },
+    {
+      "text": "Bake the pie at 200°C for 30–35 minutes until golden and crisp.",
+      "ingredient_links": []
+    },
+    {
+      "text": "For the gravy, melt butter in a pan, add flour, and cook for 2 minutes while stirring. Add red wine, then whisk in beef stock. Simmer until thickened and season to taste.",
+      "ingredient_links": [
+        "ing_1783532468019_17",
+        "ing_1783532468019_19",
+        "ing_1783532468019_20",
+        "ing_1783532468019_11",
+        "ing_1783532468019_14",
+        "ing_1783532468019_15"
+      ]
+    },
+    {
+      "text": "Serve the pie on top of the mashed potatoes and pour over the gravy.",
+      "ingredient_links": [
+        "ing_1783532468019_16",
+        "ing_1783532468019_5"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-07T12:00:00.000Z",
+  "updated_at": "2026-07-07T12:00:00.000Z"
+},
+    {
+  "id": "recipe_1783533026149_q7n4s",
+  "name": "Rice Cooker Oyakodon",
+  "from": "",
+  "image": "",
+  "prep_time": 10,
+  "cook_time": 45,
+  "servings": 2,
+  "tags": [
+    "Savory",
+    "Meal Prep"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783533026149_1",
+      "amount": "1",
+      "unit": "cup",
+      "name": "Rice"
+    },
+    {
+      "id": "ing_1783533026149_2",
+      "amount": "",
+      "unit": "",
+      "name": "Water"
+    },
+    {
+      "id": "ing_1783533026149_3",
+      "amount": "1",
+      "unit": "lb",
+      "name": "Chicken thighs"
+    },
+    {
+      "id": "ing_1783533026149_4",
+      "amount": "0.25",
+      "unit": "",
+      "name": "Yellow onion"
+    },
+    {
+      "id": "ing_1783533026149_5",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Soy sauce"
+    },
+    {
+      "id": "ing_1783533026149_6",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Hondashi"
+    },
+    {
+      "id": "ing_1783533026149_7",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Mirin"
+    },
+    {
+      "id": "ing_1783533026149_8",
+      "amount": "1",
+      "unit": "pinch",
+      "name": "Sugar"
+    },
+    {
+      "id": "ing_1783533026149_9",
+      "amount": "3",
+      "unit": "",
+      "name": "Eggs"
+    },
+    {
+      "id": "ing_1783533026149_10",
+      "amount": "",
+      "unit": "",
+      "name": "Green onions"
+    },
+    {
+      "id": "ing_1783533026149_11",
+      "amount": "",
+      "unit": "",
+      "name": "Roasted sesame seeds"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Wash the rice and add it to the rice cooker with the usual amount of water used for cooking rice.",
+      "ingredient_links": [
+        "ing_1783533026149_1",
+        "ing_1783533026149_2"
+      ]
+    },
+    {
+      "text": "Mix soy sauce, hondashi, mirin, and sugar together in a bowl to create the seasoning sauce.",
+      "ingredient_links": [
+        "ing_1783533026149_5",
+        "ing_1783533026149_6",
+        "ing_1783533026149_7",
+        "ing_1783533026149_8"
+      ]
+    },
+    {
+      "text": "Add diced chicken thighs and thinly sliced onion to the sauce and toss until coated.",
+      "ingredient_links": [
+        "ing_1783533026149_3",
+        "ing_1783533026149_4"
+      ]
+    },
+    {
+      "text": "Place the chicken and onion mixture directly over the rice in the rice cooker. Pour over any remaining sauce from the bowl.",
+      "ingredient_links": [
+        "ing_1783533026149_3",
+        "ing_1783533026149_4",
+        "ing_1783533026149_5",
+        "ing_1783533026149_6",
+        "ing_1783533026149_7",
+        "ing_1783533026149_8"
+      ]
+    },
+    {
+      "text": "Cook the rice normally. While it cooks, crack the eggs into the same bowl and beat them lightly with chopsticks or a fork for about 20 seconds.",
+      "ingredient_links": [
+        "ing_1783533026149_9"
+      ]
+    },
+    {
+      "text": "Immediately after the rice finishes cooking, quickly open the rice cooker, pour the beaten eggs over the chicken and rice, close it again, and cook for another 2 minutes on the regular rice setting.",
+      "ingredient_links": [
+        "ing_1783533026149_9",
+        "ing_1783533026149_3",
+        "ing_1783533026149_1"
+      ]
+    },
+    {
+      "text": "Open the rice cooker and serve garnished with green onions and roasted sesame seeds.",
+      "ingredient_links": [
+        "ing_1783533026149_10",
+        "ing_1783533026149_11"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-07T12:00:00.000Z",
+  "updated_at": "2026-07-07T12:00:00.000Z"
+},
+    {
+  "id": "recipe_1783533567284_n8p2k",
+  "name": "Sticky Cauliflower Wings",
+  "from": "",
+  "image": "",
+  "prep_time": 20,
+  "cook_time": 30,
+  "servings": 3,
+  "tags": [
+    "Savory",
+    "Snack",
+    "Party Food"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783533567284_1",
+      "amount": "0.5",
+      "unit": "head",
+      "name": "Cauliflower"
+    },
+    {
+      "id": "ing_1783533567284_2",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Oil"
+    },
+    {
+      "id": "ing_1783533567284_3",
+      "amount": "0.25",
+      "unit": "cup",
+      "name": "Flour"
+    },
+    {
+      "id": "ing_1783533567284_4",
+      "amount": "",
+      "unit": "",
+      "name": "Plant milk"
+    },
+    {
+      "id": "ing_1783533567284_5",
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "Garlic powder"
+    },
+    {
+      "id": "ing_1783533567284_6",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Smoked paprika"
+    },
+    {
+      "id": "ing_1783533567284_7",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Nutritional yeast"
+    },
+    {
+      "id": "ing_1783533567284_8",
+      "amount": "",
+      "unit": "",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783533567284_9",
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper"
+    },
+    {
+      "id": "ing_1783533567284_10",
+      "amount": "1",
+      "unit": "cup",
+      "name": "Panko breadcrumbs"
+    },
+    {
+      "id": "ing_1783533567284_11",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Sesame oil"
+    },
+    {
+      "id": "ing_1783533567284_12",
+      "amount": "2",
+      "unit": "",
+      "name": "Scallions"
+    },
+    {
+      "id": "ing_1783533567284_13",
+      "amount": "2",
+      "unit": "cloves",
+      "name": "Garlic"
+    },
+    {
+      "id": "ing_1783533567284_14",
+      "amount": "",
+      "unit": "",
+      "name": "Fresh ginger"
+    },
+    {
+      "id": "ing_1783533567284_15",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Toasted sesame seeds"
+    },
+    {
+      "id": "ing_1783533567284_16",
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "Soy sauce"
+    },
+    {
+      "id": "ing_1783533567284_17",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Brown sugar"
+    },
+    {
+      "id": "ing_1783533567284_18",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Rice vinegar"
+    },
+    {
+      "id": "ing_1783533567284_19",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Cornstarch"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Cut the cauliflower into medium-sized florets.",
+      "ingredient_links": [
+        "ing_1783533567284_1"
+      ]
+    },
+    {
+      "text": "Prepare two bowls: one with flour, plant milk, garlic powder, smoked paprika, nutritional yeast, salt, and pepper to make the batter, and one with breadcrumbs.",
+      "ingredient_links": [
+        "ing_1783533567284_3",
+        "ing_1783533567284_4",
+        "ing_1783533567284_5",
+        "ing_1783533567284_6",
+        "ing_1783533567284_7",
+        "ing_1783533567284_8",
+        "ing_1783533567284_9",
+        "ing_1783533567284_10"
+      ]
+    },
+    {
+      "text": "Coat the cauliflower florets in the batter, then cover them with breadcrumbs and place them on a baking tray. Drizzle with oil.",
+      "ingredient_links": [
+        "ing_1783533567284_1",
+        "ing_1783533567284_2",
+        "ing_1783533567284_3",
+        "ing_1783533567284_10"
+      ]
+    },
+    {
+      "text": "Bake at 200°C for 20–30 minutes until crispy and golden.",
+      "ingredient_links": []
+    },
+    {
+      "text": "For the sticky sauce, sauté scallions, garlic, and ginger in sesame oil for a few minutes. Add sesame seeds and toast briefly, then add soy sauce, brown sugar, rice vinegar, and cornstarch dissolved in water. Cook until the sauce thickens.",
+      "ingredient_links": [
+        "ing_1783533567284_11",
+        "ing_1783533567284_12",
+        "ing_1783533567284_13",
+        "ing_1783533567284_14",
+        "ing_1783533567284_15",
+        "ing_1783533567284_16",
+        "ing_1783533567284_17",
+        "ing_1783533567284_18",
+        "ing_1783533567284_19"
+      ]
+    },
+    {
+      "text": "Add the crispy cauliflower to the sauce and stir until evenly coated.",
+      "ingredient_links": [
+        "ing_1783533567284_1"
+      ]
+    },
+    {
+      "text": "Serve topped with more sesame seeds and the green parts of the scallions. Enjoy with rice or as desired.",
+      "ingredient_links": [
+        "ing_1783533567284_12",
+        "ing_1783533567284_15"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-07T12:00:00.000Z",
+  "updated_at": "2026-07-07T12:00:00.000Z"
+},
+    {
+  "id": "recipe_1783534129068_r4v8q",
+  "name": "Baked Bread Dumplings (Knödel)",
+  "from": "",
+  "image": "",
+  "prep_time": 20,
+  "cook_time": 30,
+  "servings": 4,
+  "tags": [
+    "Savory",
+    "Meal Prep"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783534129068_1",
+      "amount": "300",
+      "unit": "g",
+      "name": "Bread rolls or pretzels"
+    },
+    {
+      "id": "ing_1783534129068_2",
+      "amount": "3",
+      "unit": "",
+      "name": "Eggs"
+    },
+    {
+      "id": "ing_1783534129068_3",
+      "amount": "275",
+      "unit": "ml",
+      "name": "Milk"
+    },
+    {
+      "id": "ing_1783534129068_4",
+      "amount": "",
+      "unit": "",
+      "name": "Fresh parsley"
+    },
+    {
+      "id": "ing_1783534129068_5",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783534129068_6",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Black pepper"
+    },
+    {
+      "id": "ing_1783534129068_7",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Nutmeg"
+    },
+    {
+      "id": "ing_1783534129068_8",
+      "amount": "1-2",
+      "unit": "",
+      "name": "Onions"
+    },
+    {
+      "id": "ing_1783534129068_9",
+      "amount": "50",
+      "unit": "g",
+      "name": "Butter"
+    },
+    {
+      "id": "ing_1783534129068_10",
+      "amount": "100",
+      "unit": "g",
+      "name": "Bacon cubes (optional)"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Cut the bread rolls or pretzels into small cubes.",
+      "ingredient_links": [
+        "ing_1783534129068_1"
+      ]
+    },
+    {
+      "text": "Finely dice the onions and sauté them in butter until translucent. Add bacon cubes if desired and cook briefly.",
+      "ingredient_links": [
+        "ing_1783534129068_8",
+        "ing_1783534129068_9",
+        "ing_1783534129068_10"
+      ]
+    },
+    {
+      "text": "Add the bread cubes, eggs, milk, chopped parsley, salt, pepper, nutmeg, and the onion mixture to a bowl.",
+      "ingredient_links": [
+        "ing_1783534129068_1",
+        "ing_1783534129068_2",
+        "ing_1783534129068_3",
+        "ing_1783534129068_4",
+        "ing_1783534129068_5",
+        "ing_1783534129068_6",
+        "ing_1783534129068_7",
+        "ing_1783534129068_8",
+        "ing_1783534129068_9"
+      ]
+    },
+    {
+      "text": "Knead everything together well, season generously to taste, and let the mixture rest for about 10 minutes.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Transfer the mixture into a baking dish and bake at 200°C top and bottom heat for about 30 minutes until golden brown.",
+      "ingredient_links": []
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-07T12:00:00.000Z",
+  "updated_at": "2026-07-07T12:00:00.000Z"
+},
+    {
+  "id": "recipe_1783534782196_c6m4p",
+  "name": "Sweet & Spicy Tofu Puffs",
+  "from": "",
+  "image": "",
+  "prep_time": 30,
+  "cook_time": 20,
+  "servings": 4,
+  "tags": [
+    "Savory",
+    "Snack",
+    "Party Food"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783534782196_1",
+      "amount": "400",
+      "unit": "g",
+      "name": "Tofu"
+    },
+    {
+      "id": "ing_1783534782196_2",
+      "amount": "80",
+      "unit": "g",
+      "name": "Chickpea flour"
+    },
+    {
+      "id": "ing_1783534782196_3",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783534782196_4",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Curry powder"
+    },
+    {
+      "id": "ing_1783534782196_5",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Paprika powder"
+    },
+    {
+      "id": "ing_1783534782196_6",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Cornstarch"
+    },
+    {
+      "id": "ing_1783534782196_7",
+      "amount": "",
+      "unit": "",
+      "name": "Oil"
+    },
+    {
+      "id": "ing_1783534782196_8",
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "Gochujang"
+    },
+    {
+      "id": "ing_1783534782196_9",
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "Vinegar"
+    },
+    {
+      "id": "ing_1783534782196_10",
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "Agave syrup"
+    },
+    {
+      "id": "ing_1783534782196_11",
+      "amount": "6",
+      "unit": "tbsp",
+      "name": "Ketchup"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Mash or crumble the tofu and mix it with chickpea flour, salt, curry powder, and paprika until a dough forms.",
+      "ingredient_links": [
+        "ing_1783534782196_1",
+        "ing_1783534782196_2",
+        "ing_1783534782196_3",
+        "ing_1783534782196_4",
+        "ing_1783534782196_5"
+      ]
+    },
+    {
+      "text": "Shape the tofu mixture into small balls.",
+      "ingredient_links": [
+        "ing_1783534782196_1"
+      ]
+    },
+    {
+      "text": "Mix the tofu balls with cornstarch and oil until coated.",
+      "ingredient_links": [
+        "ing_1783534782196_6",
+        "ing_1783534782196_7"
+      ]
+    },
+    {
+      "text": "Bake the tofu puffs at 180°C for 20 minutes until lightly crispy.",
+      "ingredient_links": []
+    },
+    {
+      "text": "For the sweet-spicy glaze, combine gochujang, vinegar, agave syrup, and ketchup. Heat until the sauce thickens.",
+      "ingredient_links": [
+        "ing_1783534782196_8",
+        "ing_1783534782196_9",
+        "ing_1783534782196_10",
+        "ing_1783534782196_11"
+      ]
+    },
+    {
+      "text": "Add the baked tofu puffs to the glaze and stir until evenly coated. Serve warm.",
+      "ingredient_links": [
+        "ing_1783534782196_1",
+        "ing_1783534782196_8"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-07T12:00:00.000Z",
+  "updated_at": "2026-07-07T12:00:00.000Z"
+},
+    {
+  "id": "recipe_1783535349027_w9k3p",
+  "name": "Creamy Roasted Tomato Soup",
+  "from": "",
+  "image": "",
+  "prep_time": 15,
+  "cook_time": 45,
+  "servings": 4,
+  "tags": [
+    "Savory",
+    "For Hot Days",
+    "Meal Prep"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783535349027_1",
+      "amount": "8",
+      "unit": "",
+      "name": "Roma tomatoes"
+    },
+    {
+      "id": "ing_1783535349027_2",
+      "amount": "1",
+      "unit": "",
+      "name": "Large red onion"
+    },
+    {
+      "id": "ing_1783535349027_3",
+      "amount": "1-2",
+      "unit": "heads",
+      "name": "Garlic"
+    },
+    {
+      "id": "ing_1783535349027_4",
+      "amount": "",
+      "unit": "",
+      "name": "Olive oil"
+    },
+    {
+      "id": "ing_1783535349027_5",
+      "amount": "",
+      "unit": "",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783535349027_6",
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper"
+    },
+    {
+      "id": "ing_1783535349027_7",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Cayenne pepper"
+    },
+    {
+      "id": "ing_1783535349027_8",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Nutmeg"
+    },
+    {
+      "id": "ing_1783535349027_9",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Balsamic vinegar"
+    },
+    {
+      "id": "ing_1783535349027_10",
+      "amount": "1",
+      "unit": "cup",
+      "name": "Vegetable stock"
+    },
+    {
+      "id": "ing_1783535349027_11",
+      "amount": "0.5",
+      "unit": "cup",
+      "name": "Heavy cream"
+    },
+    {
+      "id": "ing_1783535349027_12",
+      "amount": "",
+      "unit": "",
+      "name": "Fresh basil"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Cut the tomatoes and red onion into large pieces. Add them to a baking tray with garlic, coat with olive oil, and season with salt, pepper, cayenne pepper, and nutmeg.",
+      "ingredient_links": [
+        "ing_1783535349027_1",
+        "ing_1783535349027_2",
+        "ing_1783535349027_3",
+        "ing_1783535349027_4",
+        "ing_1783535349027_5",
+        "ing_1783535349027_6",
+        "ing_1783535349027_7",
+        "ing_1783535349027_8"
+      ]
+    },
+    {
+      "text": "Roast the vegetables until softened and caramelized.",
+      "ingredient_links": [
+        "ing_1783535349027_1",
+        "ing_1783535349027_2",
+        "ing_1783535349027_3"
+      ]
+    },
+    {
+      "text": "Transfer the roasted vegetables to a pot. Add balsamic vinegar and vegetable stock, then blend until smooth.",
+      "ingredient_links": [
+        "ing_1783535349027_9",
+        "ing_1783535349027_10"
+      ]
+    },
+    {
+      "text": "Stir in heavy cream and adjust seasoning to taste.",
+      "ingredient_links": [
+        "ing_1783535349027_11",
+        "ing_1783535349027_5",
+        "ing_1783535349027_6"
+      ]
+    },
+    {
+      "text": "Serve warm and garnish with fresh basil.",
+      "ingredient_links": [
+        "ing_1783535349027_12"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-07T12:00:00.000Z",
+  "updated_at": "2026-07-07T12:00:00.000Z"
+},
+    {
+  "id": "recipe_1783536018427_x8q5n",
+  "name": "BBQ Salmon with Mango Avocado Salsa",
+  "from": "",
+  "image": "",
+  "prep_time": 15,
+  "cook_time": 15,
+  "servings": 4,
+  "tags": [
+    "Savory",
+    "For Hot Days",
+    "Fancy"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783536018427_1",
+      "amount": "",
+      "unit": "",
+      "name": "Salmon"
+    },
+    {
+      "id": "ing_1783536018427_2",
+      "amount": "",
+      "unit": "",
+      "name": "Garlic powder"
+    },
+    {
+      "id": "ing_1783536018427_3",
+      "amount": "",
+      "unit": "",
+      "name": "Onion powder"
+    },
+    {
+      "id": "ing_1783536018427_4",
+      "amount": "",
+      "unit": "",
+      "name": "Smoked paprika"
+    },
+    {
+      "id": "ing_1783536018427_5",
+      "amount": "",
+      "unit": "",
+      "name": "Chili powder"
+    },
+    {
+      "id": "ing_1783536018427_6",
+      "amount": "",
+      "unit": "",
+      "name": "Brown sugar"
+    },
+    {
+      "id": "ing_1783536018427_7",
+      "amount": "",
+      "unit": "",
+      "name": "Mango"
+    },
+    {
+      "id": "ing_1783536018427_8",
+      "amount": "",
+      "unit": "",
+      "name": "Avocado"
+    },
+    {
+      "id": "ing_1783536018427_9",
+      "amount": "",
+      "unit": "",
+      "name": "Red onion"
+    },
+    {
+      "id": "ing_1783536018427_10",
+      "amount": "",
+      "unit": "",
+      "name": "Lime"
+    },
+    {
+      "id": "ing_1783536018427_11",
+      "amount": "",
+      "unit": "",
+      "name": "Honey"
+    },
+    {
+      "id": "ing_1783536018427_12",
+      "amount": "",
+      "unit": "",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783536018427_13",
+      "amount": "",
+      "unit": "",
+      "name": "Rice"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Season the salmon with garlic powder, onion powder, smoked paprika, chili powder, and brown sugar.",
+      "ingredient_links": [
+        "ing_1783536018427_1",
+        "ing_1783536018427_2",
+        "ing_1783536018427_3",
+        "ing_1783536018427_4",
+        "ing_1783536018427_5",
+        "ing_1783536018427_6"
+      ]
+    },
+    {
+      "text": "Cook the seasoned salmon using your preferred BBQ method until juicy and cooked through.",
+      "ingredient_links": [
+        "ing_1783536018427_1"
+      ]
+    },
+    {
+      "text": "Dice the mango, avocado, and red onion. Mix together with lime juice and zest, honey, and salt to create the salsa.",
+      "ingredient_links": [
+        "ing_1783536018427_7",
+        "ing_1783536018427_8",
+        "ing_1783536018427_9",
+        "ing_1783536018427_10",
+        "ing_1783536018427_11",
+        "ing_1783536018427_12"
+      ]
+    },
+    {
+      "text": "Serve the BBQ salmon with the mango avocado salsa and rice.",
+      "ingredient_links": [
+        "ing_1783536018427_1",
+        "ing_1783536018427_7",
+        "ing_1783536018427_8",
+        "ing_1783536018427_13"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-07T12:00:00.000Z",
+  "updated_at": "2026-07-07T12:00:00.000Z"
+},
+    {
+  "id": "recipe_1783536729015_p3x7k",
+  "name": "15 Minute Dan Dan Style Noodles",
+  "from": "",
+  "image": "",
+  "prep_time": 10,
+  "cook_time": 15,
+  "servings": 2,
+  "tags": [
+    "Savory",
+    "Meal Prep"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783536729015_1",
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Sesame oil"
+    },
+    {
+      "id": "ing_1783536729015_2",
+      "amount": "300",
+      "unit": "g",
+      "name": "Extra-firm tofu"
+    },
+    {
+      "id": "ing_1783536729015_3",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Cornstarch"
+    },
+    {
+      "id": "ing_1783536729015_4",
+      "amount": "2.5",
+      "unit": "tbsp",
+      "name": "Dark soy sauce"
+    },
+    {
+      "id": "ing_1783536729015_5",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Tahini"
+    },
+    {
+      "id": "ing_1783536729015_6",
+      "amount": "0.5",
+      "unit": "thumb",
+      "name": "Fresh ginger"
+    },
+    {
+      "id": "ing_1783536729015_7",
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "Chinese five spice powder"
+    },
+    {
+      "id": "ing_1783536729015_8",
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Chilli oil"
+    },
+    {
+      "id": "ing_1783536729015_9",
+      "amount": "1",
+      "unit": "",
+      "name": "Pak choi"
+    },
+    {
+      "id": "ing_1783536729015_10",
+      "amount": "180",
+      "unit": "g",
+      "name": "Udon noodles"
+    },
+    {
+      "id": "ing_1783536729015_11",
+      "amount": "2",
+      "unit": "",
+      "name": "Spring onions"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Heat 1.5 teaspoons of sesame oil in a non-stick wok or pan over medium-high heat.",
+      "ingredient_links": [
+        "ing_1783536729015_1"
+      ]
+    },
+    {
+      "text": "Crumble the tofu into a bowl until it resembles a mince-like texture, then mix with cornstarch.",
+      "ingredient_links": [
+        "ing_1783536729015_2",
+        "ing_1783536729015_3"
+      ]
+    },
+    {
+      "text": "Add the tofu to the wok and stir in 0.5 tablespoon of dark soy sauce. Cook for about 10 minutes until crispy, stirring occasionally to break up the tofu.",
+      "ingredient_links": [
+        "ing_1783536729015_2",
+        "ing_1783536729015_4"
+      ]
+    },
+    {
+      "text": "Mix the remaining dark soy sauce with tahini, ginger, Chinese five spice powder, chilli oil, and 2 tablespoons of water. Stir well and set aside.",
+      "ingredient_links": [
+        "ing_1783536729015_4",
+        "ing_1783536729015_5",
+        "ing_1783536729015_6",
+        "ing_1783536729015_7",
+        "ing_1783536729015_8"
+      ]
+    },
+    {
+      "text": "Cook the noodles for 2–4 minutes until al dente.",
+      "ingredient_links": [
+        "ing_1783536729015_10"
+      ]
+    },
+    {
+      "text": "Transfer the crispy tofu to a bowl. Wipe the wok clean, return it to the heat, add the remaining sesame oil, and fry the pak choi for about 1 minute.",
+      "ingredient_links": [
+        "ing_1783536729015_1",
+        "ing_1783536729015_9"
+      ]
+    },
+    {
+      "text": "Reduce the heat and add the cooked noodles, crispy tofu, prepared sauce, and most of the spring onions. Stir and heat through for 30 seconds, avoiding overcooking the noodles.",
+      "ingredient_links": [
+        "ing_1783536729015_10",
+        "ing_1783536729015_2",
+        "ing_1783536729015_5",
+        "ing_1783536729015_11"
+      ]
+    },
+    {
+      "text": "Serve in bowls topped with the remaining spring onions and extra chilli oil if desired.",
+      "ingredient_links": [
+        "ing_1783536729015_11",
+        "ing_1783536729015_8"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-07T12:00:00.000Z",
+  "updated_at": "2026-07-07T12:00:00.000Z"
+},
+    {
+  "id": "recipe_1783537196042_z5m8q",
+  "name": "Tomatokeftedes",
+  "from": "",
+  "image": "",
+  "prep_time": 20,
+  "cook_time": 15,
+  "servings": 4,
+  "tags": [
+    "Savory",
+    "Appetizer",
+    "Party Food"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783537196042_1",
+      "amount": "",
+      "unit": "",
+      "name": "Tomatoes"
+    },
+    {
+      "id": "ing_1783537196042_2",
+      "amount": "",
+      "unit": "",
+      "name": "Vegan feta cheese"
+    },
+    {
+      "id": "ing_1783537196042_3",
+      "amount": "",
+      "unit": "",
+      "name": "Red onion"
+    },
+    {
+      "id": "ing_1783537196042_4",
+      "amount": "",
+      "unit": "",
+      "name": "Parsley"
+    },
+    {
+      "id": "ing_1783537196042_5",
+      "amount": "",
+      "unit": "",
+      "name": "Spring onion"
+    },
+    {
+      "id": "ing_1783537196042_6",
+      "amount": "",
+      "unit": "",
+      "name": "Fresh mint"
+    },
+    {
+      "id": "ing_1783537196042_7",
+      "amount": "",
+      "unit": "",
+      "name": "Fresh dill"
+    },
+    {
+      "id": "ing_1783537196042_8",
+      "amount": "",
+      "unit": "",
+      "name": "Flour"
+    },
+    {
+      "id": "ing_1783537196042_9",
+      "amount": "",
+      "unit": "",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783537196042_10",
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper"
+    },
+    {
+      "id": "ing_1783537196042_11",
+      "amount": "",
+      "unit": "",
+      "name": "Olive oil"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Finely chop the tomatoes, red onion, parsley, spring onion, mint, and dill.",
+      "ingredient_links": [
+        "ing_1783537196042_1",
+        "ing_1783537196042_3",
+        "ing_1783537196042_4",
+        "ing_1783537196042_5",
+        "ing_1783537196042_6",
+        "ing_1783537196042_7"
+      ]
+    },
+    {
+      "text": "Mix the chopped vegetables and herbs with vegan feta cheese, flour, salt, and pepper until a thick mixture forms.",
+      "ingredient_links": [
+        "ing_1783537196042_2",
+        "ing_1783537196042_8",
+        "ing_1783537196042_9",
+        "ing_1783537196042_10"
+      ]
+    },
+    {
+      "text": "Shape the mixture into small patties or fritters.",
+      "ingredient_links": []
+    },
+    {
+      "text": "Heat olive oil in a pan and fry the tomato fritters until golden and crispy on both sides.",
+      "ingredient_links": [
+        "ing_1783537196042_11"
+      ]
+    },
+    {
+      "text": "Serve warm as an appetizer or snack.",
+      "ingredient_links": []
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-07T12:00:00.000Z",
+  "updated_at": "2026-07-07T12:00:00.000Z"
+},
+    {
+  "id": "recipe_1783537824519_t2k6p",
+  "name": "Creamy Sweet Potato and Chickpea Curry",
+  "from": "",
+  "image": "",
+  "prep_time": 15,
+  "cook_time": 35,
+  "servings": 4,
+  "tags": [
+    "Savory",
+    "Meal Prep"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783537824519_1",
+      "amount": "1",
+      "unit": "large",
+      "name": "Sweet potato"
+    },
+    {
+      "id": "ing_1783537824519_2",
+      "amount": "1",
+      "unit": "clove",
+      "name": "Garlic"
+    },
+    {
+      "id": "ing_1783537824519_3",
+      "amount": "0.5",
+      "unit": "",
+      "name": "Brown onion"
+    },
+    {
+      "id": "ing_1783537824519_4",
+      "amount": "240",
+      "unit": "g",
+      "name": "Chickpeas"
+    },
+    {
+      "id": "ing_1783537824519_5",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Olive oil"
+    },
+    {
+      "id": "ing_1783537824519_6",
+      "amount": "2",
+      "unit": "cups",
+      "name": "Vegetable broth"
+    },
+    {
+      "id": "ing_1783537824519_7",
+      "amount": "1",
+      "unit": "cup",
+      "name": "Full-fat coconut milk"
+    },
+    {
+      "id": "ing_1783537824519_8",
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Curry powder"
+    },
+    {
+      "id": "ing_1783537824519_9",
+      "amount": "0.25",
+      "unit": "tsp",
+      "name": "Ground ginger"
+    },
+    {
+      "id": "ing_1783537824519_10",
+      "amount": "0.25",
+      "unit": "tsp",
+      "name": "Smoked paprika"
+    },
+    {
+      "id": "ing_1783537824519_11",
+      "amount": "0.25",
+      "unit": "tsp",
+      "name": "Cayenne pepper"
+    },
+    {
+      "id": "ing_1783537824519_12",
+      "amount": "",
+      "unit": "",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783537824519_13",
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper"
+    },
+    {
+      "id": "ing_1783537824519_14",
+      "amount": "1",
+      "unit": "cup",
+      "name": "Rice"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Peel and dice the sweet potato. Place it in a saucepan with enough water to cover, bring to a boil, then reduce heat and cook for about 15 minutes until tender. Drain.",
+      "ingredient_links": [
+        "ing_1783537824519_1"
+      ]
+    },
+    {
+      "text": "Blend the cooked sweet potato with coconut milk, vegetable broth, curry powder, ginger, smoked paprika, cayenne pepper, salt, and pepper until smooth. Set aside.",
+      "ingredient_links": [
+        "ing_1783537824519_1",
+        "ing_1783537824519_7",
+        "ing_1783537824519_6",
+        "ing_1783537824519_8",
+        "ing_1783537824519_9",
+        "ing_1783537824519_10",
+        "ing_1783537824519_11",
+        "ing_1783537824519_12",
+        "ing_1783537824519_13"
+      ]
+    },
+    {
+      "text": "Finely dice the onion and garlic. Drain the chickpeas. Heat olive oil in a pan over medium-high heat, then sauté the onion for 2–3 minutes. Add garlic and chickpeas and cook for another 1–2 minutes.",
+      "ingredient_links": [
+        "ing_1783537824519_2",
+        "ing_1783537824519_3",
+        "ing_1783537824519_4",
+        "ing_1783537824519_5"
+      ]
+    },
+    {
+      "text": "Pour in the sweet potato mixture and stir. Reduce heat to low-medium and cook for 10–15 minutes, stirring regularly, until the curry thickens.",
+      "ingredient_links": [
+        "ing_1783537824519_1",
+        "ing_1783537824519_4",
+        "ing_1783537824519_7"
+      ]
+    },
+    {
+      "text": "Serve hot with rice and optionally garnish with coconut cream and fresh herbs.",
+      "ingredient_links": [
+        "ing_1783537824519_14"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-07T12:00:00.000Z",
+  "updated_at": "2026-07-07T12:00:00.000Z"
+},
+    {
+  "id": "recipe_1783538452916_k9p4s",
+  "name": "Pesto Pasta with Peas, Lemon, Chilli and Garlic",
+  "from": "",
+  "image": "",
+  "prep_time": 10,
+  "cook_time": 15,
+  "servings": 3,
+  "tags": [
+    "Savory",
+    "Meal Prep"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783538452916_1",
+      "amount": "275",
+      "unit": "g",
+      "name": "Pasta"
+    },
+    {
+      "id": "ing_1783538452916_2",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Pesto"
+    },
+    {
+      "id": "ing_1783538452916_3",
+      "amount": "150",
+      "unit": "g",
+      "name": "Peas"
+    },
+    {
+      "id": "ing_1783538452916_4",
+      "amount": "1",
+      "unit": "",
+      "name": "Red chilli"
+    },
+    {
+      "id": "ing_1783538452916_5",
+      "amount": "4",
+      "unit": "cloves",
+      "name": "Garlic"
+    },
+    {
+      "id": "ing_1783538452916_6",
+      "amount": "0.5",
+      "unit": "",
+      "name": "Lemon"
+    },
+    {
+      "id": "ing_1783538452916_7",
+      "amount": "",
+      "unit": "",
+      "name": "Olive oil"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Cook the pasta in a large pot of very salty water. Reserve some pasta water before draining.",
+      "ingredient_links": [
+        "ing_1783538452916_1"
+      ]
+    },
+    {
+      "text": "Dice the chilli and garlic. Sauté them in olive oil for a couple of minutes until fragrant.",
+      "ingredient_links": [
+        "ing_1783538452916_4",
+        "ing_1783538452916_5",
+        "ing_1783538452916_7"
+      ]
+    },
+    {
+      "text": "Add the peas and cook until heated through.",
+      "ingredient_links": [
+        "ing_1783538452916_3"
+      ]
+    },
+    {
+      "text": "Add the drained pasta to the pan. Stir in pesto and enough reserved pasta water to create a smooth, saucy consistency.",
+      "ingredient_links": [
+        "ing_1783538452916_1",
+        "ing_1783538452916_2"
+      ]
+    },
+    {
+      "text": "Finish with a generous squeeze of lemon juice and serve.",
+      "ingredient_links": [
+        "ing_1783538452916_6"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-07T12:00:00.000Z",
+  "updated_at": "2026-07-07T12:00:00.000Z"
+},
+    {
+  "id": "recipe_1783539017462_m7q2v",
+  "name": "Creamy Roasted Pepper Chickpea Pasta",
+  "from": "",
+  "image": "",
+  "prep_time": 5,
+  "cook_time": 15,
+  "servings": 3,
+  "tags": [
+    "Savory",
+    "Meal Prep"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783539017462_1",
+      "amount": "1",
+      "unit": "jar",
+      "name": "Roasted peppers"
+    },
+    {
+      "id": "ing_1783539017462_2",
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Nutritional yeast"
+    },
+    {
+      "id": "ing_1783539017462_3",
+      "amount": "1",
+      "unit": "clove",
+      "name": "Garlic"
+    },
+    {
+      "id": "ing_1783539017462_4",
+      "amount": "1",
+      "unit": "jar",
+      "name": "Chickpeas"
+    },
+    {
+      "id": "ing_1783539017462_5",
+      "amount": "",
+      "unit": "",
+      "name": "Pasta"
+    },
+    {
+      "id": "ing_1783539017462_6",
+      "amount": "",
+      "unit": "",
+      "name": "Olive oil"
+    },
+    {
+      "id": "ing_1783539017462_7",
+      "amount": "",
+      "unit": "",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783539017462_8",
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper"
+    },
+    {
+      "id": "ing_1783539017462_9",
+      "amount": "",
+      "unit": "",
+      "name": "Fresh basil (optional)"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Cook the pasta according to the package instructions until al dente. Reserve some pasta water before draining.",
+      "ingredient_links": [
+        "ing_1783539017462_5"
+      ]
+    },
+    {
+      "text": "Blend the roasted peppers, nutritional yeast, garlic, salt, and pepper until smooth.",
+      "ingredient_links": [
+        "ing_1783539017462_1",
+        "ing_1783539017462_2",
+        "ing_1783539017462_3",
+        "ing_1783539017462_7",
+        "ing_1783539017462_8"
+      ]
+    },
+    {
+      "text": "Add the blended pepper sauce to a pan and warm it through.",
+      "ingredient_links": [
+        "ing_1783539017462_1"
+      ]
+    },
+    {
+      "text": "Drain the chickpeas and stir them into the sauce.",
+      "ingredient_links": [
+        "ing_1783539017462_4"
+      ]
+    },
+    {
+      "text": "Add the cooked pasta and some reserved pasta water. Stir until the sauce becomes smooth and silky.",
+      "ingredient_links": [
+        "ing_1783539017462_5"
+      ]
+    },
+    {
+      "text": "Serve with fresh basil if desired.",
+      "ingredient_links": [
+        "ing_1783539017462_9"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-07T12:00:00.000Z",
+  "updated_at": "2026-07-07T12:00:00.000Z"
+}
   ],
   "images": {}
 }
