@@ -11435,7 +11435,152 @@
       "comments": [],
       "created_at": "2026-07-07T12:00:00.000Z",
       "updated_at": "2026-07-07T12:00:00.000Z"
+    },
+    {
+  "id": "recipe_1783539584721_n5v7q",
+  "name": "Crispy Eggplant Schnitzel with Tomato Sauce",
+  "from": "",
+  "image": "",
+  "prep_time": 15,
+  "cook_time": 25,
+  "servings": 2,
+  "tags": [
+    "Savory"
+  ],
+  "ratings": {
+    "ben": 0,
+    "elli": 0
+  },
+  "ingredients": [
+    {
+      "id": "ing_1783539584721_1",
+      "amount": "2",
+      "unit": "",
+      "name": "Eggplants"
+    },
+    {
+      "id": "ing_1783539584721_2",
+      "amount": "",
+      "unit": "",
+      "name": "Water"
+    },
+    {
+      "id": "ing_1783539584721_3",
+      "amount": "",
+      "unit": "",
+      "name": "Flour"
+    },
+    {
+      "id": "ing_1783539584721_4",
+      "amount": "",
+      "unit": "",
+      "name": "Panko breadcrumbs"
+    },
+    {
+      "id": "ing_1783539584721_5",
+      "amount": "1",
+      "unit": "can",
+      "name": "Whole peeled tomatoes"
+    },
+    {
+      "id": "ing_1783539584721_6",
+      "amount": "",
+      "unit": "",
+      "name": "Olive oil"
+    },
+    {
+      "id": "ing_1783539584721_7",
+      "amount": "1",
+      "unit": "clove",
+      "name": "Garlic"
+    },
+    {
+      "id": "ing_1783539584721_8",
+      "amount": "",
+      "unit": "",
+      "name": "Salt"
+    },
+    {
+      "id": "ing_1783539584721_9",
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper"
+    },
+    {
+      "id": "ing_1783539584721_10",
+      "amount": "",
+      "unit": "",
+      "name": "Mediterranean herbs"
+    },
+    {
+      "id": "ing_1783539584721_11",
+      "amount": "",
+      "unit": "",
+      "name": "Fresh basil (optional)"
+    },
+    {
+      "id": "ing_1783539584721_12",
+      "amount": "",
+      "unit": "",
+      "name": "Parmesan or vegan Parmesan (optional)"
     }
+  ],
+  "instructions": [
+    {
+      "text": "Pierce the eggplants several times with a fork and bake at 200°C for about 15 minutes, depending on their size.",
+      "ingredient_links": [
+        "ing_1783539584721_1"
+      ]
+    },
+    {
+      "text": "Meanwhile, add the peeled tomatoes to a saucepan with a little olive oil. Crush the tomatoes, then add garlic, salt, pepper, and Mediterranean herbs. Simmer briefly.",
+      "ingredient_links": [
+        "ing_1783539584721_5",
+        "ing_1783539584721_6",
+        "ing_1783539584721_7",
+        "ing_1783539584721_8",
+        "ing_1783539584721_9",
+        "ing_1783539584721_10"
+      ]
+    },
+    {
+      "text": "Once the eggplants have cooled slightly, peel them and gently flatten them to about finger thickness using a fork.",
+      "ingredient_links": [
+        "ing_1783539584721_1"
+      ]
+    },
+    {
+      "text": "Mix flour, water, salt, pepper, and optional Mediterranean herbs into a batter. Coat the flattened eggplants in the batter, then coat them with panko breadcrumbs.",
+      "ingredient_links": [
+        "ing_1783539584721_2",
+        "ing_1783539584721_3",
+        "ing_1783539584721_4",
+        "ing_1783539584721_8",
+        "ing_1783539584721_9",
+        "ing_1783539584721_10",
+        "ing_1783539584721_1"
+      ]
+    },
+    {
+      "text": "Fry the breaded eggplants in olive oil until crispy and golden on both sides.",
+      "ingredient_links": [
+        "ing_1783539584721_1",
+        "ing_1783539584721_6"
+      ]
+    },
+    {
+      "text": "Spread the tomato sauce on a plate, place the eggplant schnitzel on top, and optionally garnish with Parmesan and fresh basil before serving.",
+      "ingredient_links": [
+        "ing_1783539584721_5",
+        "ing_1783539584721_12",
+        "ing_1783539584721_11"
+      ]
+    }
+  ],
+  "comments": [],
+  "created_at": "2026-07-07T12:00:00.000Z",
+  "updated_at": "2026-07-07T12:00:00.000Z"
+}
   ],
   "images": {}
 }
